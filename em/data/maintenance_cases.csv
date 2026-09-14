@@ -1,0 +1,9 @@
+case_id,machine_id,subsystem,component,symptom,failure_mode,inspection_finding,repair_action,outcome,operating_hours
+CASE-001,EXC-001,Hydraulic System,Hydraulic Pump,"Slow boom movement; weak digging force","Internal pump leakage","Hydraulic pressure dropped when oil temperature increased","Hydraulic pump replaced","Hydraulic performance restored",6810
+CASE-002,EXC-001,Hydraulic System,Hydraulic Cooler,"Slow operation; high oil temperature","Cooler restriction","Cooler passages severely blocked","Cooler cleaned","Oil temperature returned to normal",6752
+CASE-003,EXC-002,Hydraulic System,Hydraulic Filter,"Slow hydraulic response","Filter blockage","Hydraulic filter heavily contaminated","Filter replaced","Normal hydraulic response restored",7164
+CASE-004,EXC-002,Hydraulic System,Main Control Valve,"Delayed boom and arm movement","Valve spool problem","Spool movement restricted","Control valve serviced","Movement improved",7088
+CASE-005,EXC-003,Hydraulic System,Accumulator,"Unstable hydraulic operation","Low accumulator pressure","Accumulator pressure below specification","Accumulator recharged","System stability restored",5890
+CASE-006,EXC-003,Hydraulic System,Hydraulic Oil,"Weak hydraulic performance; overheating","Oil contamination","Oil dark and contaminated","Hydraulic oil replaced","Performance restored",5804
+CASE-007,EXC-004,Hydraulic System,Hydraulic Cylinder,"Weak digging force","Internal cylinder leakage","Cylinder showed internal leakage","Cylinder seals replaced","Digging force restored",8062
+CASE-008,EXC-005,Hydraulic System,Pilot System,"Slow control response","Low pilot pressure","Pilot pressure below expected range","Pilot circuit inspected and repaired","Control response restored",4612

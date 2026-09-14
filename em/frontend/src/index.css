@@ -1,0 +1,219 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    @apply bg-em-paper text-em-graphite font-sans;
+    font-feature-settings: "tnum" 0;
+  }
+
+  /* Technical figures align in columns when tabular */
+  .tnum {
+    font-variant-numeric: tabular-nums;
+  }
+
+  ::selection {
+    background: #F2E6CC;
+    color: #1B1E21;
+  }
+}
+
+@layer components {
+  /* ---------- Surfaces ---------- */
+  /* Small radius, hairline border, minimal shadow: engineered, not "card-shaped". */
+  .panel {
+    @apply bg-em-surface border border-em-line rounded-sm;
+  }
+
+  .panel-tint {
+    @apply bg-em-panel border border-em-line rounded-sm;
+  }
+
+  .panel-head {
+    @apply flex items-center justify-between gap-3 px-3.5 py-2.5 border-b border-em-line;
+  }
+
+  .tech-label {
+    @apply text-2xs font-semibold uppercase tracking-label text-em-steel;
+  }
+
+  .tech-value {
+    @apply font-mono text-2xs uppercase tracking-wider text-em-ink;
+  }
+
+  .rule {
+    @apply border-t border-em-line;
+  }
+
+  /* Drafting grid used behind hero / blueprint areas */
+  .blueprint {
+    background-image:
+      linear-gradient(to right, rgba(89, 97, 104, 0.10) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(89, 97, 104, 0.10) 1px, transparent 1px);
+    background-size: 28px 28px;
+  }
+
+  .blueprint-fine {
+    background-image:
+      linear-gradient(to right, rgba(89, 97, 104, 0.06) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(89, 97, 104, 0.06) 1px, transparent 1px);
+    background-size: 14px 14px;
+  }
+
+  /* Diagonal hazard hatch, used sparingly for fault/warning emphasis */
+  .hatch {
+    background-image: repeating-linear-gradient(
+      45deg,
+      rgba(169, 77, 69, 0.16) 0px,
+      rgba(169, 77, 69, 0.16) 6px,
+      transparent 6px,
+      transparent 12px
+    );
+  }
+
+  .hatch-amber {
+    background-image: repeating-linear-gradient(
+      45deg,
+      rgba(197, 139, 42, 0.18) 0px,
+      rgba(197, 139, 42, 0.18) 6px,
+      transparent 6px,
+      transparent 12px
+    );
+  }
+
+  /* ---------- Controls ---------- */
+  .field {
+    @apply w-full bg-em-surface border border-em-line rounded-sm px-3 py-2 text-sm text-em-graphite
+           placeholder:text-em-muted focus:outline-none focus:border-em-amber focus:ring-1 focus:ring-em-amber/30
+           transition-colors;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-sm px-3.5 py-2 text-xs font-semibold
+           uppercase tracking-wider transition-colors disabled:opacity-45 disabled:cursor-not-allowed;
+  }
+
+  .btn-amber {
+    @apply btn bg-em-amber text-white hover:bg-em-amberDark;
+  }
+
+  .btn-dark {
+    @apply btn bg-em-graphite text-white hover:bg-em-ink;
+  }
+
+  .btn-outline {
+    @apply btn bg-em-surface text-em-graphite border border-em-line hover:border-em-steel hover:bg-em-panel;
+  }
+
+  .btn-ghost {
+    @apply btn text-em-steel hover:text-em-graphite hover:bg-em-panel;
+  }
+
+  /* ---------- Status ---------- */
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-sm px-2 py-0.5 text-2xs font-semibold uppercase tracking-wider;
+  }
+
+  .chip-neutral { @apply chip bg-em-panel text-em-steel; }
+  .chip-amber   { @apply chip bg-em-amberSoft text-em-amberDark; }
+  .chip-success { @apply chip bg-em-successSoft text-em-success; }
+  .chip-fault   { @apply chip bg-em-faultSoft text-em-fault; }
+  .chip-navy    { @apply chip bg-em-navyTint text-em-navy; }
+
+  /* Navy engineering grid — used behind 3D hero */
+  .blueprint-navy {
+    background-image:
+      linear-gradient(to right, rgba(11,37,69,0.10) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(11,37,69,0.10) 1px, transparent 1px);
+    background-size: 32px 32px;
+  }
+
+  /* Machine loading state */
+  .machine-loading {
+    @apply flex flex-col items-center justify-center gap-3 bg-em-navyTint;
+  }
+
+  /* Navy active nav indicator */
+  .nav-active {
+    @apply text-em-navy;
+  }
+
+  /* Subtle moving indicator used for live/in-progress states */
+  .scan-track {
+    @apply relative overflow-hidden;
+  }
+
+  .scan-track::after {
+    content: "";
+    @apply absolute inset-y-0 -left-1/3 w-1/3 bg-gradient-to-r from-transparent via-em-amber/25 to-transparent;
+    animation: sweep 2.2s ease-in-out infinite;
+  }
+}
+
+/* ---------- Technical linework ---------- */
+/* Drafting-line draw-on used by the landing schematic. */
+.draw-line {
+  stroke-dasharray: var(--len, 1400);
+  stroke-dashoffset: var(--len, 1400);
+  animation: em-draw 2.4s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+}
+
+@keyframes em-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Dimension-line connector between pipeline stages */
+.connector {
+  background-image: linear-gradient(to bottom, rgba(89, 97, 104, 0.35) 50%, transparent 0);
+  background-size: 1px 8px;
+  background-repeat: repeat-y;
+}
+
+/* ---------- Scrollbars ---------- */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #EDECE7;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C7C6C0;
+  border: 2px solid #EDECE7;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #A9A8A2;
+}
+
+/* ---------- Motion preferences ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

@@ -1,0 +1,83 @@
+Hydraulics Troubleshooting Guide
+
+Table of Contents
+Condensed Table - Causes of Trouble and Their Effects in Hydraulic Installations
+Valves
+Cylinders
+Boosters
+Fluid Motors
+Vane Pumps
+Radial Piston Pumps
+Hydraulic Systems
+
+Condensed Table - Causes of Trouble and Their Effects in Hydraulic Installations:
+
+1. Mechanical Drive:
+- Excessive Noises: coupling wrongly aligned, coupling loose, coupling defective, loose mounting on pump/motor defective, transmission elements loose, pump/motor defective, wrong direction of rotation.
+- Insufficient Power and Torque: power transmission defective, V-belt or toothed belt slipping, direction of rotation wrong, motor defective, key sheared off at pump/motor.
+- Jerky Cylinder/Motor Movements: mechanical drive defects, control system defective, installation not bled completely.
+- Power Take-off Slow/Stops: power take-off blocked (piston seizure), electrical open circuit, limit switches defective.
+
+2. Suction Line:
+- Suction filter clogged/too small, suction line blocked or leaking, line has wrong dimensions (too many bends), fluid level too low.
+- Causes cavitation, excessive noises, foaming of fluid.
+
+3. Pump:
+- Turning too fast, max pump pressure exceeded, shaft seals defective, internal leakage due to wear, pump defective.
+- System excessively hot, bearing failure, leakage at oil seal, lack of volume.
+
+4. Pressure Line:
+- Line mountings missing/loose, lines wrongly laid, ID too small, excessive line resistance, pressure filter blocked.
+
+5. Return Line:
+- Return terminates above fluid level, return filter blocked, vortex effect due to wrongly laid lines.
+
+6. Pressure Valves:
+- Valve chatter due to dirt on valve seat, valve worn, broken spring, setting range too low, sequence valve setting wrong.
+
+7. Flow Control Valves:
+- Valve oscillates, flow noises, through flow set too low, valve blocked by dirt.
+
+8. Directional Control Valves:
+- Solenoid defective, voltage too low, dirty/worn valve seat, spool jams, internal leakage.
+
+9. Fluid:
+- Cavitation from high viscosity (low temp), fluid contaminated, foaming, viscosity too low causing leakage.
+
+10. Drive (Cylinder, Motor):
+- Wear of running surfaces, internal leakages (cylinder packing worn), stick-slip effect, piston seizure.
+
+EXPANDED TROUBLESHOOTING GUIDE:
+
+VALVES:
+- Valve spool response sluggish: Dirt in system -> Drain and flush system. Restricted drain -> Small fittings or pipe. Pilot pressure low -> Check pilot pressure system. Solenoid malfunction -> Check source voltage/frequency. Distortion of valve body -> Align body and piping.
+- Valve spool fails to move: Dirt in system -> Disassemble, clean, flush. Blocked drain -> Inspect for plugs/foreign matter. Pilot pressure off -> Check source of pilot pressure. Solenoid inoperative -> Check electrical source. Distortion -> Align body and piping. Improper re-assembly -> Use parts drawing to check proper assembly.
+- Valve produces undesired response: Improper installation connections -> Check installation drawings. Improper assembly -> Check parts/drawings. Spool installed backwards -> Reverse spool end for end.
+
+CYLINDERS:
+- Erratic action: Valves sticking/binding -> Check dirt, gummy deposit, oil contamination, air, worn parts. Cylinder sticking/binding -> Check dirt, misalignment, worn parts, defective packing. Sluggish operation during warm-up -> Oil viscosity too high at starting temp; use lower viscosity oil or immersion heater. Pilot control pressure too low -> Control line too small or metering choke valve faulty. Internal leakage in cylinder -> Repair/replace worn parts/loose packing. Air in system -> Bleed air, check intake level, check pump packing and intake line connections.
+
+BOOSTERS:
+- Booster not operating: Sequence valve set too high -> Back off pressure adjusting screw. Valve closed between pump and booster -> Check piping/valving. Valve closed between booster exhaust and reservoir -> Remove valving from line. Pump not delivering oil or developing pressure -> Check pump. Orifice plugged -> Clean orifice with air/wire. Pilot ram/piston tight -> Check tightness, dress with crocus cloth. Main operating ram jammed -> Renew main piston if scored. Check valves jammed -> Inspect 4 check valve assemblies.
+- Booster not developing sufficient pressure: Booster not operating -> See above. Excessive leakage of high pressure -> Check for leakage. Pump pressure not adjusted properly -> Adjust pump to desired pressure. Back pressure in exhaust line -> Inspect exhaust line restriction.
+- Booster operating rapidly/continuously without pressure: Incorrect valving -> Check circuit. Sequence valve incorrectly adjusted -> Adjust setting screw. Excessive high pressure leakage in valves/cylinder -> Locate leakage point. Excessive leakage within booster -> Tighten head bolts, lap/replace check valves.
+
+FLUID MOTORS:
+- Motor turning wrong direction: Incorrect piping -> Check circuit.
+- Motor not turning or low torque: Overload relief valve set low -> Reset relief valve. Relief valve sticking open -> Clean valve ball/piston. Recirculation to reservoir -> Repair/replace directional valve. Driven mechanism binding -> Check alignment. Pump insufficient pressure/volume -> Check pump. Yoke wrong angle -> Adjust hand wheel.
+- External oil leakage: Gaskets leaking -> Replace gasket, connect drain directly to reservoir.
+
+VANE PUMPS:
+- Excessive noise: Wrong direction of rotation -> Check arrow. Low oil level -> Fill reservoir. Wrong oil type -> Use recommended viscosity. Pump running too fast -> Reduce speed. Coupling misalignment -> Re-align within 0.005" TIR. Suction line air leak -> Tighten joints, check shaft seal. Restricted filter -> Clean/upsize filter. Air bound pump -> Bleed air from discharge. Worn pressure ring -> Replace. Sticking vane -> Check rotor/vanes for metal chips or sticky oil.
+- System excessively hot: Higher pressure than required -> Reduce pressure. Discharging through relief valve -> Remove unnecessary relief valve on compensated pump. Not unloaded during idle -> Use open center valve or two-stage governor. Insufficient cooling -> Install cooler, increase reservoir. Excessive slippage -> Tighten cover bolts/reshim.
+- Pump not delivering pressure: Pressure adjusting screw loose -> Tighten screw. Relief valve open -> Adjust or clean relief valve. Ring/governor piston sticking -> Inspect for dirt/scoring. Vanes stuck in rotor -> Inspect for chips/sticky oil.
+- Pump not delivering oil: Suction plugged -> Clean filter/strainer. Sheared key/shaft -> Replace. Pressure ring sticking -> Reshim cover.
+- Oil seal leakage: Abrasives on shaft -> Protect shaft. Damaged seal -> Replace oil seal. Coupling misalignment -> Re-align. Excessive case pressure -> Ensure full pipe size drain to reservoir.
+
+RADIAL PISTON PUMPS:
+- Excessive noise: Air leak in suction/seal -> Replace seal/tighten joints. Low oil level -> Fill reservoir. Restricted filter/line -> Clean filter, use proper pipe size. Piston hanging up -> Loosen piston cap, free piston.
+- System hot: Unloading device missing -> Install unloader. Insufficient cooling -> Install heat exchanger.
+- Bearing failure: Misalignment -> Re-align. Foreign matter -> Clean oil. Motor end play -> Eliminate thrust. Speed > 1800 rpm -> Reduce speed.
+
+HYDRAULIC SYSTEMS:
+- Excessive wear: Abrasive matter in oil -> Install filter / replace oil. Viscosity too low -> Use correct oil grade. Sustained high pressure -> Reduce pressure to minimum requirement. Drive misalignment -> Correct alignment. Air recirculation -> Remove air from system.

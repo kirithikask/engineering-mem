@@ -1,0 +1,1001 @@
+case_id,machine_id,component,failure,symptoms,resolution
+CASE-0001,MC-012,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup on a slope,Replaced accumulator bladder
+CASE-0002,MC-013,Oil Cooler,Cooler restriction,gradual power loss tied to running time after a long shift,Cleaned and flushed cooler
+CASE-0003,MC-006,Hydraulic Oil,Oil contamination,performance degraded steadily over a month when hot,"Drained oil, replaced breather cap, refilled"
+CASE-0004,MC-017,Hydraulic Line,Line restriction,slow function only on one side of the machine under load,Replaced worn hydraulic hose near swing joint
+CASE-0005,MC-012,Control Valve,Valve problem,bucket curl function completely unresponsive under load,Cleaned and adjusted spool valve linkage
+CASE-0006,MC-005,Hydraulic Filter,Filter blockage,filter warning light on dashboard at high RPM,Cleaned suction strainer contaminated with debris
+CASE-0007,MC-008,Arm Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked on a slope,Replaced cylinder holding valve
+CASE-0008,MC-007,Control Valve,Valve problem,bucket curl function completely unresponsive when cold,Replaced directional control valve
+CASE-0009,MC-009,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked during digging cycles,Replaced cylinder assembly
+CASE-0010,MC-001,Pilot System,Pilot pressure problem,levers feel light and unresponsive when cold,Replaced pilot filter
+CASE-0011,MC-019,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles at high RPM,Replaced fitting and line section
+CASE-0012,MC-014,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank during simultaneous functions,Replaced with correct oil grade
+CASE-0013,MC-002,Oil Cooler,Cooler restriction,machine slows down noticeably after a long shift,Replaced fan belt and cleaned fins
+CASE-0014,MC-014,Control Valve,Valve problem,bucket curl function completely unresponsive when hot,Cleaned and lubricated spool valve
+CASE-0015,MC-004,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup after refueling,Recharged accumulator to spec pressure
+CASE-0016,MC-018,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass during simultaneous functions,Drained and replaced hydraulic oil
+CASE-0017,MC-019,Oil Cooler,Cooler restriction,machine slows down noticeably intermittently,Pressure-washed cooler core
+CASE-0018,MC-004,Hydraulic Filter,Filter blockage,filter warning light on dashboard when cold,Replaced hydraulic filter element
+CASE-0019,MC-008,Oil Cooler,Cooler restriction,operation fine at start but slows when cold,Replaced seized cooling fan bearing
+CASE-0020,MC-004,Oil Cooler,Cooler restriction,gradual power loss tied to running time when hot,Cleaned and flushed cooler
+CASE-0021,MC-002,Hydraulic Pump,Internal pump leakage,reduced lifting capacity under load,Rebuilt main pump assembly
+CASE-0022,MC-005,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles on uneven ground,Replaced hydraulic hose
+CASE-0023,MC-011,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank when cold,Replaced with correct oil grade
+CASE-0024,MC-013,Hydraulic Oil,Oil contamination,performance degraded steadily over a month on uneven ground,"Drained oil, replaced breather cap, refilled"
+CASE-0025,MC-002,Pilot System,Pilot pressure problem,levers feel light and unresponsive when cold,Replaced pilot filter
+CASE-0026,MC-001,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup after refueling,Replaced pilot pressure reducing valve
+CASE-0027,MC-006,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal after refueling,Replaced pump seal kit
+CASE-0028,MC-011,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably during digging cycles,Repaired internal pump components
+CASE-0029,MC-016,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup when hot,Recharged accumulator to spec pressure
+CASE-0030,MC-020,Hydraulic Line,Line restriction,slow function only on one side of the machine on a slope,Replaced fitting and line section
+CASE-0031,MC-009,Control Valve,Valve problem,bucket curl function completely unresponsive at high RPM,Replaced valve seal kit
+CASE-0032,MC-015,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion on a slope,Cleaned suction strainer
+CASE-0033,MC-017,Hydraulic Oil,Oil contamination,performance degraded steadily over a month on a slope,Drained and replaced hydraulic oil
+CASE-0034,MC-017,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal during digging cycles,Replaced pilot filter
+CASE-0035,MC-018,Oil Cooler,Cooler restriction,machine slows down noticeably after refueling,Replaced fan belt and cleaned fins
+CASE-0036,MC-019,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load during digging cycles,Replaced pump seal kit and flushed system
+CASE-0037,MC-020,Control Valve,Valve problem,swing function delayed by a few seconds after refueling,Cleaned and lubricated spool valve
+CASE-0038,MC-020,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion during digging cycles,Replaced hydraulic filter element
+CASE-0039,MC-018,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after startup,Replaced pilot pressure reducing valve
+CASE-0040,MC-019,Arm Cylinder,Cylinder leakage,weak force compared to other functions during digging cycles,Replaced cylinder seal kit
+CASE-0041,MC-020,Control Valve,Valve problem,swing function delayed by a few seconds when hot,Cleaned and lubricated spool valve
+CASE-0042,MC-019,Hydraulic Line,Line restriction,intermittent loss of power only during turns intermittently,Replaced worn hydraulic hose near swing joint
+CASE-0043,MC-008,Control Valve,Valve problem,one function works fine but another is weak after a long shift,Cleaned and adjusted spool valve linkage
+CASE-0044,MC-013,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power when cold,Rebuilt main pump assembly
+CASE-0045,MC-017,Control Valve,Valve problem,one function works fine but another is weak on a slope,Cleaned and adjusted spool valve linkage
+CASE-0046,MC-009,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force at high RPM,Rebuilt main pump assembly
+CASE-0047,MC-009,Control Valve,Valve problem,arm drifts down on its own when idle at high RPM,Cleaned and lubricated spool valve
+CASE-0048,MC-002,Hydraulic Filter,Filter blockage,inconsistent response across functions after a long shift,Replaced return line filter
+CASE-0049,MC-014,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup under load,Repaired pilot pump
+CASE-0050,MC-004,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after a long shift,Replaced accumulator bladder
+CASE-0051,MC-016,Boom Cylinder,Cylinder leakage,creeps down over several minutes when parked after refueling,Replaced cylinder holding valve
+CASE-0052,MC-018,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power at high RPM,Rebuilt main pump assembly
+CASE-0053,MC-001,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue during digging cycles,Drained and replaced hydraulic oil
+CASE-0054,MC-013,Oil Cooler,Cooler restriction,performance drops as oil temperature rises when hot,Replaced cooling fan motor
+CASE-0055,MC-002,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after startup,Serviced accumulator and recharged pressure
+CASE-0056,MC-018,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising under load",Replaced fan belt and cleaned fins
+CASE-0057,MC-018,Control Valve,Valve problem,swing function delayed by a few seconds under load,Cleaned and lubricated spool valve
+CASE-0058,MC-009,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles during simultaneous functions,Replaced worn hydraulic hose near swing joint
+CASE-0059,MC-008,Hydraulic Line,Line restriction,intermittent loss of power only during turns on uneven ground,Replaced fitting and line section
+CASE-0060,MC-018,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load on a slope,Rebuilt main pump assembly
+CASE-0061,MC-014,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles after refueling,Replaced hydraulic hose
+CASE-0062,MC-013,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising when cold",Replaced seized cooling fan bearing
+CASE-0063,MC-003,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal under load,Replaced pilot filter
+CASE-0064,MC-003,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked after refueling,Replaced cylinder holding valve
+CASE-0065,MC-002,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue on uneven ground,Drained and replaced hydraulic oil
+CASE-0066,MC-013,Pilot System,Pilot pressure problem,levers feel light and unresponsive when hot,Repaired pilot pump
+CASE-0067,MC-013,Control Valve,Valve problem,bucket curl function completely unresponsive during simultaneous functions,Cleaned and adjusted spool valve linkage
+CASE-0068,MC-005,Hydraulic Line,Line restriction,intermittent loss of power only during turns after refueling,Replaced worn hydraulic hose near swing joint
+CASE-0069,MC-005,Oil Cooler,Cooler restriction,performance drops as oil temperature rises under load,Replaced fan belt and cleaned fins
+CASE-0070,MC-015,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup after refueling,Replaced pilot pressure reducing valve
+CASE-0071,MC-017,Hydraulic Line,Line restriction,intermittent loss of power only during turns when cold,Replaced worn hydraulic hose near swing joint
+CASE-0072,MC-016,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass at high RPM,Replaced with correct oil grade
+CASE-0073,MC-016,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions after startup,"Flushed system, replaced oil and filter"
+CASE-0074,MC-012,Pilot System,Pilot pressure problem,inconsistent control response across functions under load,Replaced pilot filter
+CASE-0075,MC-011,Control Valve,Valve problem,uneven response between functions on a slope,Cleaned and adjusted spool valve linkage
+CASE-0076,MC-008,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal on uneven ground,Replaced pump seal kit and flushed system
+CASE-0077,MC-016,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after startup,Replaced pilot filter
+CASE-0078,MC-014,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power when cold,Rebuilt main pump assembly
+CASE-0079,MC-015,Control Valve,Valve problem,boom does not respond smoothly to lever input during simultaneous functions,Cleaned and adjusted spool valve linkage
+CASE-0080,MC-017,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles after a long shift,Replaced fitting and line section
+CASE-0081,MC-008,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load under load,Repaired internal pump components
+CASE-0082,MC-016,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked after startup,Replaced cylinder holding valve
+CASE-0083,MC-008,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup at high RPM,Replaced pilot pressure reducing valve
+CASE-0084,MC-007,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue after startup,"Drained oil, replaced breather cap, refilled"
+CASE-0085,MC-016,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup at high RPM,Recharged accumulator to spec pressure
+CASE-0086,MC-009,Hydraulic Pump,Internal pump leakage,reduced lifting capacity during digging cycles,Replaced pump seal kit
+CASE-0087,MC-013,Pilot System,Pilot pressure problem,levers feel light and unresponsive during simultaneous functions,Replaced pilot pressure reducing valve
+CASE-0088,MC-013,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass under load,Replaced with correct oil grade
+CASE-0089,MC-011,Hydraulic Line,Line restriction,intermittent loss of power only during turns at high RPM,Replaced hydraulic hose
+CASE-0090,MC-018,Hydraulic Line,Line restriction,slow function only on one side of the machine after refueling,Replaced worn hydraulic hose near swing joint
+CASE-0091,MC-013,Hydraulic Oil,Oil contamination,performance degraded steadily over a month at high RPM,"Drained oil, replaced breather cap, refilled"
+CASE-0092,MC-006,Arm Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked when hot,Replaced cylinder assembly
+CASE-0093,MC-004,Boom Cylinder,Cylinder leakage,oil residue building up on the cylinder rod during digging cycles,Rebuilt cylinder
+CASE-0094,MC-020,Hydraulic Line,Line restriction,intermittent loss of power only during turns when hot,Replaced hydraulic hose
+CASE-0095,MC-011,Hydraulic Pump,Internal pump leakage,reduced lifting capacity after a long shift,Replaced pump seal kit and flushed system
+CASE-0096,MC-002,Pilot System,Pilot pressure problem,inconsistent control response across functions when cold,Replaced pilot pressure reducing valve
+CASE-0097,MC-013,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions during digging cycles,Flushed system and replaced oil
+CASE-0098,MC-001,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass when cold,Drained and replaced hydraulic oil
+CASE-0099,MC-016,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions at high RPM,"Drained oil, replaced breather cap, refilled"
+CASE-0100,MC-019,Boom Cylinder,Cylinder leakage,weak force compared to other functions during simultaneous functions,Replaced cylinder assembly
+CASE-0101,MC-006,Hydraulic Line,Line restriction,intermittent loss of power only during turns under load,Replaced hydraulic hose
+CASE-0102,MC-016,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling after refueling,Cleaned suction strainer contaminated with debris
+CASE-0103,MC-013,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions after startup,"Flushed system, replaced oil and filter"
+CASE-0104,MC-014,Hydraulic Line,Line restriction,slow function only on one side of the machine after startup,Replaced worn hydraulic hose near swing joint
+CASE-0105,MC-020,Hydraulic Line,Line restriction,slow function only on one side of the machine on uneven ground,Replaced worn hydraulic hose near swing joint
+CASE-0106,MC-018,Hydraulic Pump,Internal pump leakage,overall power loss across all functions after startup,Repaired internal pump components
+CASE-0107,MC-004,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion at high RPM,Replaced return line filter
+CASE-0108,MC-020,Pilot System,Pilot pressure problem,levers feel light and unresponsive after refueling,Repaired pilot pump
+CASE-0109,MC-011,Arm Cylinder,Cylinder leakage,weak force compared to other functions after startup,Replaced cylinder rod seal
+CASE-0110,MC-016,Accumulator,Accumulator pressure loss,delayed response when starting boom movement after refueling,Replaced accumulator bladder
+CASE-0111,MC-010,Control Valve,Valve problem,uneven response between functions after refueling,Cleaned and lubricated spool valve
+CASE-0112,MC-004,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load after a long shift,Rebuilt main pump assembly
+CASE-0113,MC-019,Control Valve,Valve problem,swing function delayed by a few seconds after startup,Cleaned and lubricated spool valve
+CASE-0114,MC-018,Hydraulic Filter,Filter blockage,inconsistent response across functions when hot,Replaced return line filter
+CASE-0115,MC-020,Hydraulic Filter,Filter blockage,gradual power loss over several days at high RPM,Cleaned suction strainer
+CASE-0116,MC-004,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass on uneven ground,"Drained oil, replaced breather cap, refilled"
+CASE-0117,MC-015,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup at high RPM,Serviced accumulator and recharged pressure
+CASE-0118,MC-017,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles during simultaneous functions,Replaced hydraulic hose
+CASE-0119,MC-006,Oil Cooler,Cooler restriction,machine slows down noticeably when hot,Cleaned and flushed cooler
+CASE-0120,MC-006,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions when cold,Replaced with correct oil grade
+CASE-0121,MC-020,Control Valve,Valve problem,one function works fine but another is weak after refueling,Replaced directional control valve
+CASE-0122,MC-015,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup during simultaneous functions,Replaced pilot pressure reducing valve
+CASE-0123,MC-015,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after startup,Replaced pilot pressure reducing valve
+CASE-0124,MC-002,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force during simultaneous functions,Replaced pump seal kit and flushed system
+CASE-0125,MC-013,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power after a long shift,Replaced pump seal kit and flushed system
+CASE-0126,MC-013,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal during digging cycles,Replaced pilot pressure reducing valve
+CASE-0127,MC-016,Oil Cooler,Cooler restriction,performance drops as oil temperature rises at high RPM,Replaced seized cooling fan bearing
+CASE-0128,MC-015,Control Valve,Valve problem,one function works fine but another is weak during simultaneous functions,Replaced directional control valve
+CASE-0129,MC-010,Oil Cooler,Cooler restriction,performance drops as oil temperature rises during simultaneous functions,Replaced cooling fan motor
+CASE-0130,MC-007,Oil Cooler,Cooler restriction,operation fine at start but slows after startup,Replaced fan belt and cleaned fins
+CASE-0131,MC-020,Hydraulic Filter,Filter blockage,filter warning light on dashboard at high RPM,Cleaned suction strainer contaminated with debris
+CASE-0132,MC-017,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles intermittently,Replaced hydraulic hose
+CASE-0133,MC-015,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising during digging cycles",Replaced cooling fan motor
+CASE-0134,MC-002,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup after startup,Recharged accumulator to spec pressure
+CASE-0135,MC-009,Oil Cooler,Cooler restriction,overheating warning light followed by slow response during digging cycles,Cleaned and flushed cooler
+CASE-0136,MC-007,Pilot System,Pilot pressure problem,inconsistent control response across functions after refueling,Replaced pilot filter
+CASE-0137,MC-002,Control Valve,Valve problem,one function works fine but another is weak intermittently,Cleaned and adjusted spool valve linkage
+CASE-0138,MC-001,Control Valve,Valve problem,bucket curl function completely unresponsive under load,Cleaned and lubricated spool valve
+CASE-0139,MC-015,Pilot System,Pilot pressure problem,inconsistent control response across functions when cold,Replaced pilot filter
+CASE-0140,MC-014,Hydraulic Line,Line restriction,slow function only on one side of the machine on a slope,Replaced worn hydraulic hose near swing joint
+CASE-0141,MC-006,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass intermittently,"Flushed system, replaced oil and filter"
+CASE-0142,MC-017,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions after startup,Drained and replaced hydraulic oil
+CASE-0143,MC-007,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force during simultaneous functions,Replaced pump wear plate
+CASE-0144,MC-013,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles when hot,Replaced fitting and line section
+CASE-0145,MC-006,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after refueling,Replaced accumulator bladder
+CASE-0146,MC-008,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal at high RPM,Repaired pilot pump
+CASE-0147,MC-018,Hydraulic Line,Line restriction,intermittent loss of power only during turns during simultaneous functions,Replaced fitting and line section
+CASE-0148,MC-020,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising at high RPM",Replaced cooling fan motor
+CASE-0149,MC-015,Hydraulic Line,Line restriction,intermittent loss of power only during turns during digging cycles,Replaced hydraulic hose
+CASE-0150,MC-017,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power after startup,Replaced pump seal kit and flushed system
+CASE-0151,MC-002,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup when cold,Replaced pilot pressure reducing valve
+CASE-0152,MC-014,Oil Cooler,Cooler restriction,operation fine at start but slows after startup,Cleaned and flushed cooler
+CASE-0153,MC-003,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function during simultaneous functions,Recharged accumulator to spec pressure
+CASE-0154,MC-003,Control Valve,Valve problem,bucket curl function completely unresponsive during digging cycles,Cleaned and lubricated spool valve
+CASE-0155,MC-017,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function when hot,Recharged accumulator to spec pressure
+CASE-0156,MC-015,Oil Cooler,Cooler restriction,machine slows down noticeably after startup,Replaced fan belt and cleaned fins
+CASE-0157,MC-015,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal during digging cycles,Replaced pump wear plate
+CASE-0158,MC-020,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function on a slope,Serviced accumulator and recharged pressure
+CASE-0159,MC-007,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank under load,"Drained oil, replaced breather cap, refilled"
+CASE-0160,MC-001,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass after startup,Flushed system and replaced oil
+CASE-0161,MC-004,Bucket Cylinder,Cylinder leakage,oil residue building up on the cylinder rod intermittently,Rebuilt cylinder
+CASE-0162,MC-008,Hydraulic Filter,Filter blockage,inconsistent response across functions during simultaneous functions,Replaced hydraulic filter element
+CASE-0163,MC-005,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank after startup,Replaced with correct oil grade
+CASE-0164,MC-019,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling after startup,Replaced hydraulic filter element
+CASE-0165,MC-008,Control Valve,Valve problem,uneven response between functions under load,Replaced directional control valve
+CASE-0166,MC-003,Control Valve,Valve problem,arm drifts down on its own when idle on uneven ground,Cleaned and adjusted spool valve linkage
+CASE-0167,MC-006,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load when cold,Repaired internal pump components
+CASE-0168,MC-019,Hydraulic Filter,Filter blockage,gradual power loss over several days after a long shift,Replaced hydraulic filter element
+CASE-0169,MC-011,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles under load,Replaced hydraulic hose
+CASE-0170,MC-001,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup under load,Replaced pilot pressure reducing valve
+CASE-0171,MC-020,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling when cold,Replaced hydraulic filter element
+CASE-0172,MC-015,Boom Cylinder,Cylinder leakage,weak force compared to other functions during simultaneous functions,Replaced cylinder assembly
+CASE-0173,MC-008,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function at high RPM,Serviced accumulator and recharged pressure
+CASE-0174,MC-003,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion when hot,Cleaned suction strainer contaminated with debris
+CASE-0175,MC-009,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising when hot",Pressure-washed cooler core
+CASE-0176,MC-016,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue on uneven ground,"Flushed system, replaced oil and filter"
+CASE-0177,MC-017,Hydraulic Filter,Filter blockage,filter warning light on dashboard on a slope,Replaced hydraulic filter element
+CASE-0178,MC-004,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup during digging cycles,Serviced accumulator and recharged pressure
+CASE-0179,MC-006,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal on uneven ground,Replaced pilot filter
+CASE-0180,MC-019,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles under load,Replaced worn hydraulic hose near swing joint
+CASE-0181,MC-008,Hydraulic Line,Line restriction,slow function only on one side of the machine during digging cycles,Replaced hydraulic hose
+CASE-0182,MC-003,Control Valve,Valve problem,boom does not respond smoothly to lever input on uneven ground,Cleaned and adjusted spool valve linkage
+CASE-0183,MC-019,Control Valve,Valve problem,one function works fine but another is weak under load,Cleaned and lubricated spool valve
+CASE-0184,MC-016,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup under load,Recharged accumulator to spec pressure
+CASE-0185,MC-012,Bucket Cylinder,Cylinder leakage,visible fluid leak near the cylinder after refueling,Replaced cylinder seal kit
+CASE-0186,MC-012,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup after startup,Replaced pilot pressure reducing valve
+CASE-0187,MC-003,Oil Cooler,Cooler restriction,operation fine at start but slows after startup,Cleaned and flushed cooler
+CASE-0188,MC-017,Oil Cooler,Cooler restriction,gradual power loss tied to running time during digging cycles,Pressure-washed cooler core
+CASE-0189,MC-003,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup after refueling,Replaced accumulator bladder
+CASE-0190,MC-011,Hydraulic Filter,Filter blockage,gradual power loss over several days on a slope,Cleaned suction strainer
+CASE-0191,MC-003,Hydraulic Line,Line restriction,intermittent loss of power only during turns when cold,Replaced hydraulic hose
+CASE-0192,MC-009,Hydraulic Line,Line restriction,slow function only on one side of the machine when hot,Replaced hydraulic hose
+CASE-0193,MC-013,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably when cold,Replaced pump seal kit
+CASE-0194,MC-013,Pilot System,Pilot pressure problem,inconsistent control response across functions when cold,Replaced pilot pressure reducing valve
+CASE-0195,MC-005,Accumulator,Accumulator pressure loss,delayed response when starting boom movement during simultaneous functions,Recharged accumulator to spec pressure
+CASE-0196,MC-001,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising on a slope",Pressure-washed cooler core
+CASE-0197,MC-015,Oil Cooler,Cooler restriction,gradual power loss tied to running time when hot,Replaced seized cooling fan bearing
+CASE-0198,MC-002,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions on a slope,Replaced hydraulic filter element
+CASE-0199,MC-006,Bucket Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked when cold,Replaced cylinder holding valve
+CASE-0200,MC-010,Bucket Cylinder,Cylinder leakage,creeps down over several minutes when parked after a long shift,Replaced cylinder assembly
+CASE-0201,MC-008,Hydraulic Filter,Filter blockage,gradual power loss over several days after refueling,Cleaned suction strainer
+CASE-0202,MC-016,Bucket Cylinder,Cylinder leakage,creeps down over several minutes when parked at high RPM,Replaced cylinder holding valve
+CASE-0203,MC-015,Bucket Cylinder,Cylinder leakage,oil residue building up on the cylinder rod on uneven ground,Rebuilt cylinder
+CASE-0204,MC-001,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load intermittently,Replaced pump seal kit and flushed system
+CASE-0205,MC-019,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions during digging cycles,"Drained oil, replaced breather cap, refilled"
+CASE-0206,MC-011,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup when cold,Replaced accumulator bladder
+CASE-0207,MC-001,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder on uneven ground,Replaced cylinder seal kit
+CASE-0208,MC-010,Control Valve,Valve problem,uneven response between functions during simultaneous functions,Cleaned and lubricated spool valve
+CASE-0209,MC-020,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup after startup,Serviced accumulator and recharged pressure
+CASE-0210,MC-006,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles after refueling,Replaced fitting and line section
+CASE-0211,MC-017,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank on a slope,Drained and replaced hydraulic oil
+CASE-0212,MC-005,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion after refueling,Replaced hydraulic filter element
+CASE-0213,MC-004,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling on uneven ground,Cleaned suction strainer contaminated with debris
+CASE-0214,MC-006,Hydraulic Line,Line restriction,slow function only on one side of the machine after refueling,Replaced fitting and line section
+CASE-0215,MC-018,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass after a long shift,Flushed system and replaced oil
+CASE-0216,MC-011,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles at high RPM,Replaced worn hydraulic hose near swing joint
+CASE-0217,MC-014,Control Valve,Valve problem,arm drifts down on its own when idle during simultaneous functions,Replaced directional control valve
+CASE-0218,MC-020,Bucket Cylinder,Cylinder leakage,visible fluid leak near the cylinder during digging cycles,Replaced cylinder seal kit
+CASE-0219,MC-020,Arm Cylinder,Cylinder leakage,creeps down over several minutes when parked during digging cycles,Replaced cylinder seal kit
+CASE-0220,MC-017,Control Valve,Valve problem,one function works fine but another is weak after a long shift,Replaced directional control valve
+CASE-0221,MC-006,Hydraulic Filter,Filter blockage,gradual power loss over several days on uneven ground,Cleaned suction strainer
+CASE-0222,MC-005,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue under load,Replaced with correct oil grade
+CASE-0223,MC-008,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function when hot,Serviced accumulator and recharged pressure
+CASE-0224,MC-019,Oil Cooler,Cooler restriction,operation fine at start but slows on a slope,Replaced seized cooling fan bearing
+CASE-0225,MC-003,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function after refueling,Recharged accumulator to spec pressure
+CASE-0226,MC-019,Hydraulic Filter,Filter blockage,gradual power loss over several days at high RPM,Replaced return line filter
+CASE-0227,MC-009,Control Valve,Valve problem,one function works fine but another is weak on a slope,Replaced directional control valve
+CASE-0228,MC-018,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function during digging cycles,Replaced accumulator bladder
+CASE-0229,MC-013,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load at high RPM,Replaced pump seal kit and flushed system
+CASE-0230,MC-016,Hydraulic Line,Line restriction,slow function only on one side of the machine during digging cycles,Replaced worn hydraulic hose near swing joint
+CASE-0231,MC-009,Control Valve,Valve problem,swing function delayed by a few seconds after a long shift,Replaced valve seal kit
+CASE-0232,MC-012,Boom Cylinder,Cylinder leakage,weak force compared to other functions at high RPM,Replaced cylinder rod seal
+CASE-0233,MC-007,Hydraulic Filter,Filter blockage,gradual power loss over several days when cold,Replaced hydraulic filter element
+CASE-0234,MC-004,Bucket Cylinder,Cylinder leakage,creeps down over several minutes when parked on a slope,Replaced cylinder seal kit
+CASE-0235,MC-005,Pilot System,Pilot pressure problem,inconsistent control response across functions under load,Repaired pilot pump
+CASE-0236,MC-005,Control Valve,Valve problem,boom does not respond smoothly to lever input after startup,Cleaned and adjusted spool valve linkage
+CASE-0237,MC-019,Arm Cylinder,Cylinder leakage,visible fluid leak near the cylinder during digging cycles,Replaced cylinder seal kit
+CASE-0238,MC-005,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power intermittently,Repaired internal pump components
+CASE-0239,MC-015,Pilot System,Pilot pressure problem,inconsistent control response across functions during digging cycles,Replaced pilot filter
+CASE-0240,MC-007,Control Valve,Valve problem,arm drifts down on its own when idle when cold,Replaced directional control valve
+CASE-0241,MC-013,Control Valve,Valve problem,arm drifts down on its own when idle when cold,Replaced directional control valve
+CASE-0242,MC-012,Hydraulic Pump,Internal pump leakage,overall power loss across all functions after a long shift,Rebuilt main pump assembly
+CASE-0243,MC-014,Hydraulic Line,Line restriction,slow function only on one side of the machine during digging cycles,Replaced hydraulic hose
+CASE-0244,MC-013,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load after refueling,Rebuilt main pump assembly
+CASE-0245,MC-017,Pilot System,Pilot pressure problem,levers feel light and unresponsive after a long shift,Repaired pilot pump
+CASE-0246,MC-008,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions on uneven ground,Replaced with correct oil grade
+CASE-0247,MC-004,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue on a slope,Flushed system and replaced oil
+CASE-0248,MC-020,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles on a slope,Replaced hydraulic hose
+CASE-0249,MC-001,Pilot System,Pilot pressure problem,levers feel light and unresponsive after refueling,Replaced pilot pressure reducing valve
+CASE-0250,MC-020,Oil Cooler,Cooler restriction,gradual power loss tied to running time on a slope,Replaced fan belt and cleaned fins
+CASE-0251,MC-006,Accumulator,Accumulator pressure loss,delayed response when starting boom movement after refueling,Replaced accumulator bladder
+CASE-0252,MC-017,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup during digging cycles,Serviced accumulator and recharged pressure
+CASE-0253,MC-013,Boom Cylinder,Cylinder leakage,weak force compared to other functions on uneven ground,Replaced cylinder assembly
+CASE-0254,MC-010,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue when cold,"Flushed system, replaced oil and filter"
+CASE-0255,MC-015,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load after startup,Replaced pump seal kit and flushed system
+CASE-0256,MC-007,Control Valve,Valve problem,arm drifts down on its own when idle on a slope,Cleaned and adjusted spool valve linkage
+CASE-0257,MC-001,Pilot System,Pilot pressure problem,levers feel light and unresponsive intermittently,Repaired pilot pump
+CASE-0258,MC-002,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving on uneven ground,Replaced accumulator bladder
+CASE-0259,MC-002,Accumulator,Accumulator pressure loss,delayed response when starting boom movement during digging cycles,Replaced accumulator bladder
+CASE-0260,MC-005,Hydraulic Pump,Internal pump leakage,reduced lifting capacity at high RPM,Replaced pump seal kit
+CASE-0261,MC-014,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank when hot,Flushed system and replaced oil
+CASE-0262,MC-001,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue when hot,Flushed system and replaced oil
+CASE-0263,MC-004,Arm Cylinder,Cylinder leakage,creeps down over several minutes when parked after startup,Replaced cylinder holding valve
+CASE-0264,MC-005,Hydraulic Pump,Internal pump leakage,reduced lifting capacity after a long shift,Repaired internal pump components
+CASE-0265,MC-009,Bucket Cylinder,Cylinder leakage,oil residue building up on the cylinder rod under load,Replaced cylinder holding valve
+CASE-0266,MC-010,Accumulator,Accumulator pressure loss,delayed response when starting boom movement after startup,Replaced accumulator bladder
+CASE-0267,MC-013,Bucket Cylinder,Cylinder leakage,visible fluid leak near the cylinder during simultaneous functions,Replaced cylinder holding valve
+CASE-0268,MC-015,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass when hot,"Drained oil, replaced breather cap, refilled"
+CASE-0269,MC-017,Hydraulic Pump,Internal pump leakage,overall power loss across all functions at high RPM,Replaced pump seal kit and flushed system
+CASE-0270,MC-005,Hydraulic Pump,Internal pump leakage,overall power loss across all functions intermittently,Replaced pump wear plate
+CASE-0271,MC-018,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup during digging cycles,Replaced pilot pressure reducing valve
+CASE-0272,MC-009,Control Valve,Valve problem,one function works fine but another is weak at high RPM,Cleaned and adjusted spool valve linkage
+CASE-0273,MC-013,Control Valve,Valve problem,swing function delayed by a few seconds when hot,Cleaned and lubricated spool valve
+CASE-0274,MC-003,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass intermittently,"Drained oil, replaced breather cap, refilled"
+CASE-0275,MC-001,Hydraulic Filter,Filter blockage,inconsistent response across functions on a slope,Cleaned suction strainer contaminated with debris
+CASE-0276,MC-013,Bucket Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked when hot,Replaced cylinder rod seal
+CASE-0277,MC-005,Hydraulic Filter,Filter blockage,gradual power loss over several days intermittently,Replaced hydraulic filter element
+CASE-0278,MC-019,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling during simultaneous functions,Cleaned suction strainer
+CASE-0279,MC-020,Pilot System,Pilot pressure problem,inconsistent control response across functions on a slope,Replaced pilot filter
+CASE-0280,MC-009,Oil Cooler,Cooler restriction,overheating warning light followed by slow response under load,Pressure-washed cooler core
+CASE-0281,MC-012,Bucket Cylinder,Cylinder leakage,creeps down over several minutes when parked after refueling,Replaced cylinder seal kit
+CASE-0282,MC-016,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force intermittently,Replaced pump seal kit
+CASE-0283,MC-009,Hydraulic Filter,Filter blockage,filter warning light on dashboard after refueling,Cleaned suction strainer contaminated with debris
+CASE-0284,MC-019,Bucket Cylinder,Cylinder leakage,oil residue building up on the cylinder rod at high RPM,Replaced cylinder holding valve
+CASE-0285,MC-014,Control Valve,Valve problem,bucket curl function completely unresponsive after a long shift,Replaced directional control valve
+CASE-0286,MC-013,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder after refueling,Replaced cylinder rod seal
+CASE-0287,MC-018,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising after refueling",Cleaned and flushed cooler
+CASE-0288,MC-018,Boom Cylinder,Cylinder leakage,creeps down over several minutes when parked when cold,Replaced cylinder assembly
+CASE-0289,MC-016,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup intermittently,Replaced pilot pressure reducing valve
+CASE-0290,MC-013,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup when cold,Repaired pilot pump
+CASE-0291,MC-013,Hydraulic Filter,Filter blockage,inconsistent response across functions on a slope,Replaced hydraulic filter element
+CASE-0292,MC-010,Oil Cooler,Cooler restriction,gradual power loss tied to running time during simultaneous functions,Replaced cooling fan motor
+CASE-0293,MC-018,Bucket Cylinder,Cylinder leakage,creeps down over several minutes when parked during simultaneous functions,Replaced cylinder assembly
+CASE-0294,MC-010,Accumulator,Accumulator pressure loss,delayed response when starting boom movement intermittently,Recharged accumulator to spec pressure
+CASE-0295,MC-001,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank on a slope,Replaced with correct oil grade
+CASE-0296,MC-014,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup during simultaneous functions,Serviced accumulator and recharged pressure
+CASE-0297,MC-018,Hydraulic Pump,Internal pump leakage,reduced lifting capacity when hot,Replaced pump seal kit and flushed system
+CASE-0298,MC-003,Pilot System,Pilot pressure problem,levers feel light and unresponsive after refueling,Replaced pilot filter
+CASE-0299,MC-012,Bucket Cylinder,Cylinder leakage,oil residue building up on the cylinder rod on uneven ground,Rebuilt cylinder
+CASE-0300,MC-018,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue at high RPM,Flushed system and replaced oil
+CASE-0301,MC-015,Hydraulic Filter,Filter blockage,filter warning light on dashboard at high RPM,Cleaned suction strainer
+CASE-0302,MC-010,Boom Cylinder,Cylinder leakage,creeps down over several minutes when parked when cold,Replaced cylinder seal kit
+CASE-0303,MC-014,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles after a long shift,Replaced worn hydraulic hose near swing joint
+CASE-0304,MC-015,Oil Cooler,Cooler restriction,performance drops as oil temperature rises at high RPM,Replaced fan belt and cleaned fins
+CASE-0305,MC-015,Pilot System,Pilot pressure problem,levers feel light and unresponsive after a long shift,Replaced pilot pressure reducing valve
+CASE-0306,MC-008,Hydraulic Filter,Filter blockage,inconsistent response across functions on uneven ground,Replaced hydraulic filter element
+CASE-0307,MC-020,Control Valve,Valve problem,uneven response between functions during digging cycles,Replaced directional control valve
+CASE-0308,MC-018,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function during simultaneous functions,Recharged accumulator to spec pressure
+CASE-0309,MC-003,Control Valve,Valve problem,one function works fine but another is weak at high RPM,Cleaned and adjusted spool valve linkage
+CASE-0310,MC-014,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions during digging cycles,"Drained oil, replaced breather cap, refilled"
+CASE-0311,MC-011,Arm Cylinder,Cylinder leakage,weak force compared to other functions after a long shift,Rebuilt cylinder
+CASE-0312,MC-010,Control Valve,Valve problem,boom does not respond smoothly to lever input intermittently,Replaced directional control valve
+CASE-0313,MC-002,Arm Cylinder,Cylinder leakage,oil residue building up on the cylinder rod intermittently,Replaced cylinder assembly
+CASE-0314,MC-014,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving during digging cycles,Replaced accumulator bladder
+CASE-0315,MC-016,Control Valve,Valve problem,swing function delayed by a few seconds during simultaneous functions,Cleaned and lubricated spool valve
+CASE-0316,MC-012,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank on uneven ground,"Flushed system, replaced oil and filter"
+CASE-0317,MC-016,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion on a slope,Cleaned suction strainer contaminated with debris
+CASE-0318,MC-004,Boom Cylinder,Cylinder leakage,creeps down over several minutes when parked when hot,Replaced cylinder seal kit
+CASE-0319,MC-009,Hydraulic Pump,Internal pump leakage,overall power loss across all functions intermittently,Replaced pump wear plate
+CASE-0320,MC-014,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising when cold",Replaced seized cooling fan bearing
+CASE-0321,MC-016,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after a long shift,Replaced accumulator bladder
+CASE-0322,MC-006,Control Valve,Valve problem,bucket curl function completely unresponsive on a slope,Replaced valve seal kit
+CASE-0323,MC-016,Hydraulic Line,Line restriction,intermittent loss of power only during turns on a slope,Replaced hydraulic hose
+CASE-0324,MC-014,Hydraulic Filter,Filter blockage,gradual power loss over several days on uneven ground,Cleaned suction strainer
+CASE-0325,MC-005,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles after refueling,Replaced worn hydraulic hose near swing joint
+CASE-0326,MC-015,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue when hot,"Drained oil, replaced breather cap, refilled"
+CASE-0327,MC-014,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably during simultaneous functions,Replaced pump wear plate
+CASE-0328,MC-010,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles on a slope,Replaced hydraulic hose
+CASE-0329,MC-012,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling after startup,Replaced hydraulic filter element
+CASE-0330,MC-013,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue on uneven ground,Drained and replaced hydraulic oil
+CASE-0331,MC-007,Oil Cooler,Cooler restriction,overheating warning light followed by slow response after refueling,Pressure-washed cooler core
+CASE-0332,MC-015,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load when hot,Repaired internal pump components
+CASE-0333,MC-010,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal when cold,Rebuilt main pump assembly
+CASE-0334,MC-004,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after a long shift,Replaced pilot filter
+CASE-0335,MC-010,Hydraulic Pump,Internal pump leakage,reduced lifting capacity after startup,Replaced pump wear plate
+CASE-0336,MC-001,Control Valve,Valve problem,uneven response between functions at high RPM,Cleaned and lubricated spool valve
+CASE-0337,MC-005,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably during digging cycles,Rebuilt main pump assembly
+CASE-0338,MC-017,Oil Cooler,Cooler restriction,gradual power loss tied to running time when hot,Replaced seized cooling fan bearing
+CASE-0339,MC-001,Control Valve,Valve problem,uneven response between functions during digging cycles,Cleaned and adjusted spool valve linkage
+CASE-0340,MC-011,Arm Cylinder,Cylinder leakage,visible fluid leak near the cylinder on a slope,Replaced cylinder assembly
+CASE-0341,MC-013,Hydraulic Line,Line restriction,intermittent loss of power only during turns when cold,Replaced fitting and line section
+CASE-0342,MC-005,Control Valve,Valve problem,boom does not respond smoothly to lever input during digging cycles,Cleaned and lubricated spool valve
+CASE-0343,MC-003,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles on a slope,Replaced worn hydraulic hose near swing joint
+CASE-0344,MC-007,Hydraulic Filter,Filter blockage,gradual power loss over several days during digging cycles,Cleaned suction strainer
+CASE-0345,MC-001,Bucket Cylinder,Cylinder leakage,creeps down over several minutes when parked during simultaneous functions,Rebuilt cylinder
+CASE-0346,MC-017,Hydraulic Line,Line restriction,slow function only on one side of the machine at high RPM,Replaced fitting and line section
+CASE-0347,MC-020,Arm Cylinder,Cylinder leakage,creeps down over several minutes when parked after startup,Replaced cylinder seal kit
+CASE-0348,MC-007,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup during digging cycles,Recharged accumulator to spec pressure
+CASE-0349,MC-020,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably intermittently,Replaced pump seal kit and flushed system
+CASE-0350,MC-002,Boom Cylinder,Cylinder leakage,oil residue building up on the cylinder rod during simultaneous functions,Replaced cylinder rod seal
+CASE-0351,MC-002,Oil Cooler,Cooler restriction,operation fine at start but slows during digging cycles,Pressure-washed cooler core
+CASE-0352,MC-020,Bucket Cylinder,Cylinder leakage,weak force compared to other functions during digging cycles,Replaced cylinder holding valve
+CASE-0353,MC-002,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank after refueling,Flushed system and replaced oil
+CASE-0354,MC-007,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank at high RPM,"Flushed system, replaced oil and filter"
+CASE-0355,MC-014,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal when hot,Replaced pump seal kit
+CASE-0356,MC-020,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles at high RPM,Replaced worn hydraulic hose near swing joint
+CASE-0357,MC-020,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup under load,Replaced accumulator bladder
+CASE-0358,MC-002,Control Valve,Valve problem,arm drifts down on its own when idle during digging cycles,Cleaned and adjusted spool valve linkage
+CASE-0359,MC-017,Oil Cooler,Cooler restriction,gradual power loss tied to running time intermittently,Replaced seized cooling fan bearing
+CASE-0360,MC-010,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder under load,Replaced cylinder rod seal
+CASE-0361,MC-004,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions after startup,"Flushed system, replaced oil and filter"
+CASE-0362,MC-005,Pilot System,Pilot pressure problem,inconsistent control response across functions intermittently,Repaired pilot pump
+CASE-0363,MC-005,Boom Cylinder,Cylinder leakage,oil residue building up on the cylinder rod on a slope,Rebuilt cylinder
+CASE-0364,MC-015,Hydraulic Line,Line restriction,slow function only on one side of the machine on uneven ground,Replaced worn hydraulic hose near swing joint
+CASE-0365,MC-017,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load after refueling,Repaired internal pump components
+CASE-0366,MC-012,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder on a slope,Rebuilt cylinder
+CASE-0367,MC-012,Oil Cooler,Cooler restriction,overheating warning light followed by slow response when hot,Replaced cooling fan motor
+CASE-0368,MC-008,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions after a long shift,Replaced return line filter
+CASE-0369,MC-006,Pilot System,Pilot pressure problem,inconsistent control response across functions under load,Replaced pilot pressure reducing valve
+CASE-0370,MC-009,Hydraulic Line,Line restriction,intermittent loss of power only during turns when hot,Replaced worn hydraulic hose near swing joint
+CASE-0371,MC-012,Oil Cooler,Cooler restriction,operation fine at start but slows under load,Replaced cooling fan motor
+CASE-0372,MC-019,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles on uneven ground,Replaced hydraulic hose
+CASE-0373,MC-008,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load on uneven ground,Replaced pump seal kit and flushed system
+CASE-0374,MC-009,Pilot System,Pilot pressure problem,inconsistent control response across functions when cold,Repaired pilot pump
+CASE-0375,MC-015,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force when cold,Replaced pump seal kit
+CASE-0376,MC-018,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load during simultaneous functions,Replaced pump seal kit
+CASE-0377,MC-001,Hydraulic Pump,Internal pump leakage,reduced lifting capacity after refueling,Replaced pump seal kit
+CASE-0378,MC-014,Control Valve,Valve problem,uneven response between functions when hot,Cleaned and lubricated spool valve
+CASE-0379,MC-008,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup after refueling,Serviced accumulator and recharged pressure
+CASE-0380,MC-020,Oil Cooler,Cooler restriction,operation fine at start but slows during digging cycles,Replaced seized cooling fan bearing
+CASE-0381,MC-005,Accumulator,Accumulator pressure loss,delayed response when starting boom movement after a long shift,Serviced accumulator and recharged pressure
+CASE-0382,MC-001,Control Valve,Valve problem,bucket curl function completely unresponsive after refueling,Cleaned and adjusted spool valve linkage
+CASE-0383,MC-018,Hydraulic Line,Line restriction,slow function only on one side of the machine on uneven ground,Replaced hydraulic hose
+CASE-0384,MC-013,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force after startup,Rebuilt main pump assembly
+CASE-0385,MC-017,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles under load,Replaced fitting and line section
+CASE-0386,MC-004,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup during simultaneous functions,Repaired pilot pump
+CASE-0387,MC-016,Accumulator,Accumulator pressure loss,delayed response when starting boom movement when hot,Replaced accumulator bladder
+CASE-0388,MC-012,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal intermittently,Replaced pilot pressure reducing valve
+CASE-0389,MC-014,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load after startup,Rebuilt main pump assembly
+CASE-0390,MC-009,Accumulator,Accumulator pressure loss,delayed response when starting boom movement after a long shift,Replaced accumulator bladder
+CASE-0391,MC-004,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank during digging cycles,Flushed system and replaced oil
+CASE-0392,MC-010,Control Valve,Valve problem,one function works fine but another is weak on a slope,Cleaned and adjusted spool valve linkage
+CASE-0393,MC-008,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup during digging cycles,Replaced pilot filter
+CASE-0394,MC-015,Hydraulic Filter,Filter blockage,inconsistent response across functions intermittently,Replaced hydraulic filter element
+CASE-0395,MC-008,Oil Cooler,Cooler restriction,performance drops as oil temperature rises on a slope,Replaced seized cooling fan bearing
+CASE-0396,MC-007,Hydraulic Filter,Filter blockage,gradual power loss over several days during simultaneous functions,Cleaned suction strainer contaminated with debris
+CASE-0397,MC-013,Hydraulic Line,Line restriction,slow function only on one side of the machine at high RPM,Replaced worn hydraulic hose near swing joint
+CASE-0398,MC-017,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions on uneven ground,Replaced with correct oil grade
+CASE-0399,MC-016,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank when cold,"Drained oil, replaced breather cap, refilled"
+CASE-0400,MC-008,Pilot System,Pilot pressure problem,levers feel light and unresponsive on uneven ground,Replaced pilot pressure reducing valve
+CASE-0401,MC-018,Oil Cooler,Cooler restriction,performance drops as oil temperature rises during digging cycles,Replaced seized cooling fan bearing
+CASE-0402,MC-016,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles on a slope,Replaced hydraulic hose
+CASE-0403,MC-017,Pilot System,Pilot pressure problem,levers feel light and unresponsive after startup,Replaced pilot pressure reducing valve
+CASE-0404,MC-010,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function on uneven ground,Serviced accumulator and recharged pressure
+CASE-0405,MC-001,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup after refueling,Recharged accumulator to spec pressure
+CASE-0406,MC-016,Hydraulic Oil,Oil contamination,performance degraded steadily over a month after startup,"Flushed system, replaced oil and filter"
+CASE-0407,MC-007,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load when hot,Replaced pump seal kit
+CASE-0408,MC-019,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass on a slope,Drained and replaced hydraulic oil
+CASE-0409,MC-017,Oil Cooler,Cooler restriction,performance drops as oil temperature rises during simultaneous functions,Replaced fan belt and cleaned fins
+CASE-0410,MC-012,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force after a long shift,Repaired internal pump components
+CASE-0411,MC-013,Hydraulic Filter,Filter blockage,inconsistent response across functions after refueling,Replaced hydraulic filter element
+CASE-0412,MC-004,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force under load,Replaced pump seal kit and flushed system
+CASE-0413,MC-014,Oil Cooler,Cooler restriction,performance drops as oil temperature rises intermittently,Replaced cooling fan motor
+CASE-0414,MC-010,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue when hot,Replaced with correct oil grade
+CASE-0415,MC-006,Bucket Cylinder,Cylinder leakage,creeps down over several minutes when parked on a slope,Rebuilt cylinder
+CASE-0416,MC-020,Oil Cooler,Cooler restriction,operation fine at start but slows on a slope,Cleaned and flushed cooler
+CASE-0417,MC-013,Hydraulic Line,Line restriction,slow function only on one side of the machine during digging cycles,Replaced fitting and line section
+CASE-0418,MC-011,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power on uneven ground,Rebuilt main pump assembly
+CASE-0419,MC-017,Arm Cylinder,Cylinder leakage,weak force compared to other functions at high RPM,Replaced cylinder seal kit
+CASE-0420,MC-016,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving on uneven ground,Replaced accumulator bladder
+CASE-0421,MC-014,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup on uneven ground,Serviced accumulator and recharged pressure
+CASE-0422,MC-020,Hydraulic Pump,Internal pump leakage,overall power loss across all functions after startup,Replaced pump wear plate
+CASE-0423,MC-019,Hydraulic Pump,Internal pump leakage,reduced lifting capacity after refueling,Rebuilt main pump assembly
+CASE-0424,MC-008,Hydraulic Line,Line restriction,intermittent loss of power only during turns after startup,Replaced fitting and line section
+CASE-0425,MC-008,Control Valve,Valve problem,bucket curl function completely unresponsive on uneven ground,Cleaned and adjusted spool valve linkage
+CASE-0426,MC-006,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving at high RPM,Recharged accumulator to spec pressure
+CASE-0427,MC-013,Pilot System,Pilot pressure problem,levers feel light and unresponsive at high RPM,Replaced pilot pressure reducing valve
+CASE-0428,MC-002,Hydraulic Filter,Filter blockage,inconsistent response across functions during simultaneous functions,Cleaned suction strainer contaminated with debris
+CASE-0429,MC-020,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function under load,Replaced accumulator bladder
+CASE-0430,MC-019,Control Valve,Valve problem,boom does not respond smoothly to lever input at high RPM,Cleaned and lubricated spool valve
+CASE-0431,MC-003,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder when hot,Rebuilt cylinder
+CASE-0432,MC-016,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles when cold,Replaced hydraulic hose
+CASE-0433,MC-010,Hydraulic Line,Line restriction,intermittent loss of power only during turns intermittently,Replaced hydraulic hose
+CASE-0434,MC-006,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function after startup,Recharged accumulator to spec pressure
+CASE-0435,MC-006,Arm Cylinder,Cylinder leakage,creeps down over several minutes when parked during digging cycles,Replaced cylinder assembly
+CASE-0436,MC-016,Control Valve,Valve problem,bucket curl function completely unresponsive when hot,Replaced valve seal kit
+CASE-0437,MC-004,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising during simultaneous functions",Replaced fan belt and cleaned fins
+CASE-0438,MC-017,Oil Cooler,Cooler restriction,overheating warning light followed by slow response under load,Cleaned and flushed cooler
+CASE-0439,MC-020,Hydraulic Filter,Filter blockage,filter warning light on dashboard under load,Replaced return line filter
+CASE-0440,MC-016,Boom Cylinder,Cylinder leakage,weak force compared to other functions when hot,Replaced cylinder seal kit
+CASE-0441,MC-014,Oil Cooler,Cooler restriction,gradual power loss tied to running time when hot,Replaced fan belt and cleaned fins
+CASE-0442,MC-011,Oil Cooler,Cooler restriction,machine slows down noticeably when cold,Replaced cooling fan motor
+CASE-0443,MC-005,Oil Cooler,Cooler restriction,operation fine at start but slows intermittently,Cleaned and flushed cooler
+CASE-0444,MC-003,Hydraulic Filter,Filter blockage,inconsistent response across functions during simultaneous functions,Cleaned suction strainer contaminated with debris
+CASE-0445,MC-008,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion on a slope,Replaced hydraulic filter element
+CASE-0446,MC-003,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank during digging cycles,"Drained oil, replaced breather cap, refilled"
+CASE-0447,MC-004,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function intermittently,Serviced accumulator and recharged pressure
+CASE-0448,MC-007,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling after a long shift,Replaced hydraulic filter element
+CASE-0449,MC-012,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup after a long shift,Replaced pilot pressure reducing valve
+CASE-0450,MC-001,Hydraulic Line,Line restriction,intermittent loss of power only during turns on uneven ground,Replaced fitting and line section
+CASE-0451,MC-018,Control Valve,Valve problem,boom does not respond smoothly to lever input after startup,Cleaned and adjusted spool valve linkage
+CASE-0452,MC-017,Oil Cooler,Cooler restriction,operation fine at start but slows on uneven ground,Cleaned and flushed cooler
+CASE-0453,MC-007,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably during digging cycles,Replaced pump wear plate
+CASE-0454,MC-016,Accumulator,Accumulator pressure loss,delayed response when starting boom movement after startup,Recharged accumulator to spec pressure
+CASE-0455,MC-004,Hydraulic Filter,Filter blockage,inconsistent response across functions on uneven ground,Replaced return line filter
+CASE-0456,MC-007,Control Valve,Valve problem,bucket curl function completely unresponsive when hot,Replaced valve seal kit
+CASE-0457,MC-018,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup intermittently,Replaced pilot filter
+CASE-0458,MC-020,Arm Cylinder,Cylinder leakage,oil residue building up on the cylinder rod during digging cycles,Rebuilt cylinder
+CASE-0459,MC-009,Oil Cooler,Cooler restriction,overheating warning light followed by slow response when cold,Pressure-washed cooler core
+CASE-0460,MC-014,Hydraulic Oil,Oil contamination,performance degraded steadily over a month at high RPM,Flushed system and replaced oil
+CASE-0461,MC-006,Hydraulic Line,Line restriction,slow function only on one side of the machine during digging cycles,Replaced fitting and line section
+CASE-0462,MC-010,Arm Cylinder,Cylinder leakage,oil residue building up on the cylinder rod under load,Replaced cylinder rod seal
+CASE-0463,MC-005,Control Valve,Valve problem,arm drifts down on its own when idle during digging cycles,Cleaned and adjusted spool valve linkage
+CASE-0464,MC-010,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling when cold,Cleaned suction strainer contaminated with debris
+CASE-0465,MC-014,Hydraulic Line,Line restriction,slow function only on one side of the machine after a long shift,Replaced fitting and line section
+CASE-0466,MC-008,Bucket Cylinder,Cylinder leakage,visible fluid leak near the cylinder intermittently,Replaced cylinder rod seal
+CASE-0467,MC-010,Arm Cylinder,Cylinder leakage,creeps down over several minutes when parked after startup,Replaced cylinder seal kit
+CASE-0468,MC-011,Hydraulic Filter,Filter blockage,gradual power loss over several days during digging cycles,Replaced hydraulic filter element
+CASE-0469,MC-017,Hydraulic Filter,Filter blockage,gradual power loss over several days during digging cycles,Cleaned suction strainer contaminated with debris
+CASE-0470,MC-002,Pilot System,Pilot pressure problem,levers feel light and unresponsive during digging cycles,Replaced pilot pressure reducing valve
+CASE-0471,MC-009,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank when hot,Replaced with correct oil grade
+CASE-0472,MC-020,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal after refueling,Rebuilt main pump assembly
+CASE-0473,MC-002,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal when cold,Repaired internal pump components
+CASE-0474,MC-013,Hydraulic Line,Line restriction,intermittent loss of power only during turns during simultaneous functions,Replaced fitting and line section
+CASE-0475,MC-012,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles at high RPM,Replaced fitting and line section
+CASE-0476,MC-016,Hydraulic Pump,Internal pump leakage,reduced lifting capacity when cold,Replaced pump seal kit and flushed system
+CASE-0477,MC-006,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions on uneven ground,Flushed system and replaced oil
+CASE-0478,MC-006,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup during simultaneous functions,Serviced accumulator and recharged pressure
+CASE-0479,MC-003,Arm Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked when cold,Replaced cylinder seal kit
+CASE-0480,MC-018,Hydraulic Line,Line restriction,slow function only on one side of the machine during digging cycles,Replaced worn hydraulic hose near swing joint
+CASE-0481,MC-009,Hydraulic Line,Line restriction,intermittent loss of power only during turns under load,Replaced fitting and line section
+CASE-0482,MC-020,Hydraulic Line,Line restriction,slow function only on one side of the machine after a long shift,Replaced fitting and line section
+CASE-0483,MC-020,Accumulator,Accumulator pressure loss,delayed response when starting boom movement when cold,Replaced accumulator bladder
+CASE-0484,MC-019,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load intermittently,Replaced pump seal kit and flushed system
+CASE-0485,MC-013,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup after refueling,Serviced accumulator and recharged pressure
+CASE-0486,MC-018,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably after a long shift,Replaced pump wear plate
+CASE-0487,MC-020,Hydraulic Oil,Oil contamination,performance degraded steadily over a month after startup,"Flushed system, replaced oil and filter"
+CASE-0488,MC-006,Hydraulic Line,Line restriction,slow function only on one side of the machine under load,Replaced worn hydraulic hose near swing joint
+CASE-0489,MC-007,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function during simultaneous functions,Recharged accumulator to spec pressure
+CASE-0490,MC-007,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank when cold,Drained and replaced hydraulic oil
+CASE-0491,MC-010,Hydraulic Line,Line restriction,slow function only on one side of the machine under load,Replaced hydraulic hose
+CASE-0492,MC-001,Hydraulic Filter,Filter blockage,inconsistent response across functions during digging cycles,Replaced return line filter
+CASE-0493,MC-012,Hydraulic Filter,Filter blockage,inconsistent response across functions during digging cycles,Replaced return line filter
+CASE-0494,MC-017,Pilot System,Pilot pressure problem,inconsistent control response across functions after startup,Replaced pilot filter
+CASE-0495,MC-002,Control Valve,Valve problem,boom does not respond smoothly to lever input on a slope,Replaced valve seal kit
+CASE-0496,MC-017,Bucket Cylinder,Cylinder leakage,creeps down over several minutes when parked during digging cycles,Replaced cylinder rod seal
+CASE-0497,MC-013,Hydraulic Filter,Filter blockage,filter warning light on dashboard during simultaneous functions,Cleaned suction strainer
+CASE-0498,MC-010,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles when hot,Replaced fitting and line section
+CASE-0499,MC-008,Bucket Cylinder,Cylinder leakage,weak force compared to other functions at high RPM,Replaced cylinder rod seal
+CASE-0500,MC-020,Hydraulic Filter,Filter blockage,gradual power loss over several days after a long shift,Cleaned suction strainer contaminated with debris
+CASE-0501,MC-008,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force during simultaneous functions,Replaced pump wear plate
+CASE-0502,MC-019,Control Valve,Valve problem,uneven response between functions on uneven ground,Replaced directional control valve
+CASE-0503,MC-012,Control Valve,Valve problem,swing function delayed by a few seconds after refueling,Cleaned and adjusted spool valve linkage
+CASE-0504,MC-017,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling after startup,Cleaned suction strainer
+CASE-0505,MC-013,Hydraulic Filter,Filter blockage,inconsistent response across functions during digging cycles,Replaced return line filter
+CASE-0506,MC-015,Control Valve,Valve problem,uneven response between functions on uneven ground,Replaced valve seal kit
+CASE-0507,MC-010,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder after startup,Rebuilt cylinder
+CASE-0508,MC-020,Control Valve,Valve problem,boom does not respond smoothly to lever input when hot,Replaced directional control valve
+CASE-0509,MC-009,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion on uneven ground,Replaced return line filter
+CASE-0510,MC-015,Hydraulic Filter,Filter blockage,filter warning light on dashboard when cold,Replaced hydraulic filter element
+CASE-0511,MC-009,Hydraulic Line,Line restriction,slow function only on one side of the machine under load,Replaced worn hydraulic hose near swing joint
+CASE-0512,MC-017,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup when hot,Recharged accumulator to spec pressure
+CASE-0513,MC-014,Hydraulic Line,Line restriction,intermittent loss of power only during turns on uneven ground,Replaced fitting and line section
+CASE-0514,MC-005,Control Valve,Valve problem,swing function delayed by a few seconds intermittently,Replaced valve seal kit
+CASE-0515,MC-005,Hydraulic Filter,Filter blockage,inconsistent response across functions on a slope,Replaced return line filter
+CASE-0516,MC-002,Bucket Cylinder,Cylinder leakage,weak force compared to other functions during digging cycles,Rebuilt cylinder
+CASE-0517,MC-006,Oil Cooler,Cooler restriction,machine slows down noticeably after refueling,Replaced seized cooling fan bearing
+CASE-0518,MC-011,Oil Cooler,Cooler restriction,overheating warning light followed by slow response after refueling,Replaced fan belt and cleaned fins
+CASE-0519,MC-009,Hydraulic Filter,Filter blockage,filter warning light on dashboard on uneven ground,Replaced hydraulic filter element
+CASE-0520,MC-007,Control Valve,Valve problem,bucket curl function completely unresponsive at high RPM,Cleaned and adjusted spool valve linkage
+CASE-0521,MC-012,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function at high RPM,Serviced accumulator and recharged pressure
+CASE-0522,MC-002,Control Valve,Valve problem,swing function delayed by a few seconds during simultaneous functions,Cleaned and adjusted spool valve linkage
+CASE-0523,MC-001,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup during digging cycles,Replaced pilot pressure reducing valve
+CASE-0524,MC-006,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load at high RPM,Replaced pump seal kit
+CASE-0525,MC-007,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal intermittently,Replaced pump seal kit and flushed system
+CASE-0526,MC-016,Hydraulic Filter,Filter blockage,inconsistent response across functions on a slope,Replaced hydraulic filter element
+CASE-0527,MC-002,Hydraulic Filter,Filter blockage,gradual power loss over several days on a slope,Cleaned suction strainer contaminated with debris
+CASE-0528,MC-013,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after startup,Recharged accumulator to spec pressure
+CASE-0529,MC-005,Oil Cooler,Cooler restriction,operation fine at start but slows at high RPM,Pressure-washed cooler core
+CASE-0530,MC-012,Control Valve,Valve problem,one function works fine but another is weak during digging cycles,Replaced directional control valve
+CASE-0531,MC-001,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions on uneven ground,Replaced hydraulic filter element
+CASE-0532,MC-006,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked during digging cycles,Replaced cylinder rod seal
+CASE-0533,MC-006,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function after a long shift,Serviced accumulator and recharged pressure
+CASE-0534,MC-014,Control Valve,Valve problem,arm drifts down on its own when idle under load,Cleaned and adjusted spool valve linkage
+CASE-0535,MC-019,Hydraulic Filter,Filter blockage,filter warning light on dashboard after startup,Cleaned suction strainer contaminated with debris
+CASE-0536,MC-011,Accumulator,Accumulator pressure loss,delayed response when starting boom movement after refueling,Replaced accumulator bladder
+CASE-0537,MC-003,Hydraulic Oil,Oil contamination,performance degraded steadily over a month when cold,"Drained oil, replaced breather cap, refilled"
+CASE-0538,MC-012,Hydraulic Filter,Filter blockage,gradual power loss over several days under load,Replaced return line filter
+CASE-0539,MC-009,Hydraulic Filter,Filter blockage,inconsistent response across functions after startup,Replaced return line filter
+CASE-0540,MC-018,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup on a slope,Serviced accumulator and recharged pressure
+CASE-0541,MC-010,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after a long shift,Recharged accumulator to spec pressure
+CASE-0542,MC-015,Oil Cooler,Cooler restriction,gradual power loss tied to running time when cold,Cleaned and flushed cooler
+CASE-0543,MC-011,Accumulator,Accumulator pressure loss,delayed response when starting boom movement when cold,Replaced accumulator bladder
+CASE-0544,MC-008,Bucket Cylinder,Cylinder leakage,visible fluid leak near the cylinder after refueling,Replaced cylinder assembly
+CASE-0545,MC-009,Pilot System,Pilot pressure problem,levers feel light and unresponsive when cold,Replaced pilot pressure reducing valve
+CASE-0546,MC-016,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after refueling,Replaced pilot pressure reducing valve
+CASE-0547,MC-009,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup at high RPM,Replaced accumulator bladder
+CASE-0548,MC-015,Oil Cooler,Cooler restriction,machine slows down noticeably under load,Pressure-washed cooler core
+CASE-0549,MC-009,Oil Cooler,Cooler restriction,operation fine at start but slows after startup,Replaced cooling fan motor
+CASE-0550,MC-014,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal on a slope,Replaced pilot filter
+CASE-0551,MC-004,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup on uneven ground,Replaced pilot pressure reducing valve
+CASE-0552,MC-005,Accumulator,Accumulator pressure loss,delayed response when starting boom movement when cold,Serviced accumulator and recharged pressure
+CASE-0553,MC-009,Hydraulic Filter,Filter blockage,inconsistent response across functions during simultaneous functions,Replaced return line filter
+CASE-0554,MC-003,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup during simultaneous functions,Replaced pilot filter
+CASE-0555,MC-020,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal when cold,Replaced pump seal kit
+CASE-0556,MC-008,Control Valve,Valve problem,swing function delayed by a few seconds after refueling,Replaced directional control valve
+CASE-0557,MC-011,Hydraulic Line,Line restriction,intermittent loss of power only during turns after startup,Replaced hydraulic hose
+CASE-0558,MC-001,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions after startup,"Drained oil, replaced breather cap, refilled"
+CASE-0559,MC-018,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising during digging cycles",Cleaned and flushed cooler
+CASE-0560,MC-017,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup at high RPM,Replaced accumulator bladder
+CASE-0561,MC-011,Pilot System,Pilot pressure problem,inconsistent control response across functions intermittently,Repaired pilot pump
+CASE-0562,MC-006,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue when cold,"Drained oil, replaced breather cap, refilled"
+CASE-0563,MC-014,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions during simultaneous functions,Replaced return line filter
+CASE-0564,MC-007,Oil Cooler,Cooler restriction,machine slows down noticeably after refueling,Pressure-washed cooler core
+CASE-0565,MC-020,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles when hot,Replaced hydraulic hose
+CASE-0566,MC-013,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue when hot,Replaced with correct oil grade
+CASE-0567,MC-004,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions on a slope,Replaced return line filter
+CASE-0568,MC-019,Hydraulic Line,Line restriction,slow function only on one side of the machine at high RPM,Replaced worn hydraulic hose near swing joint
+CASE-0569,MC-002,Hydraulic Line,Line restriction,intermittent loss of power only during turns under load,Replaced worn hydraulic hose near swing joint
+CASE-0570,MC-006,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue after startup,"Flushed system, replaced oil and filter"
+CASE-0571,MC-003,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power under load,Repaired internal pump components
+CASE-0572,MC-005,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions when cold,Replaced hydraulic filter element
+CASE-0573,MC-009,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions intermittently,"Flushed system, replaced oil and filter"
+CASE-0574,MC-011,Hydraulic Filter,Filter blockage,gradual power loss over several days when cold,Cleaned suction strainer
+CASE-0575,MC-007,Accumulator,Accumulator pressure loss,delayed response when starting boom movement when cold,Serviced accumulator and recharged pressure
+CASE-0576,MC-012,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup during digging cycles,Serviced accumulator and recharged pressure
+CASE-0577,MC-008,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue on uneven ground,"Drained oil, replaced breather cap, refilled"
+CASE-0578,MC-004,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions on a slope,"Drained oil, replaced breather cap, refilled"
+CASE-0579,MC-014,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup at high RPM,Recharged accumulator to spec pressure
+CASE-0580,MC-019,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup when cold,Repaired pilot pump
+CASE-0581,MC-012,Pilot System,Pilot pressure problem,levers feel light and unresponsive after startup,Repaired pilot pump
+CASE-0582,MC-006,Accumulator,Accumulator pressure loss,delayed response when starting boom movement at high RPM,Replaced accumulator bladder
+CASE-0583,MC-017,Hydraulic Line,Line restriction,intermittent loss of power only during turns after startup,Replaced worn hydraulic hose near swing joint
+CASE-0584,MC-014,Control Valve,Valve problem,arm drifts down on its own when idle intermittently,Cleaned and adjusted spool valve linkage
+CASE-0585,MC-014,Hydraulic Line,Line restriction,slow function only on one side of the machine when cold,Replaced worn hydraulic hose near swing joint
+CASE-0586,MC-013,Pilot System,Pilot pressure problem,inconsistent control response across functions after startup,Replaced pilot pressure reducing valve
+CASE-0587,MC-012,Accumulator,Accumulator pressure loss,delayed response when starting boom movement during digging cycles,Serviced accumulator and recharged pressure
+CASE-0588,MC-017,Boom Cylinder,Cylinder leakage,weak force compared to other functions after startup,Replaced cylinder holding valve
+CASE-0589,MC-005,Pilot System,Pilot pressure problem,inconsistent control response across functions on uneven ground,Replaced pilot pressure reducing valve
+CASE-0590,MC-007,Pilot System,Pilot pressure problem,levers feel light and unresponsive under load,Replaced pilot pressure reducing valve
+CASE-0591,MC-017,Oil Cooler,Cooler restriction,operation fine at start but slows at high RPM,Replaced cooling fan motor
+CASE-0592,MC-020,Control Valve,Valve problem,one function works fine but another is weak intermittently,Cleaned and lubricated spool valve
+CASE-0593,MC-020,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions on a slope,Cleaned suction strainer contaminated with debris
+CASE-0594,MC-008,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving intermittently,Replaced accumulator bladder
+CASE-0595,MC-004,Pilot System,Pilot pressure problem,inconsistent control response across functions at high RPM,Replaced pilot pressure reducing valve
+CASE-0596,MC-005,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup during digging cycles,Replaced pilot pressure reducing valve
+CASE-0597,MC-020,Arm Cylinder,Cylinder leakage,creeps down over several minutes when parked when hot,Replaced cylinder holding valve
+CASE-0598,MC-017,Oil Cooler,Cooler restriction,operation fine at start but slows when cold,Pressure-washed cooler core
+CASE-0599,MC-005,Arm Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked on a slope,Replaced cylinder rod seal
+CASE-0600,MC-008,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue during digging cycles,Replaced with correct oil grade
+CASE-0601,MC-019,Oil Cooler,Cooler restriction,overheating warning light followed by slow response on uneven ground,Pressure-washed cooler core
+CASE-0602,MC-010,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion on uneven ground,Cleaned suction strainer contaminated with debris
+CASE-0603,MC-015,Control Valve,Valve problem,arm drifts down on its own when idle under load,Replaced valve seal kit
+CASE-0604,MC-020,Oil Cooler,Cooler restriction,performance drops as oil temperature rises after startup,Replaced fan belt and cleaned fins
+CASE-0605,MC-020,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force under load,Replaced pump seal kit
+CASE-0606,MC-005,Control Valve,Valve problem,arm drifts down on its own when idle after refueling,Cleaned and lubricated spool valve
+CASE-0607,MC-011,Pilot System,Pilot pressure problem,levers feel light and unresponsive after startup,Replaced pilot filter
+CASE-0608,MC-011,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles when hot,Replaced hydraulic hose
+CASE-0609,MC-016,Hydraulic Filter,Filter blockage,filter warning light on dashboard at high RPM,Replaced hydraulic filter element
+CASE-0610,MC-015,Hydraulic Oil,Oil contamination,performance degraded steadily over a month on a slope,"Flushed system, replaced oil and filter"
+CASE-0611,MC-006,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup after a long shift,Recharged accumulator to spec pressure
+CASE-0612,MC-019,Oil Cooler,Cooler restriction,performance drops as oil temperature rises during simultaneous functions,Cleaned and flushed cooler
+CASE-0613,MC-016,Boom Cylinder,Cylinder leakage,weak force compared to other functions on a slope,Replaced cylinder seal kit
+CASE-0614,MC-001,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked after a long shift,Replaced cylinder rod seal
+CASE-0615,MC-007,Hydraulic Filter,Filter blockage,filter warning light on dashboard when hot,Replaced hydraulic filter element
+CASE-0616,MC-016,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions after startup,Replaced with correct oil grade
+CASE-0617,MC-005,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function when cold,Recharged accumulator to spec pressure
+CASE-0618,MC-008,Hydraulic Oil,Oil contamination,performance degraded steadily over a month after startup,"Drained oil, replaced breather cap, refilled"
+CASE-0619,MC-006,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving when hot,Replaced accumulator bladder
+CASE-0620,MC-008,Hydraulic Oil,Oil contamination,performance degraded steadily over a month on uneven ground,Flushed system and replaced oil
+CASE-0621,MC-019,Oil Cooler,Cooler restriction,overheating warning light followed by slow response at high RPM,Replaced seized cooling fan bearing
+CASE-0622,MC-005,Hydraulic Line,Line restriction,intermittent loss of power only during turns intermittently,Replaced hydraulic hose
+CASE-0623,MC-002,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load under load,Replaced pump seal kit and flushed system
+CASE-0624,MC-002,Control Valve,Valve problem,arm drifts down on its own when idle under load,Cleaned and lubricated spool valve
+CASE-0625,MC-009,Hydraulic Line,Line restriction,slow function only on one side of the machine after refueling,Replaced hydraulic hose
+CASE-0626,MC-016,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function at high RPM,Replaced accumulator bladder
+CASE-0627,MC-006,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue intermittently,Replaced with correct oil grade
+CASE-0628,MC-013,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions after refueling,Drained and replaced hydraulic oil
+CASE-0629,MC-015,Oil Cooler,Cooler restriction,operation fine at start but slows during simultaneous functions,Replaced seized cooling fan bearing
+CASE-0630,MC-007,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function during digging cycles,Replaced accumulator bladder
+CASE-0631,MC-009,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load on a slope,Repaired internal pump components
+CASE-0632,MC-019,Pilot System,Pilot pressure problem,inconsistent control response across functions under load,Replaced pilot pressure reducing valve
+CASE-0633,MC-017,Hydraulic Line,Line restriction,slow function only on one side of the machine during simultaneous functions,Replaced worn hydraulic hose near swing joint
+CASE-0634,MC-001,Control Valve,Valve problem,uneven response between functions on uneven ground,Cleaned and lubricated spool valve
+CASE-0635,MC-014,Hydraulic Oil,Oil contamination,performance degraded steadily over a month when cold,"Drained oil, replaced breather cap, refilled"
+CASE-0636,MC-011,Arm Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked during simultaneous functions,Rebuilt cylinder
+CASE-0637,MC-020,Accumulator,Accumulator pressure loss,delayed response when starting boom movement on uneven ground,Replaced accumulator bladder
+CASE-0638,MC-012,Hydraulic Oil,Oil contamination,performance degraded steadily over a month after a long shift,"Flushed system, replaced oil and filter"
+CASE-0639,MC-014,Hydraulic Line,Line restriction,slow function only on one side of the machine intermittently,Replaced worn hydraulic hose near swing joint
+CASE-0640,MC-018,Hydraulic Line,Line restriction,slow function only on one side of the machine intermittently,Replaced hydraulic hose
+CASE-0641,MC-006,Hydraulic Pump,Internal pump leakage,overall power loss across all functions under load,Replaced pump seal kit and flushed system
+CASE-0642,MC-005,Control Valve,Valve problem,bucket curl function completely unresponsive after refueling,Cleaned and lubricated spool valve
+CASE-0643,MC-011,Oil Cooler,Cooler restriction,overheating warning light followed by slow response on a slope,Replaced seized cooling fan bearing
+CASE-0644,MC-012,Oil Cooler,Cooler restriction,operation fine at start but slows during simultaneous functions,Cleaned and flushed cooler
+CASE-0645,MC-001,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion at high RPM,Replaced return line filter
+CASE-0646,MC-004,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion intermittently,Replaced return line filter
+CASE-0647,MC-008,Pilot System,Pilot pressure problem,levers feel light and unresponsive on a slope,Repaired pilot pump
+CASE-0648,MC-015,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup after startup,Replaced pilot filter
+CASE-0649,MC-012,Boom Cylinder,Cylinder leakage,creeps down over several minutes when parked at high RPM,Replaced cylinder seal kit
+CASE-0650,MC-004,Arm Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked during simultaneous functions,Replaced cylinder seal kit
+CASE-0651,MC-019,Hydraulic Filter,Filter blockage,inconsistent response across functions on uneven ground,Cleaned suction strainer contaminated with debris
+CASE-0652,MC-006,Hydraulic Filter,Filter blockage,filter warning light on dashboard during digging cycles,Replaced hydraulic filter element
+CASE-0653,MC-018,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass when cold,Drained and replaced hydraulic oil
+CASE-0654,MC-018,Control Valve,Valve problem,bucket curl function completely unresponsive at high RPM,Cleaned and adjusted spool valve linkage
+CASE-0655,MC-017,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked intermittently,Replaced cylinder seal kit
+CASE-0656,MC-005,Oil Cooler,Cooler restriction,performance drops as oil temperature rises after a long shift,Replaced seized cooling fan bearing
+CASE-0657,MC-006,Bucket Cylinder,Cylinder leakage,weak force compared to other functions during simultaneous functions,Rebuilt cylinder
+CASE-0658,MC-020,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load on uneven ground,Replaced pump wear plate
+CASE-0659,MC-011,Hydraulic Line,Line restriction,slow function only on one side of the machine after startup,Replaced fitting and line section
+CASE-0660,MC-016,Oil Cooler,Cooler restriction,operation fine at start but slows during digging cycles,Pressure-washed cooler core
+CASE-0661,MC-002,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles on uneven ground,Replaced fitting and line section
+CASE-0662,MC-004,Hydraulic Pump,Internal pump leakage,reduced lifting capacity after a long shift,Rebuilt main pump assembly
+CASE-0663,MC-009,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal during digging cycles,Repaired internal pump components
+CASE-0664,MC-013,Pilot System,Pilot pressure problem,levers feel light and unresponsive after refueling,Replaced pilot pressure reducing valve
+CASE-0665,MC-006,Bucket Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked under load,Replaced cylinder holding valve
+CASE-0666,MC-008,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions during simultaneous functions,Replaced with correct oil grade
+CASE-0667,MC-006,Control Valve,Valve problem,swing function delayed by a few seconds after startup,Replaced valve seal kit
+CASE-0668,MC-003,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal when hot,Replaced pump seal kit and flushed system
+CASE-0669,MC-001,Pilot System,Pilot pressure problem,inconsistent control response across functions when hot,Replaced pilot filter
+CASE-0670,MC-014,Accumulator,Accumulator pressure loss,delayed response when starting boom movement on uneven ground,Serviced accumulator and recharged pressure
+CASE-0671,MC-001,Hydraulic Filter,Filter blockage,gradual power loss over several days when cold,Cleaned suction strainer contaminated with debris
+CASE-0672,MC-004,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions after refueling,Replaced with correct oil grade
+CASE-0673,MC-006,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup after startup,Repaired pilot pump
+CASE-0674,MC-020,Pilot System,Pilot pressure problem,inconsistent control response across functions on uneven ground,Replaced pilot pressure reducing valve
+CASE-0675,MC-020,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup when cold,Recharged accumulator to spec pressure
+CASE-0676,MC-020,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load after startup,Replaced pump wear plate
+CASE-0677,MC-016,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup under load,Replaced pilot pressure reducing valve
+CASE-0678,MC-002,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup when hot,Replaced accumulator bladder
+CASE-0679,MC-019,Control Valve,Valve problem,bucket curl function completely unresponsive at high RPM,Cleaned and lubricated spool valve
+CASE-0680,MC-017,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions after refueling,"Flushed system, replaced oil and filter"
+CASE-0681,MC-004,Oil Cooler,Cooler restriction,performance drops as oil temperature rises during simultaneous functions,Cleaned and flushed cooler
+CASE-0682,MC-014,Oil Cooler,Cooler restriction,performance drops as oil temperature rises after a long shift,Pressure-washed cooler core
+CASE-0683,MC-015,Arm Cylinder,Cylinder leakage,visible fluid leak near the cylinder after startup,Replaced cylinder holding valve
+CASE-0684,MC-020,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup during simultaneous functions,Replaced accumulator bladder
+CASE-0685,MC-005,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after a long shift,Replaced pilot pressure reducing valve
+CASE-0686,MC-020,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup when hot,Replaced accumulator bladder
+CASE-0687,MC-003,Control Valve,Valve problem,one function works fine but another is weak during simultaneous functions,Replaced directional control valve
+CASE-0688,MC-003,Bucket Cylinder,Cylinder leakage,weak force compared to other functions intermittently,Replaced cylinder rod seal
+CASE-0689,MC-006,Pilot System,Pilot pressure problem,levers feel light and unresponsive intermittently,Replaced pilot pressure reducing valve
+CASE-0690,MC-018,Hydraulic Filter,Filter blockage,gradual power loss over several days after startup,Cleaned suction strainer
+CASE-0691,MC-008,Control Valve,Valve problem,boom does not respond smoothly to lever input on uneven ground,Replaced directional control valve
+CASE-0692,MC-018,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving when cold,Recharged accumulator to spec pressure
+CASE-0693,MC-018,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder intermittently,Replaced cylinder rod seal
+CASE-0694,MC-019,Control Valve,Valve problem,arm drifts down on its own when idle after startup,Replaced valve seal kit
+CASE-0695,MC-005,Oil Cooler,Cooler restriction,gradual power loss tied to running time on a slope,Cleaned and flushed cooler
+CASE-0696,MC-005,Hydraulic Line,Line restriction,intermittent loss of power only during turns at high RPM,Replaced fitting and line section
+CASE-0697,MC-010,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load during digging cycles,Repaired internal pump components
+CASE-0698,MC-005,Bucket Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked under load,Replaced cylinder seal kit
+CASE-0699,MC-001,Arm Cylinder,Cylinder leakage,creeps down over several minutes when parked when cold,Replaced cylinder rod seal
+CASE-0700,MC-006,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal under load,Replaced pilot filter
+CASE-0701,MC-010,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions after refueling,Flushed system and replaced oil
+CASE-0702,MC-019,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder after refueling,Replaced cylinder rod seal
+CASE-0703,MC-010,Control Valve,Valve problem,uneven response between functions after a long shift,Cleaned and adjusted spool valve linkage
+CASE-0704,MC-004,Control Valve,Valve problem,one function works fine but another is weak on a slope,Cleaned and adjusted spool valve linkage
+CASE-0705,MC-010,Oil Cooler,Cooler restriction,performance drops as oil temperature rises after startup,Replaced cooling fan motor
+CASE-0706,MC-017,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after startup,Replaced accumulator bladder
+CASE-0707,MC-017,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup on a slope,Replaced accumulator bladder
+CASE-0708,MC-013,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank when cold,Replaced with correct oil grade
+CASE-0709,MC-017,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue at high RPM,Drained and replaced hydraulic oil
+CASE-0710,MC-020,Accumulator,Accumulator pressure loss,delayed response when starting boom movement on a slope,Serviced accumulator and recharged pressure
+CASE-0711,MC-007,Hydraulic Line,Line restriction,slow function only on one side of the machine after a long shift,Replaced worn hydraulic hose near swing joint
+CASE-0712,MC-015,Pilot System,Pilot pressure problem,levers feel light and unresponsive during digging cycles,Replaced pilot filter
+CASE-0713,MC-016,Control Valve,Valve problem,one function works fine but another is weak after a long shift,Cleaned and adjusted spool valve linkage
+CASE-0714,MC-005,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving when cold,Recharged accumulator to spec pressure
+CASE-0715,MC-012,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions during digging cycles,"Flushed system, replaced oil and filter"
+CASE-0716,MC-001,Hydraulic Filter,Filter blockage,gradual power loss over several days at high RPM,Replaced hydraulic filter element
+CASE-0717,MC-017,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably on uneven ground,Rebuilt main pump assembly
+CASE-0718,MC-004,Control Valve,Valve problem,swing function delayed by a few seconds after refueling,Replaced directional control valve
+CASE-0719,MC-007,Oil Cooler,Cooler restriction,gradual power loss tied to running time during digging cycles,Cleaned and flushed cooler
+CASE-0720,MC-019,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked during digging cycles,Replaced cylinder seal kit
+CASE-0721,MC-015,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force intermittently,Replaced pump seal kit
+CASE-0722,MC-001,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after startup,Serviced accumulator and recharged pressure
+CASE-0723,MC-002,Hydraulic Line,Line restriction,slow function only on one side of the machine when hot,Replaced worn hydraulic hose near swing joint
+CASE-0724,MC-015,Oil Cooler,Cooler restriction,operation fine at start but slows after a long shift,Pressure-washed cooler core
+CASE-0725,MC-006,Boom Cylinder,Cylinder leakage,weak force compared to other functions during simultaneous functions,Rebuilt cylinder
+CASE-0726,MC-003,Hydraulic Oil,Oil contamination,performance degraded steadily over a month on uneven ground,Replaced with correct oil grade
+CASE-0727,MC-015,Pilot System,Pilot pressure problem,levers feel light and unresponsive during simultaneous functions,Replaced pilot pressure reducing valve
+CASE-0728,MC-014,Bucket Cylinder,Cylinder leakage,weak force compared to other functions when cold,Rebuilt cylinder
+CASE-0729,MC-013,Control Valve,Valve problem,boom does not respond smoothly to lever input under load,Cleaned and adjusted spool valve linkage
+CASE-0730,MC-019,Hydraulic Pump,Internal pump leakage,reduced lifting capacity under load,Replaced pump seal kit and flushed system
+CASE-0731,MC-012,Hydraulic Line,Line restriction,intermittent loss of power only during turns when cold,Replaced hydraulic hose
+CASE-0732,MC-002,Bucket Cylinder,Cylinder leakage,creeps down over several minutes when parked during digging cycles,Replaced cylinder holding valve
+CASE-0733,MC-013,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function on uneven ground,Serviced accumulator and recharged pressure
+CASE-0734,MC-001,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after refueling,Recharged accumulator to spec pressure
+CASE-0735,MC-015,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass during simultaneous functions,Flushed system and replaced oil
+CASE-0736,MC-001,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving during simultaneous functions,Replaced accumulator bladder
+CASE-0737,MC-020,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions after refueling,Replaced hydraulic filter element
+CASE-0738,MC-017,Bucket Cylinder,Cylinder leakage,oil residue building up on the cylinder rod under load,Replaced cylinder seal kit
+CASE-0739,MC-011,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force during simultaneous functions,Replaced pump wear plate
+CASE-0740,MC-015,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal on a slope,Repaired pilot pump
+CASE-0741,MC-008,Hydraulic Line,Line restriction,intermittent loss of power only during turns intermittently,Replaced hydraulic hose
+CASE-0742,MC-020,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling when hot,Cleaned suction strainer contaminated with debris
+CASE-0743,MC-020,Pilot System,Pilot pressure problem,levers feel light and unresponsive when cold,Repaired pilot pump
+CASE-0744,MC-005,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles at high RPM,Replaced worn hydraulic hose near swing joint
+CASE-0745,MC-016,Hydraulic Pump,Internal pump leakage,reduced lifting capacity after startup,Replaced pump wear plate
+CASE-0746,MC-020,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising after startup",Replaced seized cooling fan bearing
+CASE-0747,MC-007,Oil Cooler,Cooler restriction,gradual power loss tied to running time on uneven ground,Replaced cooling fan motor
+CASE-0748,MC-013,Oil Cooler,Cooler restriction,machine slows down noticeably after startup,Cleaned and flushed cooler
+CASE-0749,MC-007,Hydraulic Pump,Internal pump leakage,reduced lifting capacity on a slope,Replaced pump wear plate
+CASE-0750,MC-008,Hydraulic Pump,Internal pump leakage,reduced lifting capacity after startup,Replaced pump seal kit and flushed system
+CASE-0751,MC-015,Hydraulic Line,Line restriction,intermittent loss of power only during turns intermittently,Replaced worn hydraulic hose near swing joint
+CASE-0752,MC-004,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal when cold,Repaired internal pump components
+CASE-0753,MC-006,Hydraulic Filter,Filter blockage,gradual power loss over several days under load,Cleaned suction strainer contaminated with debris
+CASE-0754,MC-011,Pilot System,Pilot pressure problem,levers feel light and unresponsive on a slope,Repaired pilot pump
+CASE-0755,MC-016,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal intermittently,Replaced pilot filter
+CASE-0756,MC-020,Hydraulic Filter,Filter blockage,filter warning light on dashboard after a long shift,Replaced return line filter
+CASE-0757,MC-005,Hydraulic Line,Line restriction,intermittent loss of power only during turns during digging cycles,Replaced fitting and line section
+CASE-0758,MC-005,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion under load,Cleaned suction strainer
+CASE-0759,MC-007,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup during digging cycles,Repaired pilot pump
+CASE-0760,MC-007,Bucket Cylinder,Cylinder leakage,oil residue building up on the cylinder rod during simultaneous functions,Replaced cylinder holding valve
+CASE-0761,MC-002,Oil Cooler,Cooler restriction,performance drops as oil temperature rises during simultaneous functions,Replaced seized cooling fan bearing
+CASE-0762,MC-011,Control Valve,Valve problem,one function works fine but another is weak when cold,Cleaned and lubricated spool valve
+CASE-0763,MC-008,Control Valve,Valve problem,one function works fine but another is weak under load,Replaced valve seal kit
+CASE-0764,MC-003,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions when hot,Cleaned suction strainer contaminated with debris
+CASE-0765,MC-009,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force after refueling,Replaced pump wear plate
+CASE-0766,MC-008,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion after a long shift,Cleaned suction strainer contaminated with debris
+CASE-0767,MC-006,Hydraulic Line,Line restriction,intermittent loss of power only during turns on uneven ground,Replaced worn hydraulic hose near swing joint
+CASE-0768,MC-007,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles intermittently,Replaced fitting and line section
+CASE-0769,MC-020,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup when cold,Replaced pilot filter
+CASE-0770,MC-018,Control Valve,Valve problem,bucket curl function completely unresponsive when hot,Replaced valve seal kit
+CASE-0771,MC-010,Hydraulic Line,Line restriction,slow function only on one side of the machine after startup,Replaced hydraulic hose
+CASE-0772,MC-002,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal during digging cycles,Repaired pilot pump
+CASE-0773,MC-015,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power on a slope,Rebuilt main pump assembly
+CASE-0774,MC-009,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles intermittently,Replaced fitting and line section
+CASE-0775,MC-013,Hydraulic Filter,Filter blockage,filter warning light on dashboard under load,Replaced hydraulic filter element
+CASE-0776,MC-001,Bucket Cylinder,Cylinder leakage,visible fluid leak near the cylinder after startup,Replaced cylinder assembly
+CASE-0777,MC-016,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions intermittently,Replaced return line filter
+CASE-0778,MC-015,Hydraulic Oil,Oil contamination,performance degraded steadily over a month after a long shift,Replaced with correct oil grade
+CASE-0779,MC-002,Arm Cylinder,Cylinder leakage,creeps down over several minutes when parked during digging cycles,Replaced cylinder rod seal
+CASE-0780,MC-015,Hydraulic Pump,Internal pump leakage,overall power loss across all functions after a long shift,Repaired internal pump components
+CASE-0781,MC-015,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal under load,Repaired pilot pump
+CASE-0782,MC-003,Control Valve,Valve problem,arm drifts down on its own when idle intermittently,Cleaned and lubricated spool valve
+CASE-0783,MC-008,Oil Cooler,Cooler restriction,gradual power loss tied to running time on uneven ground,Pressure-washed cooler core
+CASE-0784,MC-015,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving intermittently,Serviced accumulator and recharged pressure
+CASE-0785,MC-016,Pilot System,Pilot pressure problem,levers feel light and unresponsive at high RPM,Repaired pilot pump
+CASE-0786,MC-016,Hydraulic Pump,Internal pump leakage,reduced lifting capacity during digging cycles,Repaired internal pump components
+CASE-0787,MC-001,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass during digging cycles,"Drained oil, replaced breather cap, refilled"
+CASE-0788,MC-011,Oil Cooler,Cooler restriction,performance drops as oil temperature rises under load,Replaced cooling fan motor
+CASE-0789,MC-003,Pilot System,Pilot pressure problem,inconsistent control response across functions after startup,Replaced pilot filter
+CASE-0790,MC-014,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after a long shift,Replaced pilot filter
+CASE-0791,MC-011,Hydraulic Line,Line restriction,intermittent loss of power only during turns on a slope,Replaced fitting and line section
+CASE-0792,MC-007,Hydraulic Line,Line restriction,slow function only on one side of the machine during digging cycles,Replaced hydraulic hose
+CASE-0793,MC-001,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving intermittently,Recharged accumulator to spec pressure
+CASE-0794,MC-007,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions during digging cycles,Flushed system and replaced oil
+CASE-0795,MC-015,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising when cold",Replaced seized cooling fan bearing
+CASE-0796,MC-001,Arm Cylinder,Cylinder leakage,oil residue building up on the cylinder rod during digging cycles,Rebuilt cylinder
+CASE-0797,MC-014,Pilot System,Pilot pressure problem,inconsistent control response across functions intermittently,Repaired pilot pump
+CASE-0798,MC-013,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup intermittently,Replaced accumulator bladder
+CASE-0799,MC-001,Hydraulic Line,Line restriction,intermittent loss of power only during turns at high RPM,Replaced fitting and line section
+CASE-0800,MC-014,Pilot System,Pilot pressure problem,inconsistent control response across functions during simultaneous functions,Repaired pilot pump
+CASE-0801,MC-012,Pilot System,Pilot pressure problem,levers feel light and unresponsive when cold,Replaced pilot filter
+CASE-0802,MC-018,Oil Cooler,Cooler restriction,overheating warning light followed by slow response intermittently,Replaced cooling fan motor
+CASE-0803,MC-005,Hydraulic Filter,Filter blockage,filter warning light on dashboard during simultaneous functions,Cleaned suction strainer
+CASE-0804,MC-014,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue on a slope,Replaced with correct oil grade
+CASE-0805,MC-015,Oil Cooler,Cooler restriction,overheating warning light followed by slow response during digging cycles,Replaced fan belt and cleaned fins
+CASE-0806,MC-010,Oil Cooler,Cooler restriction,performance drops as oil temperature rises under load,Pressure-washed cooler core
+CASE-0807,MC-006,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving on uneven ground,Recharged accumulator to spec pressure
+CASE-0808,MC-016,Hydraulic Line,Line restriction,intermittent loss of power only during turns under load,Replaced worn hydraulic hose near swing joint
+CASE-0809,MC-013,Oil Cooler,Cooler restriction,operation fine at start but slows on a slope,Cleaned and flushed cooler
+CASE-0810,MC-016,Oil Cooler,Cooler restriction,machine slows down noticeably after a long shift,Replaced fan belt and cleaned fins
+CASE-0811,MC-012,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion during digging cycles,Cleaned suction strainer contaminated with debris
+CASE-0812,MC-008,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank after refueling,"Drained oil, replaced breather cap, refilled"
+CASE-0813,MC-012,Hydraulic Filter,Filter blockage,gradual power loss over several days during simultaneous functions,Cleaned suction strainer
+CASE-0814,MC-008,Hydraulic Filter,Filter blockage,filter warning light on dashboard under load,Replaced return line filter
+CASE-0815,MC-006,Control Valve,Valve problem,uneven response between functions after a long shift,Cleaned and lubricated spool valve
+CASE-0816,MC-002,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass after startup,"Flushed system, replaced oil and filter"
+CASE-0817,MC-010,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising under load",Pressure-washed cooler core
+CASE-0818,MC-008,Pilot System,Pilot pressure problem,inconsistent control response across functions after refueling,Repaired pilot pump
+CASE-0819,MC-011,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after a long shift,Replaced pilot filter
+CASE-0820,MC-020,Bucket Cylinder,Cylinder leakage,visible fluid leak near the cylinder on uneven ground,Replaced cylinder seal kit
+CASE-0821,MC-010,Control Valve,Valve problem,bucket curl function completely unresponsive when cold,Cleaned and adjusted spool valve linkage
+CASE-0822,MC-016,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue on a slope,"Flushed system, replaced oil and filter"
+CASE-0823,MC-007,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions after a long shift,Cleaned suction strainer
+CASE-0824,MC-003,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions at high RPM,Replaced with correct oil grade
+CASE-0825,MC-010,Hydraulic Pump,Internal pump leakage,reduced lifting capacity when cold,Repaired internal pump components
+CASE-0826,MC-003,Control Valve,Valve problem,swing function delayed by a few seconds on a slope,Cleaned and adjusted spool valve linkage
+CASE-0827,MC-006,Control Valve,Valve problem,swing function delayed by a few seconds during simultaneous functions,Cleaned and adjusted spool valve linkage
+CASE-0828,MC-019,Control Valve,Valve problem,one function works fine but another is weak after a long shift,Replaced valve seal kit
+CASE-0829,MC-011,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably when cold,Replaced pump wear plate
+CASE-0830,MC-020,Pilot System,Pilot pressure problem,levers feel light and unresponsive when hot,Repaired pilot pump
+CASE-0831,MC-003,Arm Cylinder,Cylinder leakage,visible fluid leak near the cylinder after startup,Replaced cylinder seal kit
+CASE-0832,MC-008,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving when cold,Replaced accumulator bladder
+CASE-0833,MC-015,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue at high RPM,"Drained oil, replaced breather cap, refilled"
+CASE-0834,MC-017,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving on uneven ground,Recharged accumulator to spec pressure
+CASE-0835,MC-002,Bucket Cylinder,Cylinder leakage,weak force compared to other functions at high RPM,Replaced cylinder rod seal
+CASE-0836,MC-004,Control Valve,Valve problem,one function works fine but another is weak under load,Replaced directional control valve
+CASE-0837,MC-006,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load under load,Replaced pump seal kit and flushed system
+CASE-0838,MC-006,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions during digging cycles,Drained and replaced hydraulic oil
+CASE-0839,MC-001,Control Valve,Valve problem,boom does not respond smoothly to lever input at high RPM,Replaced directional control valve
+CASE-0840,MC-010,Hydraulic Pump,Internal pump leakage,reduced lifting capacity on uneven ground,Repaired internal pump components
+CASE-0841,MC-007,Hydraulic Line,Line restriction,intermittent loss of power only during turns during digging cycles,Replaced worn hydraulic hose near swing joint
+CASE-0842,MC-018,Hydraulic Filter,Filter blockage,gradual power loss over several days during simultaneous functions,Cleaned suction strainer contaminated with debris
+CASE-0843,MC-012,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function after startup,Serviced accumulator and recharged pressure
+CASE-0844,MC-004,Oil Cooler,Cooler restriction,overheating warning light followed by slow response after startup,Cleaned and flushed cooler
+CASE-0845,MC-020,Accumulator,Accumulator pressure loss,delayed response when starting boom movement intermittently,Recharged accumulator to spec pressure
+CASE-0846,MC-019,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function during simultaneous functions,Serviced accumulator and recharged pressure
+CASE-0847,MC-012,Bucket Cylinder,Cylinder leakage,weak force compared to other functions when cold,Replaced cylinder holding valve
+CASE-0848,MC-001,Hydraulic Pump,Internal pump leakage,struggles to lift full bucket load under load,Replaced pump wear plate
+CASE-0849,MC-019,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force after refueling,Replaced pump wear plate
+CASE-0850,MC-020,Oil Cooler,Cooler restriction,machine slows down noticeably after startup,Pressure-washed cooler core
+CASE-0851,MC-017,Accumulator,Accumulator pressure loss,delayed response when starting boom movement during digging cycles,Recharged accumulator to spec pressure
+CASE-0852,MC-003,Hydraulic Line,Line restriction,slow function only on one side of the machine on uneven ground,Replaced fitting and line section
+CASE-0853,MC-002,Control Valve,Valve problem,arm drifts down on its own when idle intermittently,Replaced valve seal kit
+CASE-0854,MC-016,Oil Cooler,Cooler restriction,machine slows down noticeably when cold,Replaced seized cooling fan bearing
+CASE-0855,MC-014,Control Valve,Valve problem,boom does not respond smoothly to lever input during digging cycles,Replaced directional control valve
+CASE-0856,MC-019,Hydraulic Filter,Filter blockage,filter warning light on dashboard under load,Cleaned suction strainer contaminated with debris
+CASE-0857,MC-015,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass after refueling,Replaced with correct oil grade
+CASE-0858,MC-014,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function on uneven ground,Serviced accumulator and recharged pressure
+CASE-0859,MC-019,Hydraulic Pump,Internal pump leakage,overall power loss across all functions after startup,Replaced pump seal kit and flushed system
+CASE-0860,MC-005,Pilot System,Pilot pressure problem,inconsistent control response across functions when cold,Replaced pilot filter
+CASE-0861,MC-018,Accumulator,Accumulator pressure loss,delayed response when starting boom movement during simultaneous functions,Recharged accumulator to spec pressure
+CASE-0862,MC-012,Oil Cooler,Cooler restriction,machine slows down noticeably after refueling,Replaced seized cooling fan bearing
+CASE-0863,MC-019,Hydraulic Filter,Filter blockage,gradual power loss over several days on uneven ground,Replaced return line filter
+CASE-0864,MC-002,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder when hot,Replaced cylinder holding valve
+CASE-0865,MC-006,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles under load,Replaced hydraulic hose
+CASE-0866,MC-015,Hydraulic Oil,Oil contamination,metallic smell from hydraulic tank when cold,Flushed system and replaced oil
+CASE-0867,MC-017,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal after startup,Rebuilt main pump assembly
+CASE-0868,MC-018,Control Valve,Valve problem,bucket curl function completely unresponsive after refueling,Cleaned and lubricated spool valve
+CASE-0869,MC-003,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions when hot,Drained and replaced hydraulic oil
+CASE-0870,MC-011,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal during simultaneous functions,Repaired pilot pump
+CASE-0871,MC-013,Control Valve,Valve problem,arm drifts down on its own when idle during digging cycles,Replaced directional control valve
+CASE-0872,MC-020,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power at high RPM,Replaced pump seal kit and flushed system
+CASE-0873,MC-015,Hydraulic Oil,Oil contamination,performance degraded steadily over a month when hot,"Flushed system, replaced oil and filter"
+CASE-0874,MC-016,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal on a slope,Replaced pilot filter
+CASE-0875,MC-006,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions after a long shift,"Flushed system, replaced oil and filter"
+CASE-0876,MC-013,Arm Cylinder,Cylinder leakage,weak force compared to other functions during digging cycles,Replaced cylinder seal kit
+CASE-0877,MC-010,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder during digging cycles,Replaced cylinder assembly
+CASE-0878,MC-014,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after refueling,Recharged accumulator to spec pressure
+CASE-0879,MC-006,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising at high RPM",Replaced fan belt and cleaned fins
+CASE-0880,MC-019,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion after refueling,Replaced hydraulic filter element
+CASE-0881,MC-012,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably on uneven ground,Replaced pump seal kit and flushed system
+CASE-0882,MC-005,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue on uneven ground,Drained and replaced hydraulic oil
+CASE-0883,MC-003,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions intermittently,"Flushed system, replaced oil and filter"
+CASE-0884,MC-011,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked after a long shift,Replaced cylinder seal kit
+CASE-0885,MC-008,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions on uneven ground,Replaced return line filter
+CASE-0886,MC-002,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function after a long shift,Replaced accumulator bladder
+CASE-0887,MC-015,Hydraulic Line,Line restriction,intermittent loss of power only during turns after a long shift,Replaced worn hydraulic hose near swing joint
+CASE-0888,MC-003,Hydraulic Line,Line restriction,intermittent loss of power only during turns during digging cycles,Replaced hydraulic hose
+CASE-0889,MC-016,Hydraulic Line,Line restriction,intermittent loss of power only during turns when cold,Replaced worn hydraulic hose near swing joint
+CASE-0890,MC-003,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup after a long shift,Replaced pilot filter
+CASE-0891,MC-010,Oil Cooler,Cooler restriction,gradual power loss tied to running time under load,Replaced fan belt and cleaned fins
+CASE-0892,MC-004,Oil Cooler,Cooler restriction,operation fine at start but slows after startup,Replaced fan belt and cleaned fins
+CASE-0893,MC-003,Control Valve,Valve problem,boom does not respond smoothly to lever input during digging cycles,Cleaned and adjusted spool valve linkage
+CASE-0894,MC-018,Hydraulic Filter,Filter blockage,gradual power loss over several days when cold,Replaced hydraulic filter element
+CASE-0895,MC-017,Hydraulic Line,Line restriction,intermittent loss of power only during turns during digging cycles,Replaced hydraulic hose
+CASE-0896,MC-001,Hydraulic Filter,Filter blockage,inconsistent response across functions on uneven ground,Cleaned suction strainer contaminated with debris
+CASE-0897,MC-020,Hydraulic Filter,Filter blockage,gradual power loss over several days under load,Cleaned suction strainer contaminated with debris
+CASE-0898,MC-016,Hydraulic Pump,Internal pump leakage,boom and arm both weaker than normal under load,Replaced pump wear plate
+CASE-0899,MC-020,Hydraulic Filter,Filter blockage,filter warning light on dashboard during simultaneous functions,Replaced hydraulic filter element
+CASE-0900,MC-008,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving after startup,Recharged accumulator to spec pressure
+CASE-0901,MC-009,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles on uneven ground,Replaced hydraulic hose
+CASE-0902,MC-017,Oil Cooler,Cooler restriction,machine slows down noticeably on a slope,Replaced fan belt and cleaned fins
+CASE-0903,MC-007,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup at high RPM,Repaired pilot pump
+CASE-0904,MC-010,Hydraulic Oil,Oil contamination,performance degraded steadily over a month after startup,Drained and replaced hydraulic oil
+CASE-0905,MC-018,Bucket Cylinder,Cylinder leakage,oil residue building up on the cylinder rod after a long shift,Replaced cylinder assembly
+CASE-0906,MC-014,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions on uneven ground,Drained and replaced hydraulic oil
+CASE-0907,MC-013,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion at high RPM,Cleaned suction strainer
+CASE-0908,MC-013,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising under load",Replaced fan belt and cleaned fins
+CASE-0909,MC-016,Hydraulic Filter,Filter blockage,gradual power loss over several days at high RPM,Replaced return line filter
+CASE-0910,MC-003,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup after a long shift,Recharged accumulator to spec pressure
+CASE-0911,MC-010,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions on uneven ground,Drained and replaced hydraulic oil
+CASE-0912,MC-010,Control Valve,Valve problem,boom does not respond smoothly to lever input on uneven ground,Cleaned and lubricated spool valve
+CASE-0913,MC-001,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass after a long shift,"Drained oil, replaced breather cap, refilled"
+CASE-0914,MC-020,Control Valve,Valve problem,uneven response between functions under load,Cleaned and adjusted spool valve linkage
+CASE-0915,MC-020,Control Valve,Valve problem,boom does not respond smoothly to lever input after a long shift,Replaced directional control valve
+CASE-0916,MC-005,Control Valve,Valve problem,uneven response between functions during digging cycles,Replaced directional control valve
+CASE-0917,MC-001,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal during digging cycles,Replaced pilot pressure reducing valve
+CASE-0918,MC-012,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions when cold,"Drained oil, replaced breather cap, refilled"
+CASE-0919,MC-009,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving during digging cycles,Serviced accumulator and recharged pressure
+CASE-0920,MC-010,Control Valve,Valve problem,arm drifts down on its own when idle on a slope,Cleaned and adjusted spool valve linkage
+CASE-0921,MC-016,Oil Cooler,Cooler restriction,gradual power loss tied to running time under load,Replaced cooling fan motor
+CASE-0922,MC-018,Hydraulic Pump,Internal pump leakage,reduced lifting capacity under load,Replaced pump seal kit and flushed system
+CASE-0923,MC-012,Arm Cylinder,Cylinder leakage,visible fluid leak near the cylinder on uneven ground,Rebuilt cylinder
+CASE-0924,MC-005,Hydraulic Filter,Filter blockage,filter warning light on dashboard under load,Replaced hydraulic filter element
+CASE-0925,MC-006,Oil Cooler,Cooler restriction,operation fine at start but slows during digging cycles,Replaced cooling fan motor
+CASE-0926,MC-004,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder during digging cycles,Replaced cylinder holding valve
+CASE-0927,MC-015,Oil Cooler,Cooler restriction,gradual power loss tied to running time after startup,Replaced fan belt and cleaned fins
+CASE-0928,MC-013,Hydraulic Pump,Internal pump leakage,reduced lifting capacity intermittently,Repaired internal pump components
+CASE-0929,MC-001,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles at high RPM,Replaced fitting and line section
+CASE-0930,MC-006,Hydraulic Pump,Internal pump leakage,reduced lifting capacity intermittently,Repaired internal pump components
+CASE-0931,MC-013,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force after a long shift,Repaired internal pump components
+CASE-0932,MC-012,Hydraulic Oil,Oil contamination,foamy oil visible in reservoir sight glass on uneven ground,Drained and replaced hydraulic oil
+CASE-0933,MC-011,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after startup,Repaired pilot pump
+CASE-0934,MC-015,Bucket Cylinder,Cylinder leakage,oil residue building up on the cylinder rod after a long shift,Replaced cylinder rod seal
+CASE-0935,MC-006,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load during simultaneous functions,Replaced pump seal kit and flushed system
+CASE-0936,MC-007,Accumulator,Accumulator pressure loss,sudden jolt when starting any hydraulic function after startup,Replaced accumulator bladder
+CASE-0937,MC-016,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling on a slope,Cleaned suction strainer
+CASE-0938,MC-016,Hydraulic Line,Line restriction,intermittent loss of power only during turns after startup,Replaced hydraulic hose
+CASE-0939,MC-018,Arm Cylinder,Cylinder leakage,creeps down over several minutes when parked after a long shift,Replaced cylinder seal kit
+CASE-0940,MC-006,Control Valve,Valve problem,bucket curl function completely unresponsive during simultaneous functions,Cleaned and lubricated spool valve
+CASE-0941,MC-016,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup after refueling,Replaced pilot filter
+CASE-0942,MC-002,Pilot System,Pilot pressure problem,levers feel light and unresponsive on a slope,Replaced pilot pressure reducing valve
+CASE-0943,MC-003,Control Valve,Valve problem,bucket curl function completely unresponsive after startup,Cleaned and lubricated spool valve
+CASE-0944,MC-010,Oil Cooler,Cooler restriction,operation fine at start but slows on uneven ground,Replaced cooling fan motor
+CASE-0945,MC-016,Oil Cooler,Cooler restriction,performance drops as oil temperature rises on a slope,Replaced cooling fan motor
+CASE-0946,MC-002,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably intermittently,Rebuilt main pump assembly
+CASE-0947,MC-001,Pilot System,Pilot pressure problem,levers feel light and unresponsive during simultaneous functions,Replaced pilot pressure reducing valve
+CASE-0948,MC-005,Control Valve,Valve problem,one function works fine but another is weak intermittently,Cleaned and lubricated spool valve
+CASE-0949,MC-008,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder after startup,Replaced cylinder holding valve
+CASE-0950,MC-013,Oil Cooler,Cooler restriction,operation fine at start but slows after a long shift,Replaced seized cooling fan bearing
+CASE-0951,MC-020,Boom Cylinder,Cylinder leakage,weak force compared to other functions during simultaneous functions,Replaced cylinder rod seal
+CASE-0952,MC-016,Hydraulic Line,Line restriction,slow function only on one side of the machine during simultaneous functions,Replaced worn hydraulic hose near swing joint
+CASE-0953,MC-005,Control Valve,Valve problem,boom does not respond smoothly to lever input at high RPM,Cleaned and adjusted spool valve linkage
+CASE-0954,MC-014,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked intermittently,Replaced cylinder assembly
+CASE-0955,MC-013,Control Valve,Valve problem,one function works fine but another is weak when cold,Replaced directional control valve
+CASE-0956,MC-006,Hydraulic Oil,Oil contamination,system-wide power loss with visible oil issue after refueling,Replaced with correct oil grade
+CASE-0957,MC-008,Hydraulic Pump,Internal pump leakage,digging force dropped noticeably under load,Repaired internal pump components
+CASE-0958,MC-013,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked after a long shift,Replaced cylinder rod seal
+CASE-0959,MC-005,Bucket Cylinder,Cylinder leakage,weak force compared to other functions under load,Replaced cylinder seal kit
+CASE-0960,MC-011,Hydraulic Filter,Filter blockage,sudden jerky movement after refueling during digging cycles,Replaced return line filter
+CASE-0961,MC-016,Oil Cooler,Cooler restriction,machine slows down noticeably during digging cycles,Cleaned and flushed cooler
+CASE-0962,MC-017,Hydraulic Filter,Filter blockage,jerky and inconsistent boom motion under load,Cleaned suction strainer
+CASE-0963,MC-008,Accumulator,Accumulator pressure loss,delayed response when starting boom movement intermittently,Serviced accumulator and recharged pressure
+CASE-0964,MC-014,Hydraulic Filter,Filter blockage,inconsistent response across functions after a long shift,Cleaned suction strainer
+CASE-0965,MC-008,Pilot System,Pilot pressure problem,machine feels unresponsive right after startup on uneven ground,Repaired pilot pump
+CASE-0966,MC-001,Hydraulic Line,Line restriction,intermittent loss of power only during turns when cold,Replaced fitting and line section
+CASE-0967,MC-013,Hydraulic Pump,Internal pump leakage,overall power loss across all functions on a slope,Rebuilt main pump assembly
+CASE-0968,MC-014,Oil Cooler,Cooler restriction,machine slows down noticeably after refueling,Pressure-washed cooler core
+CASE-0969,MC-002,Oil Cooler,Cooler restriction,performance drops as oil temperature rises at high RPM,Replaced seized cooling fan bearing
+CASE-0970,MC-018,Control Valve,Valve problem,uneven response between functions on a slope,Cleaned and lubricated spool valve
+CASE-0971,MC-014,Pilot System,Pilot pressure problem,inconsistent control response across functions at high RPM,Replaced pilot filter
+CASE-0972,MC-013,Accumulator,Accumulator pressure loss,jerky start on hydraulic functions after startup under load,Serviced accumulator and recharged pressure
+CASE-0973,MC-007,Hydraulic Pump,Internal pump leakage,overall power loss across all functions after startup,Repaired internal pump components
+CASE-0974,MC-009,Hydraulic Filter,Filter blockage,loss of power during simultaneous functions during digging cycles,Replaced hydraulic filter element
+CASE-0975,MC-014,Hydraulic Oil,Oil contamination,unusual noise and reduced power in all functions at high RPM,"Drained oil, replaced breather cap, refilled"
+CASE-0976,MC-010,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising during digging cycles",Replaced seized cooling fan bearing
+CASE-0977,MC-004,Control Valve,Valve problem,one function works fine but another is weak when hot,Replaced directional control valve
+CASE-0978,MC-008,Oil Cooler,Cooler restriction,overheating warning light followed by slow response intermittently,Replaced seized cooling fan bearing
+CASE-0979,MC-001,Oil Cooler,Cooler restriction,machine slows down noticeably when cold,Pressure-washed cooler core
+CASE-0980,MC-010,Bucket Cylinder,Cylinder leakage,weak force compared to other functions after startup,Replaced cylinder holding valve
+CASE-0981,MC-003,Oil Cooler,Cooler restriction,"cooler fan not spinning, oil temperature rising when hot",Pressure-washed cooler core
+CASE-0982,MC-017,Hydraulic Oil,Oil contamination,overall sluggish performance across all functions after a long shift,Drained and replaced hydraulic oil
+CASE-0983,MC-005,Hydraulic Pump,Internal pump leakage,noticeable loss of hydraulic power after a long shift,Replaced pump seal kit
+CASE-0984,MC-004,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal after refueling,Replaced pilot pressure reducing valve
+CASE-0985,MC-013,Hydraulic Line,Line restriction,intermittent loss of power only during turns after a long shift,Replaced fitting and line section
+CASE-0986,MC-016,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force after startup,Replaced pump wear plate
+CASE-0987,MC-006,Hydraulic Pump,Internal pump leakage,slow boom movement and weak digging force during simultaneous functions,Rebuilt main pump assembly
+CASE-0988,MC-007,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving when hot,Serviced accumulator and recharged pressure
+CASE-0989,MC-002,Accumulator,Accumulator pressure loss,jerky start that smooths out once moving on a slope,Serviced accumulator and recharged pressure
+CASE-0990,MC-002,Hydraulic Oil,Oil contamination,performance degraded steadily over a month on uneven ground,Flushed system and replaced oil
+CASE-0991,MC-009,Bucket Cylinder,Cylinder leakage,visible fluid leak near the cylinder on uneven ground,Rebuilt cylinder
+CASE-0992,MC-013,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal under load,Replaced pilot filter
+CASE-0993,MC-017,Boom Cylinder,Cylinder leakage,cylinder slowly drops on its own when parked during simultaneous functions,Rebuilt cylinder
+CASE-0994,MC-007,Pilot System,Pilot pressure problem,all functions feel weak but pump pressure tests normal intermittently,Replaced pilot pressure reducing valve
+CASE-0995,MC-002,Boom Cylinder,Cylinder leakage,visible fluid leak near the cylinder intermittently,Replaced cylinder holding valve
+CASE-0996,MC-011,Hydraulic Line,Line restriction,gradual loss of pressure during long digging cycles on a slope,Replaced fitting and line section
+CASE-0997,MC-003,Bucket Cylinder,Cylinder leakage,visible fluid leak near the cylinder after startup,Replaced cylinder assembly
+CASE-0998,MC-016,Oil Cooler,Cooler restriction,overheating warning light followed by slow response during simultaneous functions,Pressure-washed cooler core
+CASE-0999,MC-017,Hydraulic Line,Line restriction,intermittent loss of power only during turns when hot,Replaced hydraulic hose
+CASE-1000,MC-007,Hydraulic Pump,Internal pump leakage,arm feels sluggish under load under load,Rebuilt main pump assembly

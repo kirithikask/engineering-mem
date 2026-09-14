@@ -1,0 +1,1001 @@
+case_id,machine_id,component,failure,symptoms,resolution
+CASE-0001,MC-003,Hydraulic Filter,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0002,MC-005,Accumulator,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0003,EXC-001,Hydraulic Pump,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0004,MC-005,Main Control Valve,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0005,MC-006,Bucket Cylinder,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0006,MC-017,Boom Cylinder,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0007,MC-002,Accumulator,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0008,EXC-009,Oil Cooler,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0009,EXC-008,Hydraulic Oil,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0010,EXC-004,Hydraulic Oil,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0011,MC-019,Swing Motor,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0012,MC-007,Hydraulic Pump,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0013,MC-018,Accumulator,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0014,EXC-009,Accumulator,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0015,MC-009,Hydraulic Pump,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0016,MC-011,Arm Cylinder,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0017,MC-008,Hydraulic Pump,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0018,MC-017,Travel Motor,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0019,MC-015,Main Control Valve,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0020,EXC-008,Oil Cooler,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0021,MC-016,Hydraulic Filter,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0022,MC-006,Travel Motor,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0023,MC-006,Hydraulic Filter,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0024,EXC-008,Oil Cooler,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0025,MC-001,Boom Cylinder,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0026,EXC-008,Travel Motor,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0027,MC-007,Hydraulic Oil,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0028,MC-001,Boom Cylinder,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0029,EXC-006,Boom Cylinder,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0030,MC-020,Hydraulic Filter,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0031,EXC-003,Arm Cylinder,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0032,MC-007,Boom Cylinder,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0033,MC-017,Bucket Cylinder,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0034,MC-013,Arm Cylinder,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0035,MC-017,Boom Cylinder,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0036,MC-012,Main Control Valve,Valve spool binding,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0037,MC-020,Main Control Valve,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0038,MC-019,Oil Cooler,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0039,MC-007,Hydraulic Filter,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0040,EXC-008,Hydraulic Line,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0041,MC-019,Bucket Cylinder,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0042,MC-020,Bucket Cylinder,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0043,EXC-002,Travel Motor,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0044,MC-012,Bucket Cylinder,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0045,MC-015,Main Control Valve,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0046,EXC-007,Hydraulic Oil,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0047,EXC-007,Travel Motor,Air ingress,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0048,MC-003,Hydraulic Pump,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0049,EXC-004,Hydraulic Pump,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0050,EXC-006,Pilot System,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0051,EXC-003,Pilot System,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0052,EXC-003,Hydraulic Line,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0053,MC-008,Accumulator,Air ingress,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0054,EXC-007,Hydraulic Line,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0055,EXC-004,Boom Cylinder,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0056,MC-019,Oil Cooler,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0057,MC-013,Hydraulic Filter,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0058,MC-012,Travel Motor,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0059,EXC-008,Travel Motor,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0060,EXC-005,Arm Cylinder,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0061,MC-003,Arm Cylinder,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0062,EXC-004,Bucket Cylinder,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0063,EXC-008,Accumulator,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0064,MC-018,Accumulator,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0065,MC-001,Oil Cooler,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0066,EXC-003,Hydraulic Line,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0067,MC-009,Arm Cylinder,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0068,MC-001,Hydraulic Oil,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0069,MC-020,Arm Cylinder,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0070,EXC-005,Oil Cooler,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0071,MC-004,Hydraulic Filter,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0072,MC-006,Hydraulic Line,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0073,EXC-005,Boom Cylinder,Valve spool binding,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0074,MC-002,Swing Motor,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0075,MC-011,Hydraulic Pump,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0076,MC-020,Boom Cylinder,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0077,MC-009,Pilot System,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0078,MC-019,Swing Motor,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0079,MC-004,Main Control Valve,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0080,MC-013,Hydraulic Pump,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0081,MC-014,Hydraulic Oil,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0082,EXC-006,Main Control Valve,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0083,MC-004,Hydraulic Pump,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0084,MC-020,Arm Cylinder,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0085,MC-008,Travel Motor,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0086,MC-006,Boom Cylinder,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0087,MC-008,Bucket Cylinder,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0088,EXC-002,Main Control Valve,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0089,MC-011,Accumulator,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0090,MC-017,Boom Cylinder,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0091,EXC-002,Main Control Valve,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0092,MC-007,Arm Cylinder,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0093,MC-012,Oil Cooler,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0094,MC-014,Oil Cooler,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0095,EXC-004,Bucket Cylinder,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0096,MC-007,Arm Cylinder,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0097,EXC-008,Pilot System,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0098,MC-008,Pilot System,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0099,MC-001,Accumulator,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0100,MC-008,Pilot System,Air ingress,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0101,MC-012,Bucket Cylinder,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0102,MC-007,Boom Cylinder,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0103,MC-002,Arm Cylinder,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0104,EXC-003,Main Control Valve,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0105,MC-002,Hydraulic Pump,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0106,MC-012,Bucket Cylinder,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0107,EXC-001,Hydraulic Line,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0108,MC-016,Hydraulic Oil,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0109,EXC-008,Bucket Cylinder,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0110,EXC-007,Accumulator,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0111,MC-019,Bucket Cylinder,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0112,EXC-005,Hydraulic Pump,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0113,MC-020,Arm Cylinder,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0114,MC-002,Arm Cylinder,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0115,MC-012,Arm Cylinder,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0116,MC-004,Hydraulic Oil,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0117,MC-006,Swing Motor,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0118,MC-004,Hydraulic Oil,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0119,EXC-008,Oil Cooler,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0120,MC-010,Hydraulic Filter,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0121,MC-010,Main Control Valve,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0122,EXC-008,Bucket Cylinder,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0123,MC-019,Pilot System,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0124,EXC-008,Bucket Cylinder,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0125,EXC-008,Pilot System,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0126,EXC-001,Hydraulic Filter,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0127,MC-014,Hydraulic Line,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0128,MC-017,Oil Cooler,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0129,EXC-008,Arm Cylinder,Line restriction,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0130,EXC-001,Accumulator,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0131,MC-011,Swing Motor,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0132,MC-016,Oil Cooler,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0133,EXC-005,Accumulator,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0134,MC-003,Hydraulic Oil,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0135,EXC-004,Hydraulic Pump,Air ingress,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0136,EXC-009,Bucket Cylinder,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0137,MC-008,Hydraulic Oil,Line restriction,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0138,MC-002,Boom Cylinder,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0139,EXC-003,Hydraulic Oil,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0140,MC-003,Hydraulic Oil,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0141,MC-019,Hydraulic Oil,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0142,MC-020,Bucket Cylinder,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0143,MC-019,Pilot System,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0144,MC-015,Hydraulic Line,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0145,EXC-004,Oil Cooler,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0146,MC-019,Travel Motor,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0147,EXC-002,Hydraulic Line,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0148,MC-017,Bucket Cylinder,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0149,MC-011,Bucket Cylinder,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0150,MC-019,Main Control Valve,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0151,MC-017,Pilot System,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0152,EXC-003,Swing Motor,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0153,MC-007,Pilot System,Line restriction,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0154,MC-004,Accumulator,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0155,MC-003,Accumulator,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0156,EXC-003,Hydraulic Oil,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0157,EXC-002,Pilot System,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0158,MC-008,Hydraulic Line,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0159,MC-006,Bucket Cylinder,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0160,MC-007,Hydraulic Oil,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0161,MC-015,Oil Cooler,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0162,MC-010,Swing Motor,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0163,EXC-006,Arm Cylinder,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0164,MC-008,Boom Cylinder,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0165,MC-015,Hydraulic Line,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0166,MC-010,Boom Cylinder,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0167,EXC-006,Oil Cooler,Line restriction,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0168,EXC-002,Arm Cylinder,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0169,EXC-009,Pilot System,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0170,MC-014,Bucket Cylinder,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0171,EXC-005,Hydraulic Filter,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0172,MC-004,Pilot System,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0173,EXC-005,Boom Cylinder,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0174,MC-017,Accumulator,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0175,MC-006,Travel Motor,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0176,MC-010,Travel Motor,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0177,EXC-003,Accumulator,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0178,MC-004,Pilot System,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0179,MC-002,Swing Motor,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0180,MC-005,Hydraulic Filter,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0181,MC-015,Travel Motor,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0182,MC-010,Travel Motor,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0183,MC-001,Pilot System,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0184,MC-009,Bucket Cylinder,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0185,MC-017,Pilot System,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0186,EXC-006,Hydraulic Line,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0187,MC-012,Pilot System,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0188,EXC-001,Oil Cooler,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0189,EXC-008,Oil Cooler,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0190,EXC-003,Main Control Valve,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0191,MC-005,Main Control Valve,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0192,EXC-001,Boom Cylinder,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0193,MC-002,Pilot System,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0194,MC-017,Hydraulic Oil,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0195,MC-003,Hydraulic Pump,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0196,EXC-004,Hydraulic Pump,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0197,MC-009,Hydraulic Oil,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0198,EXC-008,Main Control Valve,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0199,MC-003,Hydraulic Pump,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0200,EXC-005,Oil Cooler,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0201,MC-009,Hydraulic Oil,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0202,MC-015,Hydraulic Line,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0203,MC-020,Hydraulic Pump,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0204,MC-020,Bucket Cylinder,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0205,MC-008,Bucket Cylinder,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0206,MC-015,Hydraulic Pump,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0207,MC-001,Travel Motor,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0208,MC-003,Arm Cylinder,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0209,MC-004,Hydraulic Line,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0210,MC-016,Oil Cooler,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0211,MC-007,Travel Motor,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0212,MC-005,Pilot System,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0213,MC-005,Oil Cooler,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0214,MC-018,Travel Motor,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0215,MC-009,Boom Cylinder,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0216,MC-013,Hydraulic Oil,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0217,MC-008,Bucket Cylinder,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0218,MC-014,Hydraulic Line,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0219,MC-019,Swing Motor,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0220,EXC-009,Swing Motor,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0221,MC-009,Hydraulic Filter,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0222,EXC-006,Boom Cylinder,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0223,MC-018,Main Control Valve,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0224,MC-001,Pilot System,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0225,EXC-007,Hydraulic Oil,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0226,MC-001,Main Control Valve,Air ingress,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0227,MC-011,Oil Cooler,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0228,MC-006,Hydraulic Line,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0229,EXC-003,Travel Motor,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0230,MC-002,Accumulator,Air ingress,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0231,MC-018,Arm Cylinder,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0232,MC-005,Arm Cylinder,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0233,MC-010,Travel Motor,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0234,EXC-004,Swing Motor,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0235,MC-015,Hydraulic Line,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0236,MC-010,Hydraulic Oil,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0237,MC-009,Oil Cooler,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0238,MC-006,Arm Cylinder,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0239,MC-007,Hydraulic Oil,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0240,MC-008,Pilot System,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0241,MC-003,Bucket Cylinder,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0242,EXC-008,Oil Cooler,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0243,EXC-007,Hydraulic Line,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0244,MC-018,Bucket Cylinder,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0245,MC-007,Hydraulic Oil,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0246,EXC-008,Accumulator,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0247,EXC-003,Swing Motor,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0248,MC-002,Hydraulic Filter,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0249,MC-011,Swing Motor,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0250,EXC-001,Arm Cylinder,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0251,MC-015,Accumulator,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0252,EXC-008,Hydraulic Filter,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0253,EXC-003,Hydraulic Oil,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0254,MC-006,Hydraulic Line,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0255,MC-017,Swing Motor,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0256,MC-017,Hydraulic Line,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0257,EXC-009,Pilot System,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0258,MC-016,Pilot System,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0259,EXC-008,Hydraulic Pump,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0260,EXC-005,Hydraulic Pump,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0261,MC-002,Hydraulic Pump,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0262,MC-006,Oil Cooler,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0263,MC-018,Pilot System,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0264,MC-013,Bucket Cylinder,Line restriction,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0265,MC-011,Pilot System,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0266,EXC-002,Pilot System,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0267,MC-006,Main Control Valve,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0268,EXC-005,Hydraulic Pump,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0269,EXC-002,Hydraulic Filter,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0270,MC-002,Accumulator,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0271,MC-020,Hydraulic Oil,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0272,EXC-003,Swing Motor,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0273,EXC-006,Pilot System,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0274,MC-013,Oil Cooler,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0275,MC-006,Oil Cooler,Line restriction,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0276,MC-008,Hydraulic Oil,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0277,MC-005,Arm Cylinder,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0278,MC-007,Pilot System,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0279,EXC-004,Oil Cooler,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0280,MC-013,Arm Cylinder,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0281,EXC-003,Oil Cooler,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0282,MC-013,Accumulator,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0283,EXC-001,Hydraulic Oil,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0284,EXC-002,Boom Cylinder,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0285,EXC-007,Bucket Cylinder,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0286,MC-014,Arm Cylinder,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0287,EXC-005,Pilot System,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0288,EXC-002,Travel Motor,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0289,MC-011,Hydraulic Oil,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0290,MC-017,Pilot System,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0291,MC-010,Accumulator,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0292,MC-013,Hydraulic Pump,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0293,MC-005,Hydraulic Pump,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0294,EXC-005,Hydraulic Line,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0295,MC-001,Pilot System,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0296,MC-008,Bucket Cylinder,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0297,MC-009,Arm Cylinder,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0298,EXC-007,Swing Motor,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0299,EXC-003,Travel Motor,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0300,EXC-002,Oil Cooler,Line restriction,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0301,MC-014,Hydraulic Oil,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0302,MC-005,Travel Motor,Air ingress,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0303,MC-020,Oil Cooler,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0304,MC-014,Travel Motor,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0305,EXC-001,Bucket Cylinder,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0306,MC-011,Hydraulic Filter,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0307,MC-008,Hydraulic Oil,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0308,MC-006,Boom Cylinder,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0309,MC-020,Oil Cooler,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0310,EXC-006,Pilot System,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0311,MC-014,Accumulator,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0312,MC-020,Travel Motor,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0313,MC-007,Hydraulic Filter,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0314,MC-007,Bucket Cylinder,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0315,MC-013,Pilot System,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0316,EXC-008,Arm Cylinder,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0317,MC-005,Hydraulic Pump,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0318,EXC-009,Pilot System,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0319,MC-001,Bucket Cylinder,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0320,EXC-003,Pilot System,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0321,EXC-007,Accumulator,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0322,EXC-006,Swing Motor,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0323,MC-002,Main Control Valve,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0324,MC-015,Main Control Valve,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0325,EXC-005,Accumulator,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0326,MC-005,Main Control Valve,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0327,EXC-001,Hydraulic Pump,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0328,MC-014,Hydraulic Line,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0329,MC-001,Hydraulic Filter,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0330,EXC-003,Hydraulic Oil,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0331,EXC-007,Hydraulic Line,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0332,MC-011,Boom Cylinder,Air ingress,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0333,MC-005,Travel Motor,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0334,MC-007,Pilot System,Line restriction,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0335,EXC-002,Main Control Valve,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0336,MC-020,Hydraulic Line,Line restriction,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0337,MC-010,Hydraulic Line,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0338,MC-010,Hydraulic Line,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0339,EXC-003,Swing Motor,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0340,MC-017,Boom Cylinder,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0341,EXC-001,Main Control Valve,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0342,EXC-006,Boom Cylinder,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0343,EXC-006,Swing Motor,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0344,EXC-001,Accumulator,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0345,MC-011,Bucket Cylinder,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0346,EXC-003,Pilot System,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0347,MC-014,Hydraulic Pump,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0348,MC-003,Hydraulic Line,Valve spool binding,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0349,MC-016,Swing Motor,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0350,MC-006,Travel Motor,Line restriction,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0351,EXC-006,Oil Cooler,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0352,MC-005,Hydraulic Filter,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0353,MC-020,Travel Motor,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0354,MC-011,Swing Motor,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0355,MC-003,Oil Cooler,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0356,MC-019,Swing Motor,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0357,MC-004,Hydraulic Oil,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0358,EXC-009,Accumulator,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0359,MC-014,Swing Motor,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0360,EXC-004,Swing Motor,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0361,EXC-004,Hydraulic Pump,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0362,MC-015,Swing Motor,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0363,MC-007,Hydraulic Line,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0364,EXC-005,Arm Cylinder,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0365,MC-010,Main Control Valve,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0366,EXC-002,Hydraulic Pump,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0367,MC-002,Pilot System,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0368,MC-008,Arm Cylinder,Air ingress,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0369,MC-015,Main Control Valve,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0370,MC-007,Hydraulic Oil,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0371,EXC-007,Boom Cylinder,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0372,MC-018,Bucket Cylinder,Line restriction,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0373,EXC-008,Arm Cylinder,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0374,MC-004,Hydraulic Line,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0375,EXC-001,Hydraulic Pump,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0376,EXC-003,Main Control Valve,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0377,MC-013,Travel Motor,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0378,MC-005,Arm Cylinder,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0379,MC-014,Pilot System,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0380,MC-015,Accumulator,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0381,EXC-003,Boom Cylinder,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0382,MC-004,Main Control Valve,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0383,EXC-007,Accumulator,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0384,MC-019,Arm Cylinder,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0385,MC-009,Hydraulic Oil,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0386,MC-012,Hydraulic Oil,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0387,MC-003,Boom Cylinder,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0388,MC-008,Arm Cylinder,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0389,MC-006,Bucket Cylinder,Air ingress,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0390,MC-015,Hydraulic Filter,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0391,EXC-001,Main Control Valve,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0392,MC-013,Boom Cylinder,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0393,MC-020,Travel Motor,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0394,MC-006,Boom Cylinder,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0395,EXC-009,Hydraulic Pump,Line restriction,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0396,EXC-007,Main Control Valve,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0397,MC-001,Hydraulic Pump,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0398,MC-010,Swing Motor,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0399,MC-003,Bucket Cylinder,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0400,EXC-009,Bucket Cylinder,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0401,MC-008,Swing Motor,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0402,EXC-003,Pilot System,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0403,MC-014,Travel Motor,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0404,EXC-002,Boom Cylinder,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0405,MC-012,Hydraulic Filter,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0406,EXC-005,Accumulator,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0407,MC-003,Hydraulic Filter,Air ingress,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0408,MC-004,Hydraulic Pump,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0409,MC-002,Main Control Valve,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0410,MC-001,Bucket Cylinder,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0411,MC-016,Swing Motor,Valve spool binding,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0412,EXC-005,Boom Cylinder,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0413,EXC-009,Arm Cylinder,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0414,MC-002,Hydraulic Pump,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0415,EXC-006,Hydraulic Filter,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0416,EXC-008,Main Control Valve,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0417,EXC-006,Swing Motor,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0418,MC-011,Boom Cylinder,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0419,MC-015,Hydraulic Pump,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0420,MC-018,Hydraulic Oil,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0421,MC-014,Hydraulic Filter,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0422,MC-008,Main Control Valve,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0423,MC-006,Oil Cooler,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0424,EXC-004,Hydraulic Pump,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0425,MC-004,Hydraulic Pump,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0426,EXC-009,Swing Motor,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0427,MC-006,Hydraulic Oil,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0428,MC-016,Pilot System,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0429,MC-002,Travel Motor,Line restriction,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0430,EXC-007,Accumulator,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0431,MC-017,Arm Cylinder,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0432,EXC-006,Hydraulic Oil,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0433,EXC-001,Swing Motor,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0434,EXC-007,Arm Cylinder,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0435,EXC-008,Oil Cooler,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0436,MC-020,Oil Cooler,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0437,MC-013,Pilot System,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0438,MC-002,Bucket Cylinder,Valve spool binding,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0439,MC-009,Main Control Valve,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0440,MC-010,Accumulator,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0441,MC-014,Accumulator,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0442,EXC-005,Oil Cooler,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0443,EXC-006,Hydraulic Filter,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0444,MC-004,Hydraulic Line,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0445,MC-006,Hydraulic Line,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0446,EXC-007,Hydraulic Filter,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0447,EXC-003,Hydraulic Filter,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0448,EXC-009,Main Control Valve,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0449,EXC-004,Travel Motor,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0450,MC-009,Accumulator,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0451,MC-014,Hydraulic Pump,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0452,EXC-007,Swing Motor,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0453,MC-020,Bucket Cylinder,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0454,MC-011,Boom Cylinder,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0455,EXC-001,Swing Motor,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0456,EXC-001,Accumulator,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0457,MC-016,Oil Cooler,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0458,EXC-009,Hydraulic Oil,Valve spool binding,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0459,EXC-007,Pilot System,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0460,MC-008,Boom Cylinder,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0461,MC-006,Main Control Valve,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0462,MC-001,Arm Cylinder,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0463,MC-017,Boom Cylinder,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0464,MC-015,Hydraulic Line,Air ingress,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0465,MC-013,Oil Cooler,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0466,MC-003,Pilot System,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0467,MC-008,Hydraulic Line,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0468,MC-005,Hydraulic Pump,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0469,MC-001,Main Control Valve,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0470,EXC-009,Pilot System,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0471,EXC-008,Main Control Valve,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0472,MC-005,Hydraulic Line,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0473,MC-020,Pilot System,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0474,MC-006,Hydraulic Line,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0475,EXC-004,Accumulator,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0476,EXC-009,Hydraulic Oil,Line restriction,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0477,MC-018,Arm Cylinder,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0478,MC-001,Hydraulic Oil,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0479,EXC-003,Pilot System,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0480,MC-011,Travel Motor,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0481,EXC-001,Swing Motor,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0482,EXC-001,Travel Motor,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0483,MC-005,Oil Cooler,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0484,MC-015,Hydraulic Pump,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0485,MC-018,Main Control Valve,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0486,MC-004,Hydraulic Pump,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0487,MC-003,Boom Cylinder,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0488,MC-015,Pilot System,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0489,MC-011,Accumulator,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0490,MC-015,Hydraulic Oil,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0491,EXC-008,Swing Motor,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0492,MC-019,Bucket Cylinder,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0493,MC-020,Oil Cooler,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0494,MC-011,Hydraulic Pump,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0495,MC-006,Hydraulic Pump,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0496,MC-010,Hydraulic Filter,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0497,EXC-006,Arm Cylinder,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0498,EXC-007,Hydraulic Pump,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0499,EXC-006,Boom Cylinder,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0500,EXC-005,Accumulator,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0501,MC-017,Hydraulic Filter,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0502,EXC-009,Pilot System,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0503,EXC-005,Hydraulic Filter,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0504,MC-017,Travel Motor,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0505,MC-016,Hydraulic Line,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0506,EXC-002,Oil Cooler,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0507,MC-016,Hydraulic Oil,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0508,MC-017,Travel Motor,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0509,MC-019,Hydraulic Filter,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0510,MC-008,Hydraulic Oil,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0511,EXC-001,Bucket Cylinder,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0512,EXC-001,Hydraulic Line,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0513,MC-002,Hydraulic Oil,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0514,MC-012,Hydraulic Filter,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0515,MC-008,Pilot System,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0516,MC-001,Hydraulic Line,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0517,EXC-001,Hydraulic Oil,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0518,MC-007,Hydraulic Filter,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0519,MC-003,Hydraulic Pump,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0520,MC-019,Travel Motor,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0521,MC-011,Hydraulic Line,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0522,EXC-002,Hydraulic Pump,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0523,MC-003,Oil Cooler,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0524,MC-004,Main Control Valve,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0525,MC-008,Main Control Valve,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0526,EXC-004,Main Control Valve,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0527,MC-009,Swing Motor,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0528,EXC-001,Hydraulic Line,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0529,EXC-004,Hydraulic Pump,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0530,MC-003,Hydraulic Oil,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0531,EXC-005,Hydraulic Pump,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0532,MC-003,Boom Cylinder,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0533,MC-014,Hydraulic Pump,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0534,MC-013,Pilot System,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0535,EXC-005,Accumulator,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0536,MC-011,Travel Motor,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0537,MC-009,Hydraulic Filter,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0538,MC-012,Bucket Cylinder,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0539,MC-009,Oil Cooler,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0540,MC-012,Hydraulic Oil,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0541,MC-014,Hydraulic Line,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0542,MC-011,Pilot System,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0543,MC-002,Hydraulic Oil,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0544,EXC-009,Hydraulic Oil,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0545,MC-012,Hydraulic Oil,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0546,MC-020,Accumulator,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0547,MC-012,Travel Motor,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0548,MC-020,Pilot System,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0549,MC-001,Hydraulic Pump,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0550,EXC-006,Hydraulic Filter,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0551,EXC-002,Travel Motor,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0552,MC-006,Hydraulic Filter,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0553,MC-019,Pilot System,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0554,MC-014,Bucket Cylinder,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0555,EXC-003,Hydraulic Pump,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0556,MC-003,Swing Motor,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0557,EXC-008,Oil Cooler,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0558,MC-004,Hydraulic Filter,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0559,MC-014,Travel Motor,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0560,MC-003,Main Control Valve,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0561,EXC-008,Oil Cooler,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0562,MC-011,Pilot System,Air ingress,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0563,MC-005,Boom Cylinder,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0564,EXC-007,Oil Cooler,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0565,EXC-001,Boom Cylinder,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0566,MC-017,Hydraulic Pump,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0567,MC-014,Swing Motor,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0568,MC-015,Bucket Cylinder,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0569,EXC-006,Boom Cylinder,Air ingress,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0570,EXC-002,Hydraulic Oil,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0571,MC-020,Hydraulic Line,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0572,MC-009,Travel Motor,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0573,MC-014,Hydraulic Pump,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0574,EXC-006,Hydraulic Pump,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0575,MC-019,Main Control Valve,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0576,MC-009,Hydraulic Oil,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0577,MC-013,Accumulator,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0578,EXC-005,Hydraulic Oil,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0579,EXC-004,Bucket Cylinder,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0580,MC-017,Boom Cylinder,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0581,EXC-008,Pilot System,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0582,MC-013,Travel Motor,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0583,MC-007,Arm Cylinder,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0584,MC-009,Swing Motor,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0585,EXC-003,Oil Cooler,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0586,EXC-006,Accumulator,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0587,EXC-003,Pilot System,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0588,MC-017,Main Control Valve,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0589,MC-019,Arm Cylinder,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0590,EXC-006,Accumulator,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0591,MC-008,Hydraulic Pump,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0592,MC-004,Main Control Valve,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0593,MC-006,Hydraulic Filter,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0594,EXC-003,Oil Cooler,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0595,EXC-007,Accumulator,Cylinder seal wear,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0596,MC-013,Travel Motor,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0597,MC-012,Hydraulic Oil,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0598,EXC-004,Oil Cooler,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0599,MC-011,Oil Cooler,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0600,MC-014,Main Control Valve,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0601,MC-016,Travel Motor,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0602,EXC-008,Hydraulic Filter,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0603,EXC-008,Swing Motor,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0604,MC-006,Bucket Cylinder,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0605,MC-012,Main Control Valve,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0606,MC-012,Accumulator,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0607,EXC-003,Swing Motor,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0608,MC-014,Oil Cooler,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0609,MC-017,Boom Cylinder,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0610,EXC-003,Hydraulic Oil,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0611,EXC-002,Accumulator,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0612,MC-008,Swing Motor,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0613,MC-019,Swing Motor,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0614,EXC-002,Travel Motor,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0615,EXC-005,Travel Motor,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0616,MC-018,Hydraulic Pump,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0617,MC-016,Swing Motor,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0618,EXC-001,Accumulator,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0619,MC-009,Boom Cylinder,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0620,MC-009,Travel Motor,Air ingress,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0621,EXC-002,Main Control Valve,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0622,MC-015,Pilot System,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0623,MC-015,Bucket Cylinder,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0624,MC-013,Hydraulic Filter,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0625,EXC-005,Hydraulic Filter,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0626,MC-014,Hydraulic Filter,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0627,MC-016,Travel Motor,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0628,MC-015,Hydraulic Oil,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0629,MC-017,Arm Cylinder,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0630,MC-008,Accumulator,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0631,EXC-005,Swing Motor,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0632,MC-002,Oil Cooler,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0633,MC-008,Hydraulic Pump,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0634,EXC-002,Boom Cylinder,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0635,MC-002,Hydraulic Pump,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0636,MC-014,Hydraulic Line,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0637,MC-002,Travel Motor,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0638,MC-019,Arm Cylinder,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0639,EXC-002,Pilot System,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0640,MC-014,Hydraulic Filter,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0641,MC-001,Hydraulic Oil,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0642,MC-015,Boom Cylinder,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0643,EXC-005,Hydraulic Pump,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0644,MC-019,Boom Cylinder,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0645,EXC-007,Hydraulic Filter,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0646,MC-003,Boom Cylinder,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0647,MC-004,Main Control Valve,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0648,MC-009,Main Control Valve,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0649,MC-002,Boom Cylinder,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0650,EXC-005,Hydraulic Oil,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0651,MC-015,Pilot System,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0652,EXC-004,Travel Motor,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0653,MC-002,Accumulator,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0654,MC-002,Hydraulic Line,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0655,MC-019,Pilot System,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0656,MC-007,Bucket Cylinder,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0657,MC-017,Bucket Cylinder,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0658,MC-013,Bucket Cylinder,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0659,MC-016,Boom Cylinder,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0660,MC-018,Boom Cylinder,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0661,EXC-003,Hydraulic Oil,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0662,MC-014,Swing Motor,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0663,EXC-009,Bucket Cylinder,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0664,MC-009,Swing Motor,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0665,EXC-009,Hydraulic Pump,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0666,EXC-006,Bucket Cylinder,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0667,MC-015,Hydraulic Line,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0668,MC-001,Oil Cooler,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0669,MC-016,Bucket Cylinder,Line restriction,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0670,MC-019,Hydraulic Filter,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0671,MC-015,Swing Motor,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0672,EXC-004,Main Control Valve,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0673,MC-006,Arm Cylinder,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0674,MC-016,Swing Motor,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0675,EXC-005,Main Control Valve,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0676,MC-008,Bucket Cylinder,Line restriction,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0677,MC-019,Travel Motor,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0678,MC-006,Accumulator,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0679,MC-016,Hydraulic Oil,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0680,EXC-007,Boom Cylinder,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0681,MC-018,Bucket Cylinder,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0682,MC-009,Hydraulic Pump,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0683,MC-009,Bucket Cylinder,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0684,MC-002,Arm Cylinder,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0685,MC-009,Oil Cooler,Air ingress,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0686,MC-009,Hydraulic Pump,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0687,EXC-003,Bucket Cylinder,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0688,MC-019,Accumulator,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0689,EXC-004,Main Control Valve,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0690,MC-015,Hydraulic Pump,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0691,EXC-007,Oil Cooler,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0692,MC-005,Hydraulic Oil,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0693,MC-019,Arm Cylinder,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0694,MC-003,Travel Motor,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0695,MC-003,Arm Cylinder,Valve spool binding,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0696,MC-005,Accumulator,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0697,MC-009,Hydraulic Pump,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0698,EXC-003,Arm Cylinder,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0699,EXC-003,Travel Motor,Air ingress,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0700,MC-017,Bucket Cylinder,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0701,MC-005,Boom Cylinder,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0702,MC-016,Hydraulic Filter,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0703,MC-006,Swing Motor,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0704,MC-006,Pilot System,Line restriction,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0705,EXC-003,Bucket Cylinder,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0706,MC-008,Hydraulic Filter,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0707,EXC-002,Hydraulic Line,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0708,EXC-002,Bucket Cylinder,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0709,EXC-003,Hydraulic Line,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0710,MC-002,Hydraulic Filter,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0711,MC-020,Bucket Cylinder,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0712,MC-009,Hydraulic Oil,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0713,MC-003,Boom Cylinder,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0714,EXC-007,Hydraulic Pump,Line restriction,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0715,MC-009,Hydraulic Pump,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0716,MC-006,Pilot System,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0717,EXC-004,Pilot System,Valve spool binding,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0718,EXC-003,Boom Cylinder,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0719,MC-008,Pilot System,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0720,MC-001,Travel Motor,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0721,MC-012,Main Control Valve,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0722,MC-018,Hydraulic Line,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0723,MC-018,Boom Cylinder,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0724,EXC-001,Oil Cooler,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0725,MC-006,Hydraulic Filter,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0726,MC-013,Hydraulic Filter,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0727,EXC-002,Pilot System,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0728,MC-018,Arm Cylinder,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0729,MC-002,Bucket Cylinder,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0730,EXC-005,Accumulator,Line restriction,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0731,EXC-001,Swing Motor,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0732,EXC-009,Hydraulic Oil,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0733,EXC-006,Hydraulic Line,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0734,EXC-005,Travel Motor,Internal pump leakage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0735,MC-020,Hydraulic Filter,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0736,MC-020,Hydraulic Oil,Air ingress,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0737,EXC-006,Oil Cooler,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0738,EXC-003,Hydraulic Line,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0739,EXC-004,Hydraulic Oil,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0740,MC-011,Arm Cylinder,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0741,MC-018,Swing Motor,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0742,MC-018,Hydraulic Pump,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0743,MC-004,Hydraulic Oil,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0744,MC-020,Boom Cylinder,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0745,MC-010,Arm Cylinder,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0746,MC-001,Swing Motor,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0747,MC-017,Boom Cylinder,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0748,MC-019,Accumulator,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0749,MC-019,Hydraulic Oil,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0750,MC-012,Bucket Cylinder,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0751,EXC-002,Swing Motor,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0752,MC-008,Main Control Valve,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0753,MC-002,Hydraulic Oil,Filter blockage,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0754,MC-003,Oil Cooler,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0755,EXC-008,Hydraulic Oil,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0756,MC-020,Main Control Valve,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0757,MC-018,Hydraulic Filter,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0758,MC-016,Bucket Cylinder,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0759,MC-007,Hydraulic Pump,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0760,EXC-006,Boom Cylinder,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0761,MC-002,Hydraulic Line,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0762,MC-015,Oil Cooler,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0763,MC-017,Hydraulic Filter,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0764,MC-009,Hydraulic Line,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0765,MC-006,Oil Cooler,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0766,EXC-009,Main Control Valve,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0767,EXC-006,Oil Cooler,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0768,MC-005,Arm Cylinder,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0769,MC-005,Main Control Valve,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0770,MC-003,Swing Motor,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0771,EXC-003,Boom Cylinder,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0772,MC-009,Swing Motor,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0773,EXC-006,Accumulator,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0774,MC-016,Main Control Valve,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0775,MC-012,Travel Motor,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0776,EXC-005,Travel Motor,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0777,EXC-009,Hydraulic Oil,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0778,MC-002,Arm Cylinder,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0779,MC-016,Swing Motor,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0780,MC-012,Bucket Cylinder,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0781,MC-009,Bucket Cylinder,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0782,MC-010,Hydraulic Oil,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0783,EXC-008,Accumulator,Internal pump leakage,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0784,MC-010,Boom Cylinder,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0785,MC-015,Hydraulic Oil,Oil contamination,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0786,EXC-004,Hydraulic Filter,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0787,MC-003,Travel Motor,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0788,EXC-008,Hydraulic Line,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0789,EXC-001,Travel Motor,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0790,MC-018,Travel Motor,Air ingress,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0791,MC-019,Hydraulic Pump,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0792,EXC-005,Arm Cylinder,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0793,MC-008,Hydraulic Filter,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0794,EXC-001,Hydraulic Oil,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0795,MC-010,Hydraulic Pump,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0796,MC-019,Hydraulic Pump,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0797,MC-014,Boom Cylinder,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0798,MC-009,Hydraulic Pump,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0799,MC-002,Accumulator,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0800,EXC-006,Swing Motor,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0801,MC-019,Arm Cylinder,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0802,MC-006,Hydraulic Oil,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0803,EXC-003,Main Control Valve,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0804,MC-006,Hydraulic Oil,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0805,MC-019,Hydraulic Pump,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0806,EXC-008,Arm Cylinder,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0807,EXC-003,Bucket Cylinder,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0808,MC-001,Main Control Valve,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0809,MC-007,Bucket Cylinder,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0810,MC-010,Accumulator,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0811,EXC-001,Travel Motor,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced worn hydraulic hose near swing joint
+CASE-0812,MC-015,Pilot System,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0813,MC-003,Travel Motor,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0814,MC-001,Accumulator,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0815,MC-009,Travel Motor,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0816,EXC-001,Arm Cylinder,Line restriction,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0817,MC-007,Oil Cooler,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0818,MC-016,Hydraulic Line,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0819,MC-020,Bucket Cylinder,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0820,EXC-005,Pilot System,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0821,MC-011,Hydraulic Line,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0822,MC-008,Oil Cooler,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0823,MC-009,Hydraulic Line,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0824,EXC-001,Main Control Valve,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Cleaned spool valve linkage and replaced valve seals
+CASE-0825,EXC-002,Hydraulic Line,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0826,MC-001,Hydraulic Line,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Bled hydraulic lines and replaced damaged fittings
+CASE-0827,MC-005,Oil Cooler,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0828,MC-007,Swing Motor,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0829,MC-018,Pilot System,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0830,EXC-004,Hydraulic Filter,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0831,MC-018,Swing Motor,Air ingress,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0832,MC-002,Swing Motor,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0833,MC-003,Bucket Cylinder,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0834,MC-020,Pilot System,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0835,MC-014,Hydraulic Filter,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0836,EXC-009,Hydraulic Pump,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0837,MC-011,Boom Cylinder,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0838,MC-012,Pilot System,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0839,MC-018,Bucket Cylinder,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0840,EXC-007,Hydraulic Filter,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0841,EXC-002,Pilot System,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0842,MC-014,Bucket Cylinder,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0843,MC-001,Arm Cylinder,Oil contamination,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0844,MC-004,Hydraulic Oil,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0845,MC-018,Bucket Cylinder,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0846,MC-004,Oil Cooler,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0847,MC-011,Hydraulic Filter,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0848,MC-017,Hydraulic Oil,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Replaced pilot pressure reducing valve and pilot filter
+CASE-0849,EXC-003,Bucket Cylinder,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0850,MC-016,Bucket Cylinder,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0851,EXC-002,Pilot System,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0852,EXC-006,Hydraulic Filter,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0853,MC-007,Main Control Valve,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0854,EXC-008,Hydraulic Line,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0855,MC-013,Main Control Valve,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0856,EXC-003,Boom Cylinder,Cooler restriction,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0857,EXC-006,Accumulator,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0858,EXC-003,Oil Cooler,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0859,MC-016,Travel Motor,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0860,EXC-004,Arm Cylinder,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0861,EXC-006,Pilot System,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0862,MC-014,Hydraulic Oil,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0863,MC-007,Hydraulic Oil,Line restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0864,MC-015,Oil Cooler,Cooler restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0865,MC-017,Boom Cylinder,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0866,EXC-005,Swing Motor,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0867,MC-008,Hydraulic Oil,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0868,MC-004,Arm Cylinder,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced pilot pressure reducing valve and pilot filter
+CASE-0869,MC-001,Pilot System,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0870,EXC-002,Arm Cylinder,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0871,MC-015,Swing Motor,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0872,MC-020,Hydraulic Oil,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0873,MC-012,Accumulator,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0874,EXC-002,Main Control Valve,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0875,MC-016,Arm Cylinder,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0876,MC-017,Swing Motor,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0877,MC-003,Bucket Cylinder,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Recharged accumulator pre-charge to specification
+CASE-0878,MC-013,Pilot System,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0879,MC-002,Bucket Cylinder,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0880,MC-017,Oil Cooler,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Rebuilt main pump assembly and replaced seals
+CASE-0881,MC-016,Main Control Valve,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0882,EXC-005,Travel Motor,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0883,MC-020,Hydraulic Oil,Line restriction,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0884,MC-011,Main Control Valve,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0885,MC-002,Travel Motor,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0886,MC-007,Boom Cylinder,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0887,EXC-002,Hydraulic Oil,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0888,MC-015,Arm Cylinder,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0889,MC-002,Hydraulic Filter,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0890,MC-011,Hydraulic Oil,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0891,EXC-001,Swing Motor,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0892,MC-013,Pilot System,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0893,MC-008,Arm Cylinder,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0894,MC-018,Bucket Cylinder,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced pilot pressure reducing valve and pilot filter
+CASE-0895,MC-001,Boom Cylinder,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Replaced worn hydraulic hose near swing joint
+CASE-0896,EXC-005,Hydraulic Oil,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Flushed oil cooler core and replaced fan motor
+CASE-0897,EXC-001,Travel Motor,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0898,MC-015,Bucket Cylinder,Air ingress,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0899,MC-020,Hydraulic Oil,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Flushed oil cooler core and replaced fan motor
+CASE-0900,EXC-005,Arm Cylinder,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0901,MC-001,Pilot System,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0902,MC-014,Pilot System,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0903,MC-014,Hydraulic Oil,Cooler restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0904,MC-020,Hydraulic Filter,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0905,MC-008,Oil Cooler,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0906,MC-002,Oil Cooler,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0907,MC-014,Hydraulic Oil,Accumulator pressure loss,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0908,MC-014,Accumulator,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced cylinder seals and holding valve
+CASE-0909,MC-003,Bucket Cylinder,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0910,EXC-007,Hydraulic Line,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0911,EXC-003,Hydraulic Pump,Air ingress,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0912,MC-018,Oil Cooler,Valve spool binding,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0913,EXC-002,Arm Cylinder,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0914,MC-004,Hydraulic Line,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0915,MC-012,Main Control Valve,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Recharged accumulator pre-charge to specification
+CASE-0916,MC-015,Pilot System,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0917,EXC-006,Hydraulic Line,Cylinder seal wear,Boom is slow; Arm is slow; Weak digging force,Bled hydraulic lines and replaced damaged fittings
+CASE-0918,MC-003,Hydraulic Pump,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0919,MC-002,Travel Motor,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0920,MC-018,Travel Motor,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0921,MC-013,Main Control Valve,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0922,EXC-007,Accumulator,Oil contamination,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced cylinder seals and holding valve
+CASE-0923,MC-008,Main Control Valve,Internal pump leakage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0924,MC-013,Hydraulic Line,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0925,MC-009,Hydraulic Pump,Line restriction,Boom is slow; Arm is slow; Weak digging force,Replaced cylinder seals and holding valve
+CASE-0926,EXC-001,Hydraulic Filter,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0927,EXC-001,Hydraulic Oil,Line restriction,Boom is slow; Arm is slow; Weak digging force,Cleaned spool valve linkage and replaced valve seals
+CASE-0928,MC-012,Travel Motor,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0929,MC-016,Oil Cooler,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0930,EXC-003,Pilot System,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings
+CASE-0931,MC-005,Hydraulic Oil,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Flushed oil cooler core and replaced fan motor
+CASE-0932,MC-011,Travel Motor,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0933,MC-017,Hydraulic Filter,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0934,MC-007,Hydraulic Line,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0935,EXC-007,Hydraulic Line,Line restriction,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0936,MC-013,Hydraulic Oil,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0937,MC-001,Arm Cylinder,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0938,MC-010,Hydraulic Oil,Internal pump leakage,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0939,MC-014,Oil Cooler,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0940,MC-019,Hydraulic Line,Accumulator pressure loss,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced worn hydraulic hose near swing joint
+CASE-0941,MC-003,Hydraulic Filter,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0942,MC-004,Bucket Cylinder,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0943,MC-007,Swing Motor,Filter blockage,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Flushed oil cooler core and replaced fan motor
+CASE-0944,EXC-009,Arm Cylinder,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0945,MC-002,Hydraulic Filter,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0946,MC-003,Travel Motor,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Replaced cylinder seals and holding valve
+CASE-0947,MC-020,Oil Cooler,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0948,MC-006,Hydraulic Oil,Valve spool binding,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0949,EXC-005,Swing Motor,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0950,EXC-002,Bucket Cylinder,Valve spool binding,Levers feel light and unresponsive; Delayed function response; Uneven function speed,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0951,EXC-009,Hydraulic Line,Line restriction,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0952,MC-020,Hydraulic Line,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0953,MC-015,Hydraulic Line,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0954,MC-007,Oil Cooler,Pilot pressure drop,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0955,MC-011,Pilot System,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0956,EXC-002,Hydraulic Line,Pilot pressure drop,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0957,EXC-003,Arm Cylinder,Valve spool binding,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Bled hydraulic lines and replaced damaged fittings
+CASE-0958,MC-007,Arm Cylinder,Filter blockage,Functions drift down when idle; Pressure drop under load; Sluggish response,Replaced cylinder seals and holding valve
+CASE-0959,MC-011,Boom Cylinder,Cooler restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Flushed oil cooler core and replaced fan motor
+CASE-0960,MC-017,Hydraulic Filter,Oil contamination,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0961,EXC-005,Bucket Cylinder,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0962,MC-005,Arm Cylinder,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Recharged accumulator pre-charge to specification
+CASE-0963,EXC-007,Accumulator,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced pilot pressure reducing valve and pilot filter
+CASE-0964,MC-002,Accumulator,Pilot pressure drop,Functions drift down when idle; Pressure drop under load; Sluggish response,Rebuilt main pump assembly and replaced seals
+CASE-0965,MC-003,Oil Cooler,Accumulator pressure loss,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0966,MC-015,Boom Cylinder,Air ingress,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Recharged accumulator pre-charge to specification
+CASE-0967,MC-014,Arm Cylinder,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0968,MC-002,Travel Motor,Pilot pressure drop,Jerky cylinder movement; Inconsistent control response; System noise,Cleaned spool valve linkage and replaced valve seals
+CASE-0969,MC-020,Accumulator,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0970,EXC-004,Bucket Cylinder,Oil contamination,Boom is slow; Arm is slow; Weak digging force,Rebuilt main pump assembly and replaced seals
+CASE-0971,MC-011,Bucket Cylinder,Filter blockage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0972,MC-002,Hydraulic Filter,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0973,MC-020,Hydraulic Line,Line restriction,Functions drift down when idle; Pressure drop under load; Sluggish response,Cleaned spool valve linkage and replaced valve seals
+CASE-0974,EXC-008,Bucket Cylinder,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Rebuilt main pump assembly and replaced seals
+CASE-0975,MC-012,Pilot System,Internal pump leakage,Functions drift down when idle; Pressure drop under load; Sluggish response,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0976,MC-008,Oil Cooler,Filter blockage,Jerky cylinder movement; Inconsistent control response; System noise,Bled hydraulic lines and replaced damaged fittings
+CASE-0977,MC-015,Arm Cylinder,Oil contamination,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced cylinder seals and holding valve
+CASE-0978,MC-009,Swing Motor,Line restriction,Boom is slow; Arm is slow; Weak digging force,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0979,EXC-006,Hydraulic Oil,Cooler restriction,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0980,MC-008,Main Control Valve,Accumulator pressure loss,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced worn hydraulic hose near swing joint
+CASE-0981,MC-003,Hydraulic Pump,Line restriction,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0982,EXC-002,Boom Cylinder,Filter blockage,Boom is slow; Arm is slow; Weak digging force,Replaced pilot pressure reducing valve and pilot filter
+CASE-0983,MC-006,Hydraulic Pump,Air ingress,Functions drift down when idle; Pressure drop under load; Sluggish response,Recharged accumulator pre-charge to specification
+CASE-0984,MC-005,Arm Cylinder,Pilot pressure drop,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0985,EXC-005,Travel Motor,Internal pump leakage,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0986,MC-004,Pilot System,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0987,EXC-006,Arm Cylinder,Accumulator pressure loss,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Replaced worn hydraulic hose near swing joint
+CASE-0988,EXC-007,Arm Cylinder,Cylinder seal wear,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0989,MC-006,Arm Cylinder,Cylinder seal wear,Jerky cylinder movement; Inconsistent control response; System noise,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0990,EXC-007,Arm Cylinder,Oil contamination,Boom is slow; Arm is slow; Weak digging force,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0991,MC-013,Accumulator,Cylinder seal wear,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-0992,EXC-009,Swing Motor,Cooler restriction,Jerky cylinder movement; Inconsistent control response; System noise,Rebuilt main pump assembly and replaced seals
+CASE-0993,EXC-003,Hydraulic Line,Filter blockage,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Flushed oil cooler core and replaced fan motor
+CASE-0994,EXC-007,Oil Cooler,Valve spool binding,Boom is slow; Arm is slow; Weak digging force,Recharged accumulator pre-charge to specification
+CASE-0995,MC-007,Arm Cylinder,Valve spool binding,Filter indicator light on; System-wide power loss; Foamy oil in reservoir,Rebuilt main pump assembly and replaced seals
+CASE-0996,MC-007,Oil Cooler,Accumulator pressure loss,Boom is slow; Arm is slow; Weak digging force,Replaced worn hydraulic hose near swing joint
+CASE-0997,MC-009,Hydraulic Oil,Air ingress,Jerky cylinder movement; Inconsistent control response; System noise,"Drained hydraulic oil, flushed system, replaced breather cap, refilled"
+CASE-0998,MC-004,Hydraulic Filter,Pilot pressure drop,Hydraulic oil temperature high; Performance degrades when hot; Slow speed,Cleaned spool valve linkage and replaced valve seals
+CASE-0999,MC-020,Swing Motor,Air ingress,Levers feel light and unresponsive; Delayed function response; Uneven function speed,Replaced hydraulic filter element and cleaned suction strainer
+CASE-1000,MC-020,Travel Motor,Cylinder seal wear,Functions drift down when idle; Pressure drop under load; Sluggish response,Bled hydraulic lines and replaced damaged fittings

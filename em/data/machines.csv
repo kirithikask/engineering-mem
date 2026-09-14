@@ -1,0 +1,6 @@
+machine_id,machine_model,machine_type,manufacturer,operating_hours,status,last_maintenance
+EXC-001,ZX210,Hydraulic Excavator,Tata Hitachi,6842,Operational,2026-08-15
+EXC-002,PC210,Hydraulic Excavator,Komatsu,7210,Operational,2026-07-28
+EXC-003,EX200,Hydraulic Excavator,Hitachi,5935,Maintenance,2026-08-30
+EXC-004,320D,Hydraulic Excavator,Caterpillar,8125,Operational,2026-08-05
+EXC-005,R210,Hydraulic Excavator,Hyundai,4678,Operational,2026-08-21

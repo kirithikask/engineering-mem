@@ -1,0 +1,1001 @@
+technician_id,role,specialization,primary_certification,skill_level,experience_years,shift,employment_type,region,workshop_or_field,active_status
+TECH-0001,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,16,Day,Service Partner,North India,Field,Active
+TECH-0002,Hydraulic Technician,Hydraulics,Fluid Power Technician,Junior,2,Evening,Permanent,North India,Field,Active
+TECH-0003,Field Service Technician,Heavy Equipment,Industrial Safety,Lead,18,Day,Contract,East India,Field,Active
+TECH-0004,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,10,Day,Permanent,East India,Field,On Rotation
+TECH-0005,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Junior,3,Day,Permanent,East India,Workshop,On Rotation
+TECH-0006,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Senior,11,Day,Permanent,Central India,Field,Active
+TECH-0007,Hydraulic Technician,General Maintenance,Heavy Equipment Maintenance,Lead,15,Day,Permanent,Central India,Field,Active
+TECH-0008,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Senior,13,Night,Permanent,Central India,Field,Active
+TECH-0009,Field Service Technician,Powertrain,Heavy Equipment Maintenance,Intermediate,4,Day,Permanent,West India,Workshop,Active
+TECH-0010,Field Service Technician,General Maintenance,OEM-Equivalent Service Training,Senior,10,Evening,Permanent,Central India,Workshop,On Rotation
+TECH-0011,Hydraulic Technician,General Maintenance,OEM-Equivalent Service Training,Intermediate,6,Evening,Permanent,Central India,Field,On Rotation
+TECH-0012,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Lead,15,Night,Permanent,West India,Field,Active
+TECH-0013,Hydraulic Technician,Hydraulics,Fluid Power Technician,Senior,13,Day,Permanent,West India,Field,Active
+TECH-0014,Workshop Technician,Powertrain,Hydraulic Systems Level 2,Senior,14,Night,Permanent,South India,Field,On Rotation
+TECH-0015,Field Service Technician,Hydraulics,Industrial Safety,Intermediate,5,Night,Permanent,North India,Workshop,Active
+TECH-0016,Field Service Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,6,Night,Permanent,West India,Workshop,Active
+TECH-0017,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 1,Junior,2,Evening,Permanent,North India,Field,Active
+TECH-0018,Hydraulic Technician,Powertrain,Fluid Power Technician,Junior,3,Night,Permanent,South India,Field,Active
+TECH-0019,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,17,Evening,Permanent,East India,Field,Active
+TECH-0020,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,11,Night,Service Partner,South India,Field,Active
+TECH-0021,Field Service Technician,Electrical,Heavy Equipment Maintenance,Lead,19,Evening,Permanent,Central India,Workshop,Active
+TECH-0022,Maintenance Technician,Powertrain,Heavy Equipment Maintenance,Senior,14,Day,Service Partner,West India,Field,Active
+TECH-0023,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 2,Lead,19,Day,Permanent,Central India,Workshop,Active
+TECH-0024,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,13,Night,Contract,East India,Field,On Rotation
+TECH-0025,Field Service Technician,General Maintenance,Industrial Safety,Senior,9,Night,Contract,East India,Field,Active
+TECH-0026,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Senior,9,Night,Permanent,Central India,Workshop,Active
+TECH-0027,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Senior,13,Evening,Permanent,West India,Field,Active
+TECH-0028,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,12,Day,Permanent,West India,Field,Active
+TECH-0029,Field Service Technician,Powertrain,Hydraulic Systems Level 1,Intermediate,7,Evening,Service Partner,North India,Field,Active
+TECH-0030,Workshop Technician,General Maintenance,Heavy Equipment Maintenance,Senior,10,Day,Permanent,Central India,Field,Active
+TECH-0031,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Junior,2,Day,Permanent,South India,Field,On Rotation
+TECH-0032,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Senior,14,Day,Permanent,West India,Workshop,On Rotation
+TECH-0033,Diagnostic Technician,General Maintenance,OEM-Equivalent Service Training,Lead,16,Night,Service Partner,East India,Field,Active
+TECH-0034,Hydraulic Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,19,Day,Contract,North India,Field,Active
+TECH-0035,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Senior,11,Day,Service Partner,West India,Workshop,Active
+TECH-0036,Hydraulic Technician,Heavy Equipment,Fluid Power Technician,Lead,15,Evening,Contract,South India,Field,On Rotation
+TECH-0037,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Senior,13,Night,Permanent,West India,Workshop,Active
+TECH-0038,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,13,Evening,Permanent,Central India,Workshop,Active
+TECH-0039,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Senior,12,Evening,Permanent,West India,Field,Active
+TECH-0040,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 1,Junior,1,Night,Permanent,West India,Field,Active
+TECH-0041,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Intermediate,8,Day,Permanent,South India,Field,On Rotation
+TECH-0042,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Lead,17,Evening,Permanent,South India,Field,Active
+TECH-0043,Field Service Technician,General Maintenance,Hydraulic Systems Level 1,Intermediate,8,Day,Permanent,South India,Field,Active
+TECH-0044,Senior Technician,Hydraulics,Fluid Power Technician,Senior,11,Night,Contract,Central India,Field,Active
+TECH-0045,Field Service Technician,General Maintenance,Industrial Safety,Lead,17,Evening,Permanent,Central India,Workshop,Active
+TECH-0046,Senior Technician,Electrical,OEM-Equivalent Service Training,Senior,14,Night,Permanent,West India,Field,On Rotation
+TECH-0047,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,6,Night,Permanent,Central India,Field,Active
+TECH-0048,Field Service Technician,Hydraulics,Industrial Safety,Lead,16,Evening,Permanent,South India,Field,On Rotation
+TECH-0049,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,9,Evening,Permanent,South India,Workshop,Active
+TECH-0050,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Senior,11,Night,Contract,East India,Field,Active
+TECH-0051,Diagnostic Technician,Electrical,Hydraulic Systems Level 2,Intermediate,6,Night,Permanent,North India,Field,Active
+TECH-0052,Diagnostic Technician,Heavy Equipment,Industrial Safety,Intermediate,8,Night,Permanent,Central India,Workshop,Active
+TECH-0053,Senior Technician,General Maintenance,Hydraulic Systems Level 2,Senior,12,Evening,Permanent,East India,Field,Active
+TECH-0054,Maintenance Technician,Hydraulics,Industrial Safety,Senior,10,Day,Contract,South India,Field,Active
+TECH-0055,Field Service Technician,Hydraulics,Industrial Safety,Intermediate,7,Day,Contract,Central India,Field,On Rotation
+TECH-0056,Workshop Technician,Hydraulics,Fluid Power Technician,Lead,19,Day,Permanent,West India,Field,Active
+TECH-0057,Diagnostic Technician,Hydraulics,Fluid Power Technician,Lead,19,Evening,Contract,North India,Field,On Rotation
+TECH-0058,Hydraulic Technician,Powertrain,Hydraulic Systems Level 1,Lead,15,Day,Service Partner,East India,Field,Active
+TECH-0059,Field Service Technician,Heavy Equipment,Industrial Safety,Senior,11,Night,Permanent,West India,Workshop,Active
+TECH-0060,Diagnostic Technician,Hydraulics,Fluid Power Technician,Lead,17,Evening,Permanent,East India,Field,Active
+TECH-0061,Hydraulic Technician,General Maintenance,Fluid Power Technician,Lead,17,Night,Contract,Central India,Workshop,On Rotation
+TECH-0062,Workshop Technician,Electrical,Hydraulic Systems Level 1,Lead,20,Evening,Permanent,North India,Field,Active
+TECH-0063,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Senior,13,Evening,Permanent,West India,Workshop,Active
+TECH-0064,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,6,Day,Permanent,East India,Workshop,On Rotation
+TECH-0065,Field Service Technician,Electrical,OEM-Equivalent Service Training,Intermediate,5,Day,Permanent,East India,Field,On Rotation
+TECH-0066,Field Service Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,19,Evening,Service Partner,West India,Field,On Rotation
+TECH-0067,Field Service Technician,Electrical,Hydraulic Systems Level 2,Lead,19,Day,Service Partner,West India,Field,Active
+TECH-0068,Workshop Technician,Hydraulics,Hydraulic Systems Level 1,Lead,15,Evening,Permanent,West India,Field,Active
+TECH-0069,Senior Technician,General Maintenance,Hydraulic Systems Level 1,Lead,16,Night,Permanent,South India,Workshop,Active
+TECH-0070,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Junior,3,Evening,Permanent,West India,Field,Active
+TECH-0071,Maintenance Technician,Electrical,Industrial Safety,Lead,16,Night,Contract,Central India,Field,Active
+TECH-0072,Workshop Technician,Electrical,Hydraulic Systems Level 2,Intermediate,5,Evening,Service Partner,West India,Workshop,Active
+TECH-0073,Field Service Technician,Hydraulics,Hydraulic Systems Level 2,Lead,19,Evening,Permanent,East India,Field,Active
+TECH-0074,Maintenance Technician,Electrical,Hydraulic Systems Level 1,Junior,2,Day,Contract,North India,Field,On Rotation
+TECH-0075,Field Service Technician,General Maintenance,Hydraulic Systems Level 2,Junior,1,Night,Permanent,East India,Field,On Rotation
+TECH-0076,Maintenance Technician,Electrical,OEM-Equivalent Service Training,Senior,9,Day,Contract,West India,Workshop,Active
+TECH-0077,Maintenance Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,15,Day,Permanent,North India,Field,On Rotation
+TECH-0078,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Lead,16,Day,Contract,South India,Workshop,Active
+TECH-0079,Field Service Technician,Powertrain,Hydraulic Systems Level 2,Lead,18,Evening,Permanent,South India,Workshop,On Rotation
+TECH-0080,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,20,Day,Contract,Central India,Workshop,Active
+TECH-0081,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,1,Night,Contract,East India,Field,Active
+TECH-0082,Senior Technician,Heavy Equipment,OEM-Equivalent Service Training,Lead,19,Day,Permanent,West India,Workshop,On Rotation
+TECH-0083,Senior Technician,Heavy Equipment,Industrial Safety,Intermediate,7,Day,Permanent,South India,Field,Active
+TECH-0084,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Senior,13,Day,Permanent,East India,Field,On Rotation
+TECH-0085,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 1,Lead,16,Evening,Permanent,Central India,Field,On Rotation
+TECH-0086,Hydraulic Technician,Heavy Equipment,Heavy Equipment Maintenance,Intermediate,7,Day,Contract,South India,Field,Active
+TECH-0087,Hydraulic Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,9,Day,Permanent,North India,Field,On Rotation
+TECH-0088,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,7,Evening,Permanent,Central India,Field,Active
+TECH-0089,Diagnostic Technician,General Maintenance,Industrial Safety,Lead,17,Day,Permanent,South India,Field,Active
+TECH-0090,Field Service Technician,General Maintenance,Fluid Power Technician,Senior,9,Night,Contract,North India,Workshop,Active
+TECH-0091,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,9,Day,Service Partner,South India,Workshop,Active
+TECH-0092,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 2,Lead,19,Evening,Permanent,West India,Field,On Rotation
+TECH-0093,Maintenance Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,17,Day,Permanent,West India,Field,Active
+TECH-0094,Diagnostic Technician,Heavy Equipment,OEM-Equivalent Service Training,Lead,16,Evening,Permanent,East India,Field,Active
+TECH-0095,Diagnostic Technician,General Maintenance,Industrial Safety,Intermediate,8,Evening,Permanent,West India,Field,Active
+TECH-0096,Maintenance Technician,Powertrain,Heavy Equipment Maintenance,Intermediate,8,Evening,Permanent,Central India,Field,Active
+TECH-0097,Field Service Technician,Hydraulics,OEM-Equivalent Service Training,Senior,11,Night,Permanent,Central India,Field,Active
+TECH-0098,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Lead,16,Night,Service Partner,South India,Field,Active
+TECH-0099,Field Service Technician,General Maintenance,Fluid Power Technician,Lead,20,Evening,Service Partner,Central India,Field,Active
+TECH-0100,Field Service Technician,Powertrain,Fluid Power Technician,Senior,13,Evening,Permanent,West India,Workshop,Active
+TECH-0101,Maintenance Technician,Heavy Equipment,Heavy Equipment Maintenance,Intermediate,5,Day,Contract,Central India,Workshop,Active
+TECH-0102,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,20,Day,Permanent,East India,Field,On Rotation
+TECH-0103,Senior Technician,General Maintenance,Hydraulic Systems Level 1,Intermediate,5,Night,Service Partner,Central India,Field,Active
+TECH-0104,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,20,Day,Contract,East India,Field,Active
+TECH-0105,Diagnostic Technician,Powertrain,Fluid Power Technician,Senior,13,Evening,Permanent,South India,Field,Active
+TECH-0106,Workshop Technician,General Maintenance,Hydraulic Systems Level 1,Lead,18,Day,Permanent,North India,Field,On Rotation
+TECH-0107,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,19,Night,Permanent,North India,Field,Active
+TECH-0108,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Lead,16,Evening,Permanent,Central India,Field,Active
+TECH-0109,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 2,Senior,12,Day,Service Partner,South India,Workshop,Active
+TECH-0110,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Senior,9,Evening,Service Partner,Central India,Field,Active
+TECH-0111,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Junior,3,Evening,Service Partner,East India,Field,On Rotation
+TECH-0112,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,5,Night,Permanent,West India,Workshop,On Rotation
+TECH-0113,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Lead,19,Night,Permanent,North India,Workshop,Active
+TECH-0114,Senior Technician,Heavy Equipment,Industrial Safety,Lead,18,Evening,Permanent,South India,Field,On Rotation
+TECH-0115,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 2,Lead,16,Night,Permanent,North India,Workshop,On Rotation
+TECH-0116,Workshop Technician,General Maintenance,OEM-Equivalent Service Training,Senior,11,Night,Service Partner,North India,Workshop,Active
+TECH-0117,Senior Technician,Heavy Equipment,Fluid Power Technician,Intermediate,7,Night,Service Partner,East India,Field,Active
+TECH-0118,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,10,Evening,Permanent,South India,Field,Active
+TECH-0119,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,12,Night,Permanent,South India,Field,Active
+TECH-0120,Hydraulic Technician,General Maintenance,Industrial Safety,Lead,18,Day,Permanent,North India,Workshop,On Rotation
+TECH-0121,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Junior,1,Day,Permanent,South India,Field,Active
+TECH-0122,Diagnostic Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,8,Evening,Permanent,East India,Field,On Rotation
+TECH-0123,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 1,Senior,14,Evening,Permanent,East India,Field,Active
+TECH-0124,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,13,Night,Permanent,East India,Field,Active
+TECH-0125,Senior Technician,Powertrain,Hydraulic Systems Level 1,Intermediate,4,Evening,Permanent,North India,Field,Active
+TECH-0126,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,15,Day,Permanent,East India,Field,Active
+TECH-0127,Maintenance Technician,General Maintenance,Hydraulic Systems Level 1,Lead,19,Evening,Permanent,Central India,Field,Active
+TECH-0128,Senior Technician,Hydraulics,Industrial Safety,Lead,15,Evening,Permanent,East India,Field,On Rotation
+TECH-0129,Diagnostic Technician,Heavy Equipment,Industrial Safety,Senior,10,Day,Contract,North India,Workshop,Active
+TECH-0130,Maintenance Technician,Powertrain,Hydraulic Systems Level 2,Lead,19,Night,Permanent,West India,Field,Active
+TECH-0131,Workshop Technician,General Maintenance,Industrial Safety,Lead,16,Evening,Permanent,North India,Field,On Rotation
+TECH-0132,Workshop Technician,Heavy Equipment,OEM-Equivalent Service Training,Junior,1,Day,Contract,West India,Field,Active
+TECH-0133,Senior Technician,Electrical,Hydraulic Systems Level 2,Intermediate,8,Night,Permanent,East India,Workshop,Active
+TECH-0134,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Lead,17,Day,Permanent,South India,Workshop,On Rotation
+TECH-0135,Workshop Technician,Hydraulics,Industrial Safety,Intermediate,4,Evening,Permanent,Central India,Field,Active
+TECH-0136,Hydraulic Technician,Hydraulics,Industrial Safety,Intermediate,5,Evening,Contract,South India,Field,Active
+TECH-0137,Workshop Technician,Electrical,Hydraulic Systems Level 1,Intermediate,5,Night,Permanent,East India,Field,On Rotation
+TECH-0138,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,7,Evening,Permanent,North India,Workshop,Active
+TECH-0139,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,4,Day,Permanent,North India,Field,Active
+TECH-0140,Hydraulic Technician,Electrical,Hydraulic Systems Level 1,Lead,19,Night,Permanent,North India,Workshop,Active
+TECH-0141,Diagnostic Technician,Powertrain,Heavy Equipment Maintenance,Senior,13,Night,Service Partner,East India,Field,On Rotation
+TECH-0142,Field Service Technician,Hydraulics,OEM-Equivalent Service Training,Lead,16,Evening,Permanent,East India,Field,Active
+TECH-0143,Senior Technician,General Maintenance,Fluid Power Technician,Lead,16,Day,Permanent,South India,Workshop,On Rotation
+TECH-0144,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 1,Lead,16,Night,Permanent,South India,Field,Active
+TECH-0145,Senior Technician,General Maintenance,Heavy Equipment Maintenance,Lead,17,Evening,Permanent,North India,Field,Active
+TECH-0146,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,5,Night,Permanent,South India,Field,On Rotation
+TECH-0147,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 2,Senior,14,Night,Permanent,Central India,Field,On Rotation
+TECH-0148,Workshop Technician,Electrical,Heavy Equipment Maintenance,Intermediate,6,Day,Permanent,West India,Field,On Rotation
+TECH-0149,Maintenance Technician,Heavy Equipment,Industrial Safety,Junior,1,Day,Contract,North India,Field,On Rotation
+TECH-0150,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,15,Day,Permanent,West India,Field,On Rotation
+TECH-0151,Hydraulic Technician,Heavy Equipment,Industrial Safety,Intermediate,5,Night,Permanent,South India,Workshop,Active
+TECH-0152,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,4,Day,Permanent,East India,Workshop,Active
+TECH-0153,Senior Technician,Powertrain,Hydraulic Systems Level 1,Senior,11,Night,Permanent,North India,Workshop,Active
+TECH-0154,Hydraulic Technician,Electrical,Hydraulic Systems Level 1,Junior,2,Night,Permanent,East India,Field,Active
+TECH-0155,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 2,Intermediate,4,Day,Contract,West India,Workshop,On Rotation
+TECH-0156,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,13,Day,Permanent,South India,Field,On Rotation
+TECH-0157,Hydraulic Technician,General Maintenance,OEM-Equivalent Service Training,Lead,19,Evening,Permanent,South India,Field,Active
+TECH-0158,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Senior,9,Night,Service Partner,West India,Field,On Rotation
+TECH-0159,Field Service Technician,General Maintenance,OEM-Equivalent Service Training,Senior,11,Day,Permanent,East India,Field,On Rotation
+TECH-0160,Workshop Technician,General Maintenance,Hydraulic Systems Level 1,Junior,3,Night,Permanent,South India,Field,On Rotation
+TECH-0161,Workshop Technician,General Maintenance,Hydraulic Systems Level 1,Lead,20,Night,Permanent,East India,Field,Active
+TECH-0162,Senior Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,7,Evening,Permanent,Central India,Workshop,On Rotation
+TECH-0163,Hydraulic Technician,Electrical,Hydraulic Systems Level 2,Lead,16,Night,Permanent,North India,Workshop,Active
+TECH-0164,Diagnostic Technician,Electrical,Industrial Safety,Senior,10,Night,Service Partner,West India,Field,Active
+TECH-0165,Maintenance Technician,General Maintenance,Hydraulic Systems Level 2,Senior,14,Day,Permanent,North India,Field,On Rotation
+TECH-0166,Workshop Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,11,Night,Service Partner,North India,Workshop,Active
+TECH-0167,Maintenance Technician,Powertrain,Hydraulic Systems Level 2,Intermediate,5,Evening,Contract,Central India,Field,Active
+TECH-0168,Workshop Technician,Heavy Equipment,OEM-Equivalent Service Training,Lead,19,Evening,Permanent,East India,Workshop,Active
+TECH-0169,Field Service Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,16,Night,Permanent,West India,Field,Active
+TECH-0170,Diagnostic Technician,Electrical,Industrial Safety,Senior,11,Night,Permanent,East India,Workshop,Active
+TECH-0171,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Lead,16,Day,Service Partner,East India,Field,Active
+TECH-0172,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 1,Intermediate,8,Evening,Permanent,South India,Field,Active
+TECH-0173,Diagnostic Technician,Electrical,Hydraulic Systems Level 1,Junior,1,Evening,Permanent,South India,Workshop,Active
+TECH-0174,Diagnostic Technician,General Maintenance,Industrial Safety,Intermediate,4,Day,Permanent,West India,Field,Active
+TECH-0175,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,4,Night,Permanent,South India,Workshop,Active
+TECH-0176,Senior Technician,Electrical,Hydraulic Systems Level 1,Lead,15,Evening,Service Partner,West India,Field,Active
+TECH-0177,Workshop Technician,Heavy Equipment,Industrial Safety,Lead,19,Evening,Permanent,South India,Workshop,Active
+TECH-0178,Hydraulic Technician,Hydraulics,Industrial Safety,Lead,16,Day,Contract,North India,Field,Active
+TECH-0179,Diagnostic Technician,Hydraulics,Fluid Power Technician,Senior,13,Night,Permanent,North India,Field,Active
+TECH-0180,Diagnostic Technician,Hydraulics,Fluid Power Technician,Senior,14,Evening,Permanent,West India,Field,Active
+TECH-0181,Senior Technician,Powertrain,Fluid Power Technician,Senior,9,Day,Contract,North India,Field,Active
+TECH-0182,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,13,Evening,Permanent,Central India,Field,Active
+TECH-0183,Workshop Technician,Hydraulics,Fluid Power Technician,Lead,17,Night,Permanent,South India,Field,On Rotation
+TECH-0184,Maintenance Technician,Powertrain,Industrial Safety,Senior,11,Night,Permanent,Central India,Field,Active
+TECH-0185,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Lead,20,Evening,Permanent,East India,Field,On Rotation
+TECH-0186,Maintenance Technician,General Maintenance,OEM-Equivalent Service Training,Senior,12,Evening,Permanent,East India,Field,Active
+TECH-0187,Field Service Technician,Heavy Equipment,Heavy Equipment Maintenance,Senior,12,Night,Contract,North India,Field,Active
+TECH-0188,Field Service Technician,General Maintenance,Fluid Power Technician,Lead,20,Day,Permanent,South India,Field,Active
+TECH-0189,Maintenance Technician,Electrical,Hydraulic Systems Level 1,Intermediate,7,Day,Service Partner,Central India,Workshop,Active
+TECH-0190,Diagnostic Technician,General Maintenance,Industrial Safety,Senior,10,Day,Permanent,West India,Field,Active
+TECH-0191,Senior Technician,General Maintenance,Hydraulic Systems Level 1,Senior,13,Night,Permanent,West India,Workshop,Active
+TECH-0192,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Senior,9,Evening,Contract,West India,Field,Active
+TECH-0193,Diagnostic Technician,General Maintenance,Fluid Power Technician,Intermediate,5,Night,Contract,Central India,Field,Active
+TECH-0194,Senior Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,13,Evening,Permanent,East India,Workshop,Active
+TECH-0195,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Lead,17,Day,Permanent,East India,Field,On Rotation
+TECH-0196,Hydraulic Technician,Electrical,Fluid Power Technician,Junior,2,Evening,Permanent,Central India,Field,Active
+TECH-0197,Senior Technician,Hydraulics,Industrial Safety,Intermediate,6,Day,Permanent,Central India,Field,Active
+TECH-0198,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Junior,1,Evening,Permanent,North India,Field,Active
+TECH-0199,Workshop Technician,General Maintenance,Hydraulic Systems Level 1,Senior,10,Day,Permanent,East India,Field,On Rotation
+TECH-0200,Field Service Technician,Hydraulics,Industrial Safety,Senior,14,Evening,Contract,South India,Workshop,Active
+TECH-0201,Maintenance Technician,Hydraulics,Fluid Power Technician,Lead,18,Evening,Permanent,North India,Field,Active
+TECH-0202,Maintenance Technician,Powertrain,Heavy Equipment Maintenance,Junior,3,Day,Permanent,East India,Field,Active
+TECH-0203,Workshop Technician,Electrical,Hydraulic Systems Level 2,Senior,13,Night,Permanent,Central India,Field,Active
+TECH-0204,Hydraulic Technician,Hydraulics,Fluid Power Technician,Senior,14,Day,Permanent,South India,Field,Active
+TECH-0205,Workshop Technician,General Maintenance,Heavy Equipment Maintenance,Junior,3,Day,Service Partner,East India,Workshop,Active
+TECH-0206,Diagnostic Technician,Hydraulics,Fluid Power Technician,Senior,11,Night,Service Partner,South India,Workshop,On Rotation
+TECH-0207,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,4,Night,Permanent,Central India,Field,Active
+TECH-0208,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Senior,13,Night,Permanent,North India,Workshop,Active
+TECH-0209,Maintenance Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,11,Day,Service Partner,South India,Field,Active
+TECH-0210,Hydraulic Technician,Hydraulics,Industrial Safety,Lead,20,Evening,Service Partner,East India,Field,Active
+TECH-0211,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,19,Night,Permanent,East India,Workshop,Active
+TECH-0212,Hydraulic Technician,Powertrain,OEM-Equivalent Service Training,Junior,3,Night,Permanent,East India,Field,Active
+TECH-0213,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Lead,18,Evening,Contract,South India,Field,Active
+TECH-0214,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 2,Junior,1,Night,Permanent,Central India,Field,On Rotation
+TECH-0215,Field Service Technician,General Maintenance,Industrial Safety,Intermediate,4,Evening,Permanent,West India,Field,Active
+TECH-0216,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Junior,3,Day,Permanent,North India,Field,Active
+TECH-0217,Hydraulic Technician,Hydraulics,Industrial Safety,Intermediate,6,Evening,Permanent,West India,Field,Active
+TECH-0218,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Senior,9,Evening,Permanent,North India,Field,On Rotation
+TECH-0219,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,17,Day,Permanent,North India,Field,Active
+TECH-0220,Field Service Technician,Electrical,Fluid Power Technician,Lead,15,Night,Permanent,Central India,Workshop,Active
+TECH-0221,Hydraulic Technician,Electrical,OEM-Equivalent Service Training,Lead,19,Evening,Service Partner,Central India,Field,On Rotation
+TECH-0222,Maintenance Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,8,Day,Permanent,South India,Field,On Rotation
+TECH-0223,Maintenance Technician,General Maintenance,OEM-Equivalent Service Training,Junior,2,Day,Permanent,South India,Field,On Rotation
+TECH-0224,Field Service Technician,Hydraulics,Industrial Safety,Junior,1,Night,Permanent,North India,Field,Active
+TECH-0225,Maintenance Technician,General Maintenance,Industrial Safety,Senior,11,Evening,Service Partner,Central India,Field,Active
+TECH-0226,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,15,Day,Service Partner,Central India,Field,Active
+TECH-0227,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,19,Day,Permanent,East India,Field,Active
+TECH-0228,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Lead,15,Night,Permanent,East India,Field,Active
+TECH-0229,Workshop Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,7,Evening,Service Partner,South India,Field,Active
+TECH-0230,Diagnostic Technician,Hydraulics,Industrial Safety,Junior,1,Day,Permanent,East India,Field,Active
+TECH-0231,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Senior,14,Night,Service Partner,West India,Workshop,Active
+TECH-0232,Workshop Technician,General Maintenance,Heavy Equipment Maintenance,Senior,9,Evening,Permanent,South India,Field,Active
+TECH-0233,Hydraulic Technician,Powertrain,Heavy Equipment Maintenance,Lead,16,Day,Service Partner,North India,Field,Active
+TECH-0234,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Lead,19,Day,Permanent,West India,Field,Active
+TECH-0235,Maintenance Technician,Heavy Equipment,Fluid Power Technician,Lead,19,Evening,Permanent,West India,Field,Active
+TECH-0236,Hydraulic Technician,Electrical,OEM-Equivalent Service Training,Intermediate,5,Night,Service Partner,South India,Field,Active
+TECH-0237,Hydraulic Technician,Electrical,Hydraulic Systems Level 1,Lead,19,Night,Contract,East India,Field,On Rotation
+TECH-0238,Workshop Technician,Electrical,Industrial Safety,Junior,3,Day,Service Partner,East India,Workshop,Active
+TECH-0239,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Senior,9,Evening,Permanent,North India,Workshop,On Rotation
+TECH-0240,Senior Technician,General Maintenance,Heavy Equipment Maintenance,Lead,17,Day,Permanent,Central India,Field,Active
+TECH-0241,Maintenance Technician,Hydraulics,Fluid Power Technician,Senior,14,Evening,Permanent,South India,Field,On Rotation
+TECH-0242,Diagnostic Technician,Heavy Equipment,Industrial Safety,Lead,18,Day,Permanent,South India,Field,Active
+TECH-0243,Senior Technician,Hydraulics,Industrial Safety,Intermediate,8,Evening,Permanent,East India,Workshop,Active
+TECH-0244,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 1,Lead,20,Night,Service Partner,East India,Field,On Rotation
+TECH-0245,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Lead,19,Night,Permanent,West India,Workshop,Active
+TECH-0246,Field Service Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,19,Night,Permanent,West India,Workshop,Active
+TECH-0247,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 2,Junior,1,Day,Contract,West India,Workshop,Active
+TECH-0248,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,6,Day,Permanent,West India,Field,Active
+TECH-0249,Field Service Technician,Hydraulics,Industrial Safety,Senior,10,Night,Permanent,West India,Field,On Rotation
+TECH-0250,Diagnostic Technician,Hydraulics,Fluid Power Technician,Lead,16,Day,Service Partner,North India,Field,On Rotation
+TECH-0251,Maintenance Technician,Heavy Equipment,Industrial Safety,Intermediate,7,Evening,Permanent,East India,Field,On Rotation
+TECH-0252,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Senior,10,Day,Contract,South India,Field,Active
+TECH-0253,Field Service Technician,General Maintenance,Fluid Power Technician,Senior,9,Night,Service Partner,East India,Field,Active
+TECH-0254,Maintenance Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,19,Day,Permanent,East India,Field,Active
+TECH-0255,Maintenance Technician,Hydraulics,Industrial Safety,Senior,14,Day,Permanent,West India,Field,Active
+TECH-0256,Senior Technician,Electrical,Hydraulic Systems Level 1,Senior,14,Evening,Permanent,West India,Field,On Rotation
+TECH-0257,Diagnostic Technician,Electrical,Heavy Equipment Maintenance,Junior,3,Day,Permanent,Central India,Workshop,Active
+TECH-0258,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Lead,17,Evening,Permanent,North India,Field,On Rotation
+TECH-0259,Workshop Technician,General Maintenance,OEM-Equivalent Service Training,Junior,2,Evening,Permanent,East India,Workshop,On Rotation
+TECH-0260,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,11,Evening,Permanent,South India,Field,On Rotation
+TECH-0261,Maintenance Technician,Hydraulics,Fluid Power Technician,Senior,10,Evening,Contract,West India,Field,Active
+TECH-0262,Diagnostic Technician,Electrical,Hydraulic Systems Level 1,Senior,10,Day,Permanent,South India,Workshop,On Rotation
+TECH-0263,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Senior,12,Day,Permanent,South India,Field,Active
+TECH-0264,Field Service Technician,Electrical,Fluid Power Technician,Lead,18,Night,Contract,West India,Field,Active
+TECH-0265,Maintenance Technician,Hydraulics,Industrial Safety,Lead,18,Evening,Permanent,West India,Workshop,Active
+TECH-0266,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Senior,13,Evening,Permanent,North India,Field,Active
+TECH-0267,Hydraulic Technician,Electrical,Industrial Safety,Intermediate,6,Evening,Service Partner,Central India,Field,Active
+TECH-0268,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Junior,1,Day,Service Partner,West India,Field,Active
+TECH-0269,Senior Technician,Heavy Equipment,Industrial Safety,Junior,3,Evening,Permanent,West India,Field,On Rotation
+TECH-0270,Maintenance Technician,Powertrain,Hydraulic Systems Level 2,Lead,15,Night,Permanent,East India,Field,Active
+TECH-0271,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,7,Night,Permanent,South India,Field,Active
+TECH-0272,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 1,Lead,20,Day,Permanent,Central India,Workshop,Active
+TECH-0273,Hydraulic Technician,Heavy Equipment,Industrial Safety,Lead,15,Evening,Contract,Central India,Field,Active
+TECH-0274,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,18,Night,Permanent,West India,Workshop,Active
+TECH-0275,Senior Technician,Powertrain,Industrial Safety,Junior,3,Day,Permanent,South India,Field,Active
+TECH-0276,Maintenance Technician,Hydraulics,Industrial Safety,Intermediate,6,Day,Permanent,Central India,Field,Active
+TECH-0277,Diagnostic Technician,Powertrain,OEM-Equivalent Service Training,Lead,17,Day,Contract,Central India,Field,On Rotation
+TECH-0278,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Senior,9,Day,Contract,South India,Field,On Rotation
+TECH-0279,Workshop Technician,Hydraulics,Fluid Power Technician,Intermediate,7,Evening,Contract,Central India,Field,Active
+TECH-0280,Senior Technician,General Maintenance,Fluid Power Technician,Intermediate,7,Day,Permanent,East India,Field,Active
+TECH-0281,Senior Technician,Electrical,Industrial Safety,Senior,13,Night,Service Partner,West India,Field,On Rotation
+TECH-0282,Senior Technician,Hydraulics,Fluid Power Technician,Senior,11,Day,Service Partner,East India,Workshop,Active
+TECH-0283,Maintenance Technician,Heavy Equipment,Fluid Power Technician,Senior,10,Evening,Permanent,West India,Field,Active
+TECH-0284,Field Service Technician,General Maintenance,Industrial Safety,Junior,3,Day,Permanent,North India,Field,On Rotation
+TECH-0285,Diagnostic Technician,Electrical,Hydraulic Systems Level 1,Intermediate,4,Day,Contract,Central India,Workshop,Active
+TECH-0286,Workshop Technician,Powertrain,Fluid Power Technician,Junior,2,Evening,Permanent,Central India,Workshop,Active
+TECH-0287,Senior Technician,Powertrain,Heavy Equipment Maintenance,Junior,2,Evening,Contract,West India,Field,On Rotation
+TECH-0288,Hydraulic Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,1,Evening,Permanent,South India,Field,Active
+TECH-0289,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,18,Evening,Contract,South India,Workshop,Active
+TECH-0290,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,16,Evening,Permanent,South India,Field,Active
+TECH-0291,Diagnostic Technician,Powertrain,Hydraulic Systems Level 2,Lead,20,Day,Permanent,South India,Workshop,Active
+TECH-0292,Workshop Technician,Heavy Equipment,Fluid Power Technician,Lead,18,Evening,Permanent,North India,Workshop,Active
+TECH-0293,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 2,Junior,1,Evening,Permanent,North India,Field,Active
+TECH-0294,Maintenance Technician,General Maintenance,Heavy Equipment Maintenance,Intermediate,4,Evening,Permanent,Central India,Field,Active
+TECH-0295,Workshop Technician,Heavy Equipment,Fluid Power Technician,Junior,1,Night,Contract,East India,Field,Active
+TECH-0296,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,19,Day,Service Partner,Central India,Field,On Rotation
+TECH-0297,Senior Technician,Hydraulics,Industrial Safety,Lead,20,Night,Permanent,South India,Field,Active
+TECH-0298,Diagnostic Technician,General Maintenance,Industrial Safety,Lead,16,Day,Permanent,East India,Workshop,On Rotation
+TECH-0299,Senior Technician,Powertrain,Fluid Power Technician,Junior,2,Evening,Permanent,Central India,Field,Active
+TECH-0300,Hydraulic Technician,General Maintenance,Heavy Equipment Maintenance,Lead,15,Day,Permanent,Central India,Field,Active
+TECH-0301,Field Service Technician,Heavy Equipment,Industrial Safety,Intermediate,8,Evening,Permanent,West India,Field,On Rotation
+TECH-0302,Diagnostic Technician,General Maintenance,Fluid Power Technician,Lead,20,Night,Permanent,East India,Field,Active
+TECH-0303,Workshop Technician,Hydraulics,Hydraulic Systems Level 1,Senior,11,Night,Permanent,South India,Field,On Rotation
+TECH-0304,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 2,Intermediate,7,Evening,Permanent,East India,Field,Active
+TECH-0305,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Junior,3,Night,Permanent,North India,Field,Active
+TECH-0306,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,12,Evening,Service Partner,West India,Field,Active
+TECH-0307,Field Service Technician,Hydraulics,Hydraulic Systems Level 2,Lead,20,Evening,Permanent,Central India,Field,Active
+TECH-0308,Workshop Technician,Heavy Equipment,Industrial Safety,Junior,3,Evening,Permanent,East India,Field,Active
+TECH-0309,Senior Technician,General Maintenance,Heavy Equipment Maintenance,Senior,10,Day,Permanent,North India,Workshop,On Rotation
+TECH-0310,Senior Technician,Powertrain,Hydraulic Systems Level 2,Intermediate,8,Night,Service Partner,Central India,Workshop,Active
+TECH-0311,Field Service Technician,General Maintenance,Heavy Equipment Maintenance,Intermediate,8,Day,Permanent,West India,Field,Active
+TECH-0312,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Lead,18,Evening,Permanent,Central India,Workshop,On Rotation
+TECH-0313,Senior Technician,Hydraulics,Industrial Safety,Lead,16,Day,Service Partner,East India,Field,Active
+TECH-0314,Diagnostic Technician,General Maintenance,Heavy Equipment Maintenance,Lead,19,Evening,Contract,East India,Workshop,Active
+TECH-0315,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Senior,10,Evening,Permanent,North India,Field,Active
+TECH-0316,Diagnostic Technician,Electrical,OEM-Equivalent Service Training,Intermediate,7,Evening,Contract,South India,Field,Active
+TECH-0317,Hydraulic Technician,General Maintenance,OEM-Equivalent Service Training,Intermediate,6,Night,Service Partner,West India,Workshop,On Rotation
+TECH-0318,Hydraulic Technician,General Maintenance,Fluid Power Technician,Intermediate,8,Evening,Permanent,North India,Field,Active
+TECH-0319,Hydraulic Technician,Hydraulics,Fluid Power Technician,Junior,2,Day,Permanent,Central India,Field,On Rotation
+TECH-0320,Senior Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,14,Evening,Permanent,West India,Field,On Rotation
+TECH-0321,Workshop Technician,Electrical,Fluid Power Technician,Lead,15,Evening,Service Partner,West India,Workshop,Active
+TECH-0322,Workshop Technician,Electrical,Hydraulic Systems Level 1,Intermediate,7,Evening,Contract,South India,Field,On Rotation
+TECH-0323,Workshop Technician,Electrical,Hydraulic Systems Level 1,Intermediate,5,Evening,Service Partner,West India,Field,Active
+TECH-0324,Field Service Technician,Hydraulics,Hydraulic Systems Level 2,Senior,11,Night,Permanent,Central India,Field,Active
+TECH-0325,Maintenance Technician,Electrical,Heavy Equipment Maintenance,Intermediate,4,Night,Permanent,North India,Field,Active
+TECH-0326,Senior Technician,Heavy Equipment,Hydraulic Systems Level 2,Intermediate,7,Evening,Permanent,West India,Field,Active
+TECH-0327,Maintenance Technician,Electrical,Industrial Safety,Junior,3,Night,Permanent,North India,Workshop,On Rotation
+TECH-0328,Field Service Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,6,Day,Contract,West India,Field,Active
+TECH-0329,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 1,Intermediate,4,Night,Permanent,South India,Workshop,On Rotation
+TECH-0330,Diagnostic Technician,Hydraulics,Industrial Safety,Senior,10,Night,Permanent,Central India,Workshop,Active
+TECH-0331,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,18,Evening,Contract,East India,Field,Active
+TECH-0332,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Senior,11,Day,Permanent,Central India,Field,On Rotation
+TECH-0333,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,7,Night,Permanent,West India,Workshop,Active
+TECH-0334,Field Service Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,9,Evening,Contract,West India,Field,Active
+TECH-0335,Hydraulic Technician,Electrical,Fluid Power Technician,Senior,9,Night,Permanent,South India,Workshop,Active
+TECH-0336,Field Service Technician,Hydraulics,Hydraulic Systems Level 2,Lead,18,Evening,Permanent,East India,Field,Active
+TECH-0337,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,16,Night,Permanent,Central India,Workshop,Active
+TECH-0338,Hydraulic Technician,Electrical,Fluid Power Technician,Senior,11,Evening,Contract,South India,Field,Active
+TECH-0339,Maintenance Technician,Hydraulics,Fluid Power Technician,Lead,16,Day,Contract,East India,Field,On Rotation
+TECH-0340,Diagnostic Technician,Electrical,Fluid Power Technician,Senior,12,Night,Contract,East India,Field,Active
+TECH-0341,Senior Technician,General Maintenance,OEM-Equivalent Service Training,Senior,9,Day,Permanent,South India,Workshop,Active
+TECH-0342,Maintenance Technician,Powertrain,Hydraulic Systems Level 1,Senior,11,Night,Service Partner,West India,Workshop,Active
+TECH-0343,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,5,Night,Permanent,North India,Field,Active
+TECH-0344,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Junior,3,Day,Permanent,South India,Field,Active
+TECH-0345,Hydraulic Technician,Powertrain,Hydraulic Systems Level 2,Intermediate,7,Night,Permanent,East India,Field,On Rotation
+TECH-0346,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Senior,11,Night,Service Partner,Central India,Field,On Rotation
+TECH-0347,Senior Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,11,Night,Contract,West India,Field,On Rotation
+TECH-0348,Field Service Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,13,Day,Permanent,North India,Workshop,Active
+TECH-0349,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Lead,16,Day,Service Partner,West India,Field,Active
+TECH-0350,Field Service Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,9,Day,Permanent,West India,Workshop,Active
+TECH-0351,Hydraulic Technician,Powertrain,OEM-Equivalent Service Training,Lead,16,Day,Service Partner,Central India,Workshop,On Rotation
+TECH-0352,Maintenance Technician,Hydraulics,Industrial Safety,Junior,2,Night,Contract,South India,Field,Active
+TECH-0353,Maintenance Technician,General Maintenance,Industrial Safety,Senior,11,Night,Permanent,Central India,Field,Active
+TECH-0354,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Senior,11,Night,Permanent,East India,Field,Active
+TECH-0355,Hydraulic Technician,Heavy Equipment,Fluid Power Technician,Lead,16,Day,Permanent,South India,Field,On Rotation
+TECH-0356,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,13,Night,Permanent,East India,Workshop,On Rotation
+TECH-0357,Senior Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,10,Night,Permanent,Central India,Field,Active
+TECH-0358,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,5,Evening,Permanent,Central India,Field,Active
+TECH-0359,Diagnostic Technician,Hydraulics,Industrial Safety,Intermediate,6,Evening,Permanent,South India,Field,Active
+TECH-0360,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Lead,19,Day,Permanent,West India,Field,Active
+TECH-0361,Field Service Technician,Hydraulics,Hydraulic Systems Level 2,Junior,3,Evening,Permanent,East India,Field,Active
+TECH-0362,Field Service Technician,General Maintenance,Heavy Equipment Maintenance,Senior,9,Day,Permanent,South India,Workshop,Active
+TECH-0363,Senior Technician,Powertrain,OEM-Equivalent Service Training,Senior,12,Night,Permanent,West India,Field,On Rotation
+TECH-0364,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,18,Evening,Service Partner,West India,Workshop,Active
+TECH-0365,Maintenance Technician,Powertrain,Hydraulic Systems Level 2,Senior,10,Night,Permanent,East India,Field,On Rotation
+TECH-0366,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Senior,13,Evening,Contract,South India,Field,Active
+TECH-0367,Hydraulic Technician,General Maintenance,Fluid Power Technician,Lead,17,Day,Contract,North India,Field,On Rotation
+TECH-0368,Field Service Technician,Powertrain,OEM-Equivalent Service Training,Lead,18,Day,Permanent,West India,Field,Active
+TECH-0369,Maintenance Technician,Powertrain,OEM-Equivalent Service Training,Senior,10,Evening,Permanent,Central India,Workshop,Active
+TECH-0370,Workshop Technician,Heavy Equipment,Industrial Safety,Lead,19,Day,Permanent,Central India,Field,Active
+TECH-0371,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,4,Night,Permanent,North India,Field,Active
+TECH-0372,Hydraulic Technician,Electrical,Hydraulic Systems Level 1,Junior,3,Night,Service Partner,Central India,Workshop,Active
+TECH-0373,Field Service Technician,General Maintenance,Industrial Safety,Intermediate,4,Evening,Permanent,North India,Field,Active
+TECH-0374,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 1,Intermediate,7,Night,Service Partner,Central India,Field,Active
+TECH-0375,Hydraulic Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,3,Day,Permanent,South India,Field,Active
+TECH-0376,Maintenance Technician,Powertrain,Hydraulic Systems Level 2,Intermediate,6,Day,Service Partner,Central India,Workshop,Active
+TECH-0377,Senior Technician,Powertrain,Hydraulic Systems Level 2,Intermediate,4,Night,Service Partner,South India,Field,Active
+TECH-0378,Field Service Technician,Powertrain,Hydraulic Systems Level 2,Lead,15,Day,Permanent,East India,Field,Active
+TECH-0379,Field Service Technician,Powertrain,OEM-Equivalent Service Training,Lead,19,Night,Contract,South India,Field,Active
+TECH-0380,Senior Technician,Heavy Equipment,Industrial Safety,Lead,18,Evening,Permanent,Central India,Field,On Rotation
+TECH-0381,Workshop Technician,Heavy Equipment,Heavy Equipment Maintenance,Senior,13,Day,Contract,South India,Workshop,Active
+TECH-0382,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Senior,14,Day,Contract,West India,Workshop,Active
+TECH-0383,Workshop Technician,Powertrain,OEM-Equivalent Service Training,Senior,10,Day,Contract,North India,Field,On Rotation
+TECH-0384,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Senior,12,Evening,Contract,East India,Field,Active
+TECH-0385,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,4,Day,Service Partner,South India,Field,Active
+TECH-0386,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Senior,10,Day,Permanent,South India,Workshop,On Rotation
+TECH-0387,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Lead,15,Day,Permanent,Central India,Workshop,Active
+TECH-0388,Workshop Technician,Heavy Equipment,Heavy Equipment Maintenance,Senior,14,Night,Service Partner,South India,Field,Active
+TECH-0389,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Senior,14,Night,Permanent,Central India,Workshop,Active
+TECH-0390,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Senior,13,Evening,Permanent,Central India,Field,Active
+TECH-0391,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Intermediate,5,Day,Service Partner,West India,Field,Active
+TECH-0392,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Lead,19,Night,Permanent,West India,Workshop,Active
+TECH-0393,Workshop Technician,Electrical,Hydraulic Systems Level 1,Junior,2,Night,Service Partner,North India,Field,Active
+TECH-0394,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Junior,2,Day,Permanent,West India,Workshop,Active
+TECH-0395,Workshop Technician,Hydraulics,Fluid Power Technician,Lead,17,Day,Permanent,North India,Workshop,Active
+TECH-0396,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 2,Intermediate,8,Night,Service Partner,South India,Field,Active
+TECH-0397,Field Service Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,6,Day,Permanent,Central India,Field,On Rotation
+TECH-0398,Diagnostic Technician,Electrical,Hydraulic Systems Level 2,Junior,2,Evening,Contract,East India,Field,Active
+TECH-0399,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 2,Senior,9,Day,Permanent,West India,Field,Active
+TECH-0400,Maintenance Technician,Powertrain,Hydraulic Systems Level 1,Junior,1,Day,Contract,Central India,Field,Active
+TECH-0401,Field Service Technician,Hydraulics,Industrial Safety,Senior,14,Day,Permanent,South India,Field,Active
+TECH-0402,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,6,Night,Service Partner,South India,Workshop,Active
+TECH-0403,Field Service Technician,Hydraulics,Hydraulic Systems Level 2,Senior,11,Night,Contract,East India,Field,On Rotation
+TECH-0404,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 1,Junior,2,Day,Permanent,East India,Field,On Rotation
+TECH-0405,Workshop Technician,Powertrain,Hydraulic Systems Level 1,Intermediate,6,Night,Contract,South India,Field,On Rotation
+TECH-0406,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 2,Intermediate,7,Evening,Permanent,West India,Field,Active
+TECH-0407,Field Service Technician,Hydraulics,Industrial Safety,Junior,1,Night,Permanent,North India,Workshop,On Rotation
+TECH-0408,Field Service Technician,Powertrain,Hydraulic Systems Level 1,Lead,19,Evening,Contract,West India,Field,Active
+TECH-0409,Field Service Technician,Powertrain,Hydraulic Systems Level 2,Senior,11,Night,Contract,South India,Workshop,Active
+TECH-0410,Workshop Technician,Hydraulics,Hydraulic Systems Level 1,Senior,10,Night,Permanent,North India,Field,Active
+TECH-0411,Diagnostic Technician,Hydraulics,Industrial Safety,Senior,13,Evening,Permanent,South India,Field,Active
+TECH-0412,Workshop Technician,General Maintenance,Hydraulic Systems Level 1,Lead,19,Day,Permanent,West India,Field,Active
+TECH-0413,Senior Technician,Powertrain,Hydraulic Systems Level 2,Intermediate,5,Evening,Permanent,West India,Field,Active
+TECH-0414,Field Service Technician,General Maintenance,OEM-Equivalent Service Training,Senior,12,Night,Service Partner,Central India,Field,On Rotation
+TECH-0415,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,11,Day,Permanent,West India,Field,Active
+TECH-0416,Maintenance Technician,Powertrain,Fluid Power Technician,Senior,13,Night,Permanent,North India,Workshop,Active
+TECH-0417,Maintenance Technician,Hydraulics,Industrial Safety,Intermediate,6,Day,Permanent,Central India,Workshop,Active
+TECH-0418,Workshop Technician,Powertrain,Hydraulic Systems Level 2,Junior,1,Day,Contract,Central India,Field,Active
+TECH-0419,Senior Technician,Heavy Equipment,Hydraulic Systems Level 2,Intermediate,6,Evening,Permanent,South India,Field,Active
+TECH-0420,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Senior,11,Night,Permanent,West India,Field,Active
+TECH-0421,Diagnostic Technician,Heavy Equipment,Industrial Safety,Senior,14,Night,Permanent,South India,Field,Active
+TECH-0422,Maintenance Technician,Electrical,OEM-Equivalent Service Training,Intermediate,6,Night,Permanent,South India,Field,On Rotation
+TECH-0423,Hydraulic Technician,Heavy Equipment,Industrial Safety,Senior,9,Day,Contract,South India,Field,Active
+TECH-0424,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,6,Day,Contract,West India,Field,Active
+TECH-0425,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Lead,17,Day,Contract,West India,Field,On Rotation
+TECH-0426,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,19,Evening,Contract,East India,Workshop,Active
+TECH-0427,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 1,Intermediate,4,Day,Permanent,North India,Field,Active
+TECH-0428,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Junior,1,Day,Permanent,South India,Field,Active
+TECH-0429,Field Service Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,1,Evening,Contract,North India,Field,Active
+TECH-0430,Maintenance Technician,General Maintenance,Heavy Equipment Maintenance,Intermediate,5,Night,Permanent,Central India,Field,Active
+TECH-0431,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Junior,3,Day,Service Partner,South India,Field,Active
+TECH-0432,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Lead,19,Evening,Permanent,South India,Workshop,On Rotation
+TECH-0433,Senior Technician,Powertrain,Heavy Equipment Maintenance,Senior,11,Day,Permanent,South India,Field,Active
+TECH-0434,Field Service Technician,Hydraulics,Hydraulic Systems Level 2,Junior,2,Day,Permanent,North India,Workshop,Active
+TECH-0435,Senior Technician,General Maintenance,Fluid Power Technician,Senior,12,Evening,Contract,Central India,Field,Active
+TECH-0436,Diagnostic Technician,Hydraulics,Industrial Safety,Junior,2,Day,Permanent,East India,Field,Active
+TECH-0437,Senior Technician,General Maintenance,Industrial Safety,Intermediate,7,Day,Permanent,South India,Workshop,Active
+TECH-0438,Field Service Technician,Hydraulics,Industrial Safety,Intermediate,8,Evening,Contract,Central India,Field,On Rotation
+TECH-0439,Workshop Technician,Heavy Equipment,Fluid Power Technician,Lead,18,Day,Permanent,Central India,Field,Active
+TECH-0440,Maintenance Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,5,Evening,Permanent,East India,Field,Active
+TECH-0441,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 2,Lead,18,Evening,Permanent,South India,Field,Active
+TECH-0442,Workshop Technician,Powertrain,Heavy Equipment Maintenance,Senior,12,Day,Permanent,South India,Field,On Rotation
+TECH-0443,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Lead,18,Evening,Permanent,North India,Workshop,Active
+TECH-0444,Maintenance Technician,General Maintenance,Hydraulic Systems Level 1,Senior,11,Day,Service Partner,East India,Field,On Rotation
+TECH-0445,Hydraulic Technician,Powertrain,Fluid Power Technician,Senior,11,Evening,Service Partner,East India,Field,Active
+TECH-0446,Field Service Technician,Powertrain,Hydraulic Systems Level 2,Lead,18,Night,Permanent,West India,Workshop,Active
+TECH-0447,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Lead,18,Night,Permanent,Central India,Workshop,Active
+TECH-0448,Senior Technician,General Maintenance,Hydraulic Systems Level 1,Senior,9,Night,Contract,East India,Field,Active
+TECH-0449,Senior Technician,Hydraulics,Industrial Safety,Lead,18,Evening,Permanent,East India,Field,Active
+TECH-0450,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Senior,10,Evening,Contract,North India,Workshop,Active
+TECH-0451,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,6,Evening,Permanent,West India,Field,Active
+TECH-0452,Field Service Technician,General Maintenance,Industrial Safety,Senior,14,Night,Contract,North India,Field,Active
+TECH-0453,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,19,Day,Permanent,Central India,Field,Active
+TECH-0454,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,9,Day,Permanent,South India,Field,Active
+TECH-0455,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Junior,3,Night,Contract,West India,Workshop,Active
+TECH-0456,Workshop Technician,Heavy Equipment,OEM-Equivalent Service Training,Junior,1,Day,Permanent,South India,Workshop,On Rotation
+TECH-0457,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 1,Intermediate,6,Day,Contract,West India,Workshop,Active
+TECH-0458,Field Service Technician,Hydraulics,Industrial Safety,Intermediate,7,Night,Contract,South India,Field,Active
+TECH-0459,Hydraulic Technician,General Maintenance,Industrial Safety,Senior,10,Evening,Permanent,North India,Field,Active
+TECH-0460,Senior Technician,Heavy Equipment,Industrial Safety,Intermediate,8,Night,Service Partner,South India,Field,On Rotation
+TECH-0461,Maintenance Technician,Powertrain,Hydraulic Systems Level 1,Intermediate,6,Night,Permanent,East India,Workshop,Active
+TECH-0462,Workshop Technician,Electrical,Industrial Safety,Intermediate,5,Day,Permanent,West India,Field,Active
+TECH-0463,Diagnostic Technician,Powertrain,Heavy Equipment Maintenance,Lead,20,Day,Contract,West India,Workshop,Active
+TECH-0464,Maintenance Technician,General Maintenance,Fluid Power Technician,Intermediate,7,Evening,Permanent,West India,Field,Active
+TECH-0465,Workshop Technician,Heavy Equipment,Industrial Safety,Lead,20,Evening,Contract,North India,Field,Active
+TECH-0466,Diagnostic Technician,Powertrain,Hydraulic Systems Level 1,Senior,11,Night,Service Partner,East India,Workshop,On Rotation
+TECH-0467,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Lead,19,Evening,Contract,East India,Workshop,Active
+TECH-0468,Field Service Technician,Heavy Equipment,Industrial Safety,Lead,17,Evening,Permanent,North India,Field,Active
+TECH-0469,Diagnostic Technician,Heavy Equipment,Heavy Equipment Maintenance,Intermediate,8,Day,Permanent,South India,Field,Active
+TECH-0470,Workshop Technician,Electrical,OEM-Equivalent Service Training,Senior,13,Day,Permanent,Central India,Field,Active
+TECH-0471,Diagnostic Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,7,Night,Permanent,South India,Field,Active
+TECH-0472,Maintenance Technician,General Maintenance,Hydraulic Systems Level 1,Senior,9,Day,Service Partner,East India,Field,On Rotation
+TECH-0473,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Intermediate,6,Day,Contract,Central India,Workshop,Active
+TECH-0474,Senior Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,11,Night,Permanent,South India,Field,On Rotation
+TECH-0475,Diagnostic Technician,Electrical,Industrial Safety,Intermediate,6,Night,Permanent,East India,Field,On Rotation
+TECH-0476,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,4,Day,Permanent,West India,Field,Active
+TECH-0477,Workshop Technician,Hydraulics,Industrial Safety,Junior,3,Night,Permanent,South India,Workshop,On Rotation
+TECH-0478,Maintenance Technician,Electrical,Heavy Equipment Maintenance,Senior,13,Night,Contract,Central India,Field,Active
+TECH-0479,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Lead,15,Night,Permanent,West India,Field,On Rotation
+TECH-0480,Field Service Technician,General Maintenance,OEM-Equivalent Service Training,Intermediate,6,Night,Service Partner,West India,Field,On Rotation
+TECH-0481,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,14,Evening,Permanent,East India,Field,On Rotation
+TECH-0482,Field Service Technician,Hydraulics,OEM-Equivalent Service Training,Senior,11,Day,Permanent,West India,Field,Active
+TECH-0483,Senior Technician,General Maintenance,Fluid Power Technician,Senior,11,Evening,Contract,East India,Field,Active
+TECH-0484,Hydraulic Technician,General Maintenance,OEM-Equivalent Service Training,Lead,17,Evening,Permanent,North India,Workshop,Active
+TECH-0485,Workshop Technician,Heavy Equipment,Industrial Safety,Senior,9,Night,Contract,Central India,Field,Active
+TECH-0486,Field Service Technician,General Maintenance,OEM-Equivalent Service Training,Intermediate,5,Evening,Permanent,East India,Field,Active
+TECH-0487,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Senior,12,Night,Permanent,North India,Field,Active
+TECH-0488,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Junior,3,Day,Contract,West India,Field,Active
+TECH-0489,Hydraulic Technician,General Maintenance,Industrial Safety,Intermediate,6,Day,Permanent,Central India,Field,Active
+TECH-0490,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,16,Day,Permanent,North India,Field,On Rotation
+TECH-0491,Hydraulic Technician,General Maintenance,Heavy Equipment Maintenance,Intermediate,5,Night,Contract,West India,Field,Active
+TECH-0492,Hydraulic Technician,Hydraulics,Fluid Power Technician,Intermediate,7,Evening,Permanent,Central India,Field,Active
+TECH-0493,Hydraulic Technician,Hydraulics,Fluid Power Technician,Lead,15,Night,Service Partner,West India,Field,Active
+TECH-0494,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,6,Night,Permanent,Central India,Field,Active
+TECH-0495,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Junior,2,Evening,Service Partner,North India,Field,Active
+TECH-0496,Field Service Technician,Powertrain,OEM-Equivalent Service Training,Senior,14,Day,Permanent,West India,Field,On Rotation
+TECH-0497,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,6,Day,Permanent,North India,Field,On Rotation
+TECH-0498,Senior Technician,Powertrain,OEM-Equivalent Service Training,Senior,9,Day,Permanent,North India,Field,Active
+TECH-0499,Maintenance Technician,Electrical,Industrial Safety,Lead,17,Night,Contract,Central India,Workshop,On Rotation
+TECH-0500,Diagnostic Technician,General Maintenance,Heavy Equipment Maintenance,Lead,18,Night,Contract,Central India,Field,On Rotation
+TECH-0501,Senior Technician,Heavy Equipment,Industrial Safety,Intermediate,4,Night,Permanent,North India,Workshop,On Rotation
+TECH-0502,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,18,Night,Contract,East India,Workshop,On Rotation
+TECH-0503,Senior Technician,Heavy Equipment,Fluid Power Technician,Senior,9,Day,Service Partner,West India,Workshop,Active
+TECH-0504,Workshop Technician,Heavy Equipment,OEM-Equivalent Service Training,Lead,20,Day,Permanent,South India,Field,On Rotation
+TECH-0505,Field Service Technician,Powertrain,Hydraulic Systems Level 2,Junior,1,Day,Service Partner,North India,Field,Active
+TECH-0506,Field Service Technician,Heavy Equipment,Industrial Safety,Lead,18,Evening,Contract,North India,Field,Active
+TECH-0507,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,10,Night,Permanent,South India,Field,On Rotation
+TECH-0508,Field Service Technician,Hydraulics,Industrial Safety,Senior,9,Day,Contract,Central India,Field,Active
+TECH-0509,Senior Technician,Powertrain,OEM-Equivalent Service Training,Intermediate,5,Night,Service Partner,East India,Workshop,Active
+TECH-0510,Workshop Technician,Heavy Equipment,Heavy Equipment Maintenance,Senior,10,Night,Permanent,Central India,Workshop,On Rotation
+TECH-0511,Field Service Technician,General Maintenance,Hydraulic Systems Level 2,Senior,14,Night,Permanent,West India,Workshop,Active
+TECH-0512,Diagnostic Technician,Hydraulics,Fluid Power Technician,Intermediate,4,Evening,Contract,South India,Field,Active
+TECH-0513,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Junior,1,Evening,Contract,East India,Workshop,Active
+TECH-0514,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Senior,13,Day,Permanent,South India,Field,Active
+TECH-0515,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,6,Evening,Permanent,North India,Workshop,On Rotation
+TECH-0516,Senior Technician,Hydraulics,Fluid Power Technician,Lead,19,Evening,Permanent,North India,Field,Active
+TECH-0517,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Lead,20,Night,Contract,North India,Field,On Rotation
+TECH-0518,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Junior,3,Night,Permanent,West India,Field,Active
+TECH-0519,Diagnostic Technician,Powertrain,OEM-Equivalent Service Training,Lead,17,Evening,Permanent,North India,Field,Active
+TECH-0520,Hydraulic Technician,Heavy Equipment,Industrial Safety,Intermediate,6,Night,Permanent,North India,Field,On Rotation
+TECH-0521,Workshop Technician,Powertrain,OEM-Equivalent Service Training,Intermediate,8,Evening,Permanent,South India,Field,On Rotation
+TECH-0522,Workshop Technician,Powertrain,OEM-Equivalent Service Training,Intermediate,8,Day,Permanent,East India,Field,Active
+TECH-0523,Maintenance Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,19,Evening,Permanent,West India,Field,On Rotation
+TECH-0524,Workshop Technician,Hydraulics,Hydraulic Systems Level 1,Senior,14,Evening,Permanent,Central India,Field,Active
+TECH-0525,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,5,Evening,Permanent,South India,Field,Active
+TECH-0526,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Junior,3,Day,Permanent,East India,Field,On Rotation
+TECH-0527,Field Service Technician,General Maintenance,Hydraulic Systems Level 1,Intermediate,5,Day,Permanent,West India,Workshop,Active
+TECH-0528,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,10,Night,Permanent,East India,Workshop,On Rotation
+TECH-0529,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,17,Day,Contract,East India,Field,Active
+TECH-0530,Diagnostic Technician,Powertrain,Industrial Safety,Lead,17,Day,Permanent,Central India,Field,Active
+TECH-0531,Field Service Technician,Electrical,Industrial Safety,Senior,9,Night,Permanent,South India,Field,Active
+TECH-0532,Workshop Technician,General Maintenance,OEM-Equivalent Service Training,Junior,2,Evening,Contract,South India,Field,Active
+TECH-0533,Diagnostic Technician,Heavy Equipment,OEM-Equivalent Service Training,Lead,17,Evening,Permanent,East India,Field,Active
+TECH-0534,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Intermediate,8,Day,Service Partner,South India,Workshop,Active
+TECH-0535,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 2,Junior,2,Evening,Contract,South India,Workshop,Active
+TECH-0536,Senior Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,14,Evening,Permanent,North India,Field,Active
+TECH-0537,Maintenance Technician,Powertrain,Heavy Equipment Maintenance,Senior,9,Evening,Permanent,West India,Field,Active
+TECH-0538,Hydraulic Technician,Powertrain,Industrial Safety,Lead,17,Day,Service Partner,West India,Field,Active
+TECH-0539,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Lead,18,Evening,Service Partner,North India,Workshop,On Rotation
+TECH-0540,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 2,Junior,3,Night,Service Partner,North India,Field,Active
+TECH-0541,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,7,Night,Permanent,Central India,Field,Active
+TECH-0542,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Senior,9,Evening,Permanent,North India,Field,On Rotation
+TECH-0543,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Lead,20,Day,Permanent,Central India,Field,Active
+TECH-0544,Maintenance Technician,Powertrain,Heavy Equipment Maintenance,Senior,14,Day,Permanent,South India,Field,Active
+TECH-0545,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Junior,1,Day,Permanent,South India,Workshop,On Rotation
+TECH-0546,Diagnostic Technician,Heavy Equipment,Industrial Safety,Lead,18,Day,Permanent,South India,Field,Active
+TECH-0547,Field Service Technician,Heavy Equipment,Industrial Safety,Senior,14,Evening,Permanent,North India,Field,Active
+TECH-0548,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Lead,19,Evening,Permanent,South India,Field,Active
+TECH-0549,Field Service Technician,Powertrain,Hydraulic Systems Level 2,Senior,9,Day,Permanent,South India,Field,On Rotation
+TECH-0550,Senior Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,9,Day,Permanent,Central India,Workshop,Active
+TECH-0551,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Lead,18,Day,Service Partner,North India,Workshop,On Rotation
+TECH-0552,Senior Technician,Powertrain,OEM-Equivalent Service Training,Senior,9,Evening,Service Partner,West India,Field,Active
+TECH-0553,Senior Technician,Heavy Equipment,Industrial Safety,Lead,16,Day,Permanent,North India,Workshop,Active
+TECH-0554,Maintenance Technician,General Maintenance,Fluid Power Technician,Senior,11,Evening,Contract,North India,Workshop,Active
+TECH-0555,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Lead,16,Day,Permanent,West India,Workshop,Active
+TECH-0556,Diagnostic Technician,Powertrain,Hydraulic Systems Level 2,Senior,9,Evening,Permanent,North India,Workshop,On Rotation
+TECH-0557,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 1,Intermediate,4,Evening,Contract,East India,Workshop,On Rotation
+TECH-0558,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,16,Day,Contract,North India,Field,Active
+TECH-0559,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,17,Evening,Permanent,North India,Field,Active
+TECH-0560,Field Service Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,2,Evening,Permanent,South India,Field,Active
+TECH-0561,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,4,Night,Permanent,East India,Workshop,Active
+TECH-0562,Senior Technician,Powertrain,Hydraulic Systems Level 1,Intermediate,6,Day,Permanent,East India,Workshop,Active
+TECH-0563,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,12,Day,Permanent,West India,Field,Active
+TECH-0564,Workshop Technician,General Maintenance,Heavy Equipment Maintenance,Intermediate,7,Day,Contract,East India,Field,Active
+TECH-0565,Diagnostic Technician,Hydraulics,Fluid Power Technician,Intermediate,7,Night,Contract,East India,Field,On Rotation
+TECH-0566,Hydraulic Technician,General Maintenance,Fluid Power Technician,Intermediate,7,Night,Permanent,West India,Field,On Rotation
+TECH-0567,Senior Technician,General Maintenance,Fluid Power Technician,Lead,18,Day,Permanent,North India,Workshop,On Rotation
+TECH-0568,Diagnostic Technician,Heavy Equipment,Heavy Equipment Maintenance,Senior,12,Night,Permanent,South India,Field,Active
+TECH-0569,Workshop Technician,General Maintenance,OEM-Equivalent Service Training,Senior,12,Night,Permanent,South India,Field,Active
+TECH-0570,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Junior,3,Evening,Service Partner,North India,Workshop,Active
+TECH-0571,Maintenance Technician,Heavy Equipment,Industrial Safety,Senior,13,Day,Permanent,East India,Field,Active
+TECH-0572,Field Service Technician,Powertrain,Industrial Safety,Junior,2,Evening,Permanent,Central India,Field,Active
+TECH-0573,Maintenance Technician,Heavy Equipment,Industrial Safety,Intermediate,7,Evening,Permanent,East India,Field,On Rotation
+TECH-0574,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Senior,14,Evening,Permanent,East India,Field,On Rotation
+TECH-0575,Senior Technician,Hydraulics,Industrial Safety,Intermediate,4,Day,Permanent,West India,Field,Active
+TECH-0576,Diagnostic Technician,Powertrain,Hydraulic Systems Level 2,Lead,18,Night,Permanent,North India,Field,On Rotation
+TECH-0577,Senior Technician,General Maintenance,Fluid Power Technician,Intermediate,7,Evening,Service Partner,South India,Field,Active
+TECH-0578,Workshop Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,18,Night,Contract,North India,Field,Active
+TECH-0579,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 2,Intermediate,4,Day,Contract,Central India,Workshop,Active
+TECH-0580,Hydraulic Technician,Heavy Equipment,Fluid Power Technician,Lead,19,Day,Service Partner,North India,Field,Active
+TECH-0581,Hydraulic Technician,Electrical,Fluid Power Technician,Senior,14,Day,Permanent,South India,Workshop,Active
+TECH-0582,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,5,Evening,Permanent,North India,Field,Active
+TECH-0583,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Junior,2,Evening,Permanent,South India,Field,Active
+TECH-0584,Diagnostic Technician,Powertrain,Heavy Equipment Maintenance,Intermediate,4,Day,Permanent,North India,Field,Active
+TECH-0585,Hydraulic Technician,General Maintenance,Industrial Safety,Lead,17,Evening,Permanent,Central India,Field,Active
+TECH-0586,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Lead,15,Night,Contract,North India,Field,Active
+TECH-0587,Maintenance Technician,General Maintenance,Heavy Equipment Maintenance,Senior,10,Evening,Contract,North India,Workshop,On Rotation
+TECH-0588,Maintenance Technician,Heavy Equipment,OEM-Equivalent Service Training,Junior,3,Night,Permanent,East India,Field,On Rotation
+TECH-0589,Hydraulic Technician,Electrical,Hydraulic Systems Level 2,Lead,20,Evening,Permanent,South India,Field,Active
+TECH-0590,Diagnostic Technician,Hydraulics,Fluid Power Technician,Junior,1,Day,Permanent,East India,Field,On Rotation
+TECH-0591,Diagnostic Technician,General Maintenance,Heavy Equipment Maintenance,Senior,12,Day,Contract,Central India,Field,Active
+TECH-0592,Maintenance Technician,Electrical,OEM-Equivalent Service Training,Intermediate,7,Night,Contract,East India,Field,On Rotation
+TECH-0593,Workshop Technician,General Maintenance,Hydraulic Systems Level 1,Junior,3,Day,Permanent,East India,Workshop,Active
+TECH-0594,Hydraulic Technician,Powertrain,Fluid Power Technician,Lead,18,Day,Permanent,South India,Field,Active
+TECH-0595,Diagnostic Technician,Hydraulics,Fluid Power Technician,Junior,1,Night,Permanent,East India,Field,On Rotation
+TECH-0596,Field Service Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,4,Day,Permanent,East India,Field,On Rotation
+TECH-0597,Maintenance Technician,Heavy Equipment,Fluid Power Technician,Intermediate,5,Evening,Contract,Central India,Workshop,Active
+TECH-0598,Diagnostic Technician,Heavy Equipment,Industrial Safety,Intermediate,4,Day,Permanent,West India,Field,Active
+TECH-0599,Diagnostic Technician,Powertrain,Hydraulic Systems Level 1,Lead,16,Evening,Contract,West India,Workshop,Active
+TECH-0600,Field Service Technician,Powertrain,Heavy Equipment Maintenance,Intermediate,6,Night,Contract,South India,Field,On Rotation
+TECH-0601,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,12,Evening,Permanent,Central India,Field,Active
+TECH-0602,Field Service Technician,Electrical,Heavy Equipment Maintenance,Intermediate,7,Night,Service Partner,Central India,Workshop,Active
+TECH-0603,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 1,Intermediate,7,Night,Permanent,West India,Field,Active
+TECH-0604,Senior Technician,Electrical,Fluid Power Technician,Lead,16,Day,Permanent,North India,Field,Active
+TECH-0605,Workshop Technician,General Maintenance,Fluid Power Technician,Senior,11,Night,Service Partner,North India,Workshop,Active
+TECH-0606,Hydraulic Technician,Hydraulics,Industrial Safety,Senior,12,Evening,Permanent,East India,Field,On Rotation
+TECH-0607,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,18,Evening,Contract,North India,Field,Active
+TECH-0608,Senior Technician,General Maintenance,Fluid Power Technician,Lead,19,Night,Permanent,West India,Field,Active
+TECH-0609,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,9,Day,Permanent,East India,Field,Active
+TECH-0610,Senior Technician,Hydraulics,Heavy Equipment Maintenance,Lead,19,Night,Permanent,North India,Field,On Rotation
+TECH-0611,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Lead,20,Day,Permanent,South India,Workshop,On Rotation
+TECH-0612,Hydraulic Technician,Hydraulics,Industrial Safety,Senior,11,Night,Permanent,East India,Workshop,Active
+TECH-0613,Senior Technician,Powertrain,Hydraulic Systems Level 1,Intermediate,6,Evening,Permanent,North India,Workshop,Active
+TECH-0614,Field Service Technician,Electrical,Industrial Safety,Intermediate,7,Night,Contract,East India,Field,Active
+TECH-0615,Maintenance Technician,Heavy Equipment,OEM-Equivalent Service Training,Lead,16,Night,Permanent,West India,Field,On Rotation
+TECH-0616,Maintenance Technician,Hydraulics,Industrial Safety,Senior,10,Night,Permanent,North India,Workshop,Active
+TECH-0617,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Lead,20,Day,Permanent,West India,Field,Active
+TECH-0618,Senior Technician,Hydraulics,Heavy Equipment Maintenance,Senior,11,Evening,Permanent,East India,Field,Active
+TECH-0619,Hydraulic Technician,Hydraulics,Fluid Power Technician,Junior,3,Day,Service Partner,Central India,Field,On Rotation
+TECH-0620,Senior Technician,Heavy Equipment,Industrial Safety,Lead,15,Night,Permanent,West India,Field,Active
+TECH-0621,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Senior,10,Night,Service Partner,East India,Field,Active
+TECH-0622,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,14,Evening,Permanent,South India,Workshop,On Rotation
+TECH-0623,Senior Technician,Powertrain,Hydraulic Systems Level 2,Senior,13,Evening,Permanent,North India,Field,Active
+TECH-0624,Field Service Technician,General Maintenance,Industrial Safety,Intermediate,7,Evening,Permanent,West India,Workshop,Active
+TECH-0625,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Senior,14,Day,Contract,Central India,Field,On Rotation
+TECH-0626,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Junior,2,Evening,Permanent,Central India,Field,Active
+TECH-0627,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,8,Night,Service Partner,East India,Field,Active
+TECH-0628,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Lead,18,Night,Permanent,West India,Field,On Rotation
+TECH-0629,Hydraulic Technician,Heavy Equipment,Fluid Power Technician,Lead,16,Evening,Service Partner,West India,Field,On Rotation
+TECH-0630,Hydraulic Technician,Heavy Equipment,Fluid Power Technician,Junior,1,Evening,Permanent,West India,Workshop,On Rotation
+TECH-0631,Field Service Technician,Heavy Equipment,Industrial Safety,Senior,9,Evening,Permanent,South India,Field,Active
+TECH-0632,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Lead,16,Night,Permanent,North India,Field,Active
+TECH-0633,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,18,Day,Permanent,North India,Field,Active
+TECH-0634,Workshop Technician,Hydraulics,Industrial Safety,Senior,13,Day,Permanent,Central India,Workshop,On Rotation
+TECH-0635,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,9,Night,Contract,Central India,Field,Active
+TECH-0636,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Senior,14,Evening,Permanent,East India,Field,Active
+TECH-0637,Senior Technician,General Maintenance,Industrial Safety,Junior,1,Day,Permanent,Central India,Field,Active
+TECH-0638,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,9,Evening,Permanent,North India,Field,On Rotation
+TECH-0639,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Junior,3,Day,Contract,West India,Field,Active
+TECH-0640,Hydraulic Technician,Electrical,Fluid Power Technician,Intermediate,7,Night,Contract,West India,Workshop,Active
+TECH-0641,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,13,Day,Contract,South India,Field,Active
+TECH-0642,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Lead,20,Evening,Permanent,East India,Workshop,Active
+TECH-0643,Field Service Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,17,Night,Permanent,West India,Field,On Rotation
+TECH-0644,Maintenance Technician,Hydraulics,Industrial Safety,Lead,17,Night,Contract,Central India,Workshop,On Rotation
+TECH-0645,Workshop Technician,Electrical,Hydraulic Systems Level 1,Senior,14,Evening,Service Partner,South India,Workshop,Active
+TECH-0646,Hydraulic Technician,Heavy Equipment,Fluid Power Technician,Lead,18,Night,Permanent,East India,Workshop,Active
+TECH-0647,Maintenance Technician,Hydraulics,Fluid Power Technician,Lead,18,Day,Permanent,East India,Workshop,Active
+TECH-0648,Diagnostic Technician,Powertrain,Heavy Equipment Maintenance,Senior,13,Night,Permanent,Central India,Field,On Rotation
+TECH-0649,Field Service Technician,General Maintenance,Hydraulic Systems Level 1,Lead,15,Night,Permanent,South India,Field,Active
+TECH-0650,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,17,Day,Permanent,East India,Field,Active
+TECH-0651,Hydraulic Technician,General Maintenance,Industrial Safety,Intermediate,6,Evening,Service Partner,East India,Field,Active
+TECH-0652,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,6,Day,Permanent,West India,Field,Active
+TECH-0653,Hydraulic Technician,Hydraulics,Industrial Safety,Senior,13,Evening,Permanent,Central India,Field,Active
+TECH-0654,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,4,Day,Permanent,South India,Field,Active
+TECH-0655,Hydraulic Technician,General Maintenance,Industrial Safety,Intermediate,7,Night,Permanent,North India,Field,Active
+TECH-0656,Diagnostic Technician,Electrical,Heavy Equipment Maintenance,Intermediate,5,Day,Permanent,North India,Workshop,Active
+TECH-0657,Diagnostic Technician,Hydraulics,Fluid Power Technician,Senior,9,Evening,Permanent,West India,Workshop,Active
+TECH-0658,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Senior,9,Evening,Permanent,North India,Field,On Rotation
+TECH-0659,Diagnostic Technician,Hydraulics,Industrial Safety,Intermediate,8,Day,Permanent,Central India,Field,Active
+TECH-0660,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Junior,1,Day,Permanent,North India,Workshop,Active
+TECH-0661,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Lead,15,Night,Contract,North India,Field,On Rotation
+TECH-0662,Hydraulic Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,1,Night,Contract,South India,Field,Active
+TECH-0663,Workshop Technician,General Maintenance,Heavy Equipment Maintenance,Senior,9,Evening,Contract,East India,Field,Active
+TECH-0664,Senior Technician,Electrical,Heavy Equipment Maintenance,Intermediate,5,Night,Permanent,North India,Field,Active
+TECH-0665,Field Service Technician,Hydraulics,Industrial Safety,Intermediate,6,Day,Permanent,East India,Field,Active
+TECH-0666,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Senior,10,Evening,Service Partner,East India,Field,Active
+TECH-0667,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,18,Evening,Permanent,East India,Field,Active
+TECH-0668,Hydraulic Technician,Powertrain,Industrial Safety,Lead,15,Day,Permanent,North India,Field,On Rotation
+TECH-0669,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Junior,2,Day,Service Partner,South India,Field,Active
+TECH-0670,Diagnostic Technician,Electrical,Industrial Safety,Lead,18,Night,Permanent,West India,Field,Active
+TECH-0671,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Senior,12,Night,Permanent,East India,Field,Active
+TECH-0672,Maintenance Technician,Powertrain,Heavy Equipment Maintenance,Senior,11,Night,Permanent,Central India,Field,Active
+TECH-0673,Maintenance Technician,Heavy Equipment,Industrial Safety,Junior,1,Night,Permanent,East India,Workshop,Active
+TECH-0674,Field Service Technician,General Maintenance,Hydraulic Systems Level 2,Senior,9,Evening,Permanent,East India,Field,On Rotation
+TECH-0675,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,4,Evening,Permanent,North India,Workshop,Active
+TECH-0676,Senior Technician,Heavy Equipment,OEM-Equivalent Service Training,Junior,1,Day,Permanent,Central India,Field,Active
+TECH-0677,Maintenance Technician,Hydraulics,Industrial Safety,Senior,10,Day,Contract,East India,Workshop,Active
+TECH-0678,Diagnostic Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,19,Night,Service Partner,South India,Workshop,Active
+TECH-0679,Field Service Technician,Powertrain,Heavy Equipment Maintenance,Intermediate,8,Evening,Permanent,North India,Workshop,Active
+TECH-0680,Hydraulic Technician,Hydraulics,Fluid Power Technician,Senior,11,Day,Permanent,North India,Workshop,On Rotation
+TECH-0681,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Senior,12,Day,Permanent,East India,Workshop,On Rotation
+TECH-0682,Maintenance Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,2,Evening,Permanent,South India,Field,Active
+TECH-0683,Senior Technician,General Maintenance,OEM-Equivalent Service Training,Lead,18,Evening,Permanent,West India,Field,Active
+TECH-0684,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,20,Night,Permanent,East India,Workshop,Active
+TECH-0685,Maintenance Technician,Heavy Equipment,Fluid Power Technician,Lead,20,Day,Permanent,Central India,Workshop,On Rotation
+TECH-0686,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,4,Night,Contract,South India,Workshop,Active
+TECH-0687,Field Service Technician,Hydraulics,Industrial Safety,Lead,18,Day,Permanent,South India,Field,On Rotation
+TECH-0688,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,13,Evening,Permanent,East India,Field,Active
+TECH-0689,Field Service Technician,Electrical,Hydraulic Systems Level 1,Senior,9,Day,Contract,South India,Field,On Rotation
+TECH-0690,Field Service Technician,General Maintenance,OEM-Equivalent Service Training,Lead,18,Evening,Permanent,North India,Field,Active
+TECH-0691,Senior Technician,General Maintenance,Hydraulic Systems Level 2,Lead,17,Day,Contract,Central India,Field,Active
+TECH-0692,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 2,Senior,12,Evening,Permanent,West India,Field,Active
+TECH-0693,Workshop Technician,Heavy Equipment,Industrial Safety,Senior,11,Evening,Permanent,North India,Field,Active
+TECH-0694,Maintenance Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,7,Day,Permanent,North India,Field,Active
+TECH-0695,Diagnostic Technician,General Maintenance,Industrial Safety,Lead,15,Day,Contract,Central India,Workshop,Active
+TECH-0696,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,7,Evening,Permanent,North India,Field,Active
+TECH-0697,Hydraulic Technician,Heavy Equipment,OEM-Equivalent Service Training,Junior,2,Night,Contract,North India,Field,Active
+TECH-0698,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 1,Lead,18,Night,Permanent,West India,Field,On Rotation
+TECH-0699,Workshop Technician,Hydraulics,Industrial Safety,Intermediate,5,Day,Permanent,South India,Workshop,Active
+TECH-0700,Hydraulic Technician,Electrical,Heavy Equipment Maintenance,Lead,18,Night,Contract,East India,Field,On Rotation
+TECH-0701,Maintenance Technician,Hydraulics,Industrial Safety,Lead,20,Day,Service Partner,North India,Field,Active
+TECH-0702,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,17,Night,Permanent,East India,Field,On Rotation
+TECH-0703,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Senior,14,Evening,Permanent,North India,Workshop,Active
+TECH-0704,Senior Technician,Hydraulics,Heavy Equipment Maintenance,Lead,20,Night,Permanent,West India,Workshop,Active
+TECH-0705,Senior Technician,Electrical,Hydraulic Systems Level 1,Lead,19,Evening,Contract,Central India,Field,Active
+TECH-0706,Hydraulic Technician,Electrical,OEM-Equivalent Service Training,Senior,12,Day,Service Partner,North India,Field,Active
+TECH-0707,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,9,Evening,Contract,West India,Field,Active
+TECH-0708,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Junior,2,Day,Permanent,South India,Field,Active
+TECH-0709,Field Service Technician,Powertrain,OEM-Equivalent Service Training,Senior,12,Evening,Permanent,South India,Workshop,Active
+TECH-0710,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,19,Evening,Permanent,North India,Workshop,On Rotation
+TECH-0711,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Junior,3,Day,Permanent,West India,Field,Active
+TECH-0712,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Senior,13,Night,Permanent,East India,Workshop,Active
+TECH-0713,Workshop Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,6,Evening,Permanent,Central India,Field,Active
+TECH-0714,Maintenance Technician,Powertrain,Heavy Equipment Maintenance,Lead,20,Day,Contract,West India,Field,On Rotation
+TECH-0715,Field Service Technician,Heavy Equipment,OEM-Equivalent Service Training,Lead,19,Night,Contract,Central India,Field,Active
+TECH-0716,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 1,Intermediate,5,Day,Contract,North India,Field,Active
+TECH-0717,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,18,Evening,Permanent,East India,Workshop,On Rotation
+TECH-0718,Diagnostic Technician,Powertrain,Hydraulic Systems Level 2,Senior,11,Evening,Permanent,North India,Field,Active
+TECH-0719,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Lead,15,Day,Service Partner,South India,Field,Active
+TECH-0720,Senior Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,7,Night,Permanent,East India,Workshop,On Rotation
+TECH-0721,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 2,Junior,3,Day,Permanent,East India,Workshop,Active
+TECH-0722,Hydraulic Technician,General Maintenance,Fluid Power Technician,Senior,12,Day,Service Partner,Central India,Field,Active
+TECH-0723,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Senior,10,Night,Permanent,South India,Field,Active
+TECH-0724,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Lead,20,Day,Permanent,Central India,Field,Active
+TECH-0725,Diagnostic Technician,Heavy Equipment,Fluid Power Technician,Intermediate,5,Evening,Permanent,West India,Field,Active
+TECH-0726,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,8,Evening,Permanent,East India,Field,On Rotation
+TECH-0727,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,8,Evening,Contract,Central India,Field,Active
+TECH-0728,Maintenance Technician,Hydraulics,Fluid Power Technician,Senior,9,Night,Permanent,East India,Field,On Rotation
+TECH-0729,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,15,Evening,Contract,Central India,Field,Active
+TECH-0730,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 1,Junior,3,Night,Permanent,North India,Workshop,On Rotation
+TECH-0731,Senior Technician,Hydraulics,Industrial Safety,Intermediate,5,Day,Permanent,North India,Field,On Rotation
+TECH-0732,Field Service Technician,Hydraulics,OEM-Equivalent Service Training,Lead,18,Evening,Contract,West India,Field,Active
+TECH-0733,Workshop Technician,General Maintenance,Hydraulic Systems Level 1,Lead,16,Day,Service Partner,South India,Workshop,Active
+TECH-0734,Field Service Technician,Heavy Equipment,Industrial Safety,Lead,19,Evening,Permanent,South India,Field,Active
+TECH-0735,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Lead,16,Evening,Permanent,North India,Workshop,On Rotation
+TECH-0736,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,4,Day,Permanent,West India,Field,On Rotation
+TECH-0737,Field Service Technician,Hydraulics,Fluid Power Technician,Senior,11,Day,Contract,North India,Field,Active
+TECH-0738,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 2,Senior,12,Day,Contract,South India,Field,On Rotation
+TECH-0739,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,12,Evening,Permanent,Central India,Field,Active
+TECH-0740,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Junior,3,Day,Permanent,West India,Field,Active
+TECH-0741,Diagnostic Technician,General Maintenance,OEM-Equivalent Service Training,Lead,20,Day,Permanent,North India,Workshop,Active
+TECH-0742,Maintenance Technician,Electrical,Hydraulic Systems Level 2,Senior,11,Day,Permanent,North India,Field,Active
+TECH-0743,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,15,Day,Permanent,West India,Field,Active
+TECH-0744,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,1,Evening,Permanent,East India,Field,Active
+TECH-0745,Field Service Technician,General Maintenance,Hydraulic Systems Level 2,Intermediate,7,Day,Permanent,East India,Field,On Rotation
+TECH-0746,Senior Technician,Powertrain,Industrial Safety,Lead,15,Day,Contract,South India,Workshop,On Rotation
+TECH-0747,Maintenance Technician,Hydraulics,Industrial Safety,Senior,14,Night,Permanent,Central India,Field,Active
+TECH-0748,Hydraulic Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,17,Day,Permanent,Central India,Workshop,Active
+TECH-0749,Field Service Technician,Hydraulics,Fluid Power Technician,Intermediate,4,Evening,Permanent,South India,Workshop,On Rotation
+TECH-0750,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Intermediate,7,Evening,Permanent,West India,Field,Active
+TECH-0751,Field Service Technician,Heavy Equipment,Fluid Power Technician,Senior,10,Day,Permanent,East India,Field,Active
+TECH-0752,Field Service Technician,Hydraulics,Heavy Equipment Maintenance,Lead,19,Day,Permanent,Central India,Workshop,On Rotation
+TECH-0753,Maintenance Technician,Heavy Equipment,Industrial Safety,Intermediate,5,Night,Permanent,North India,Field,Active
+TECH-0754,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,15,Day,Permanent,South India,Field,Active
+TECH-0755,Maintenance Technician,Powertrain,Hydraulic Systems Level 1,Lead,20,Evening,Permanent,East India,Workshop,Active
+TECH-0756,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Junior,2,Day,Contract,East India,Workshop,On Rotation
+TECH-0757,Senior Technician,Heavy Equipment,Industrial Safety,Lead,20,Evening,Permanent,Central India,Field,Active
+TECH-0758,Field Service Technician,General Maintenance,Fluid Power Technician,Senior,9,Evening,Permanent,North India,Workshop,Active
+TECH-0759,Diagnostic Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,3,Night,Service Partner,East India,Workshop,On Rotation
+TECH-0760,Maintenance Technician,Electrical,Fluid Power Technician,Senior,9,Evening,Contract,North India,Workshop,Active
+TECH-0761,Diagnostic Technician,Hydraulics,Fluid Power Technician,Lead,16,Night,Permanent,Central India,Field,Active
+TECH-0762,Workshop Technician,Heavy Equipment,Fluid Power Technician,Intermediate,4,Day,Permanent,North India,Field,Active
+TECH-0763,Diagnostic Technician,Powertrain,Fluid Power Technician,Senior,11,Night,Permanent,West India,Field,On Rotation
+TECH-0764,Hydraulic Technician,Hydraulics,Industrial Safety,Intermediate,7,Evening,Permanent,North India,Field,Active
+TECH-0765,Field Service Technician,Powertrain,Hydraulic Systems Level 1,Intermediate,4,Night,Permanent,Central India,Field,Active
+TECH-0766,Maintenance Technician,Hydraulics,Fluid Power Technician,Intermediate,8,Evening,Permanent,North India,Field,Active
+TECH-0767,Field Service Technician,General Maintenance,Hydraulic Systems Level 1,Senior,11,Evening,Permanent,East India,Field,Active
+TECH-0768,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Lead,18,Day,Permanent,Central India,Workshop,Active
+TECH-0769,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Lead,16,Night,Contract,West India,Field,Active
+TECH-0770,Maintenance Technician,Electrical,Hydraulic Systems Level 2,Senior,9,Night,Contract,West India,Field,On Rotation
+TECH-0771,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Lead,18,Night,Permanent,Central India,Field,Active
+TECH-0772,Workshop Technician,Electrical,Hydraulic Systems Level 1,Senior,14,Evening,Permanent,East India,Workshop,On Rotation
+TECH-0773,Senior Technician,Powertrain,Industrial Safety,Senior,11,Night,Service Partner,North India,Field,Active
+TECH-0774,Maintenance Technician,Electrical,Heavy Equipment Maintenance,Senior,14,Evening,Permanent,Central India,Workshop,Active
+TECH-0775,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 2,Senior,10,Evening,Contract,South India,Field,On Rotation
+TECH-0776,Field Service Technician,General Maintenance,Industrial Safety,Senior,12,Day,Permanent,South India,Field,Active
+TECH-0777,Hydraulic Technician,Electrical,Hydraulic Systems Level 1,Intermediate,6,Day,Contract,West India,Field,Active
+TECH-0778,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Lead,19,Day,Contract,North India,Field,Active
+TECH-0779,Maintenance Technician,General Maintenance,Hydraulic Systems Level 2,Senior,9,Evening,Permanent,Central India,Field,On Rotation
+TECH-0780,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Junior,3,Day,Permanent,West India,Field,Active
+TECH-0781,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Senior,11,Evening,Permanent,South India,Workshop,Active
+TECH-0782,Maintenance Technician,Hydraulics,Industrial Safety,Senior,11,Day,Contract,Central India,Workshop,Active
+TECH-0783,Hydraulic Technician,Hydraulics,Industrial Safety,Senior,14,Night,Permanent,West India,Workshop,Active
+TECH-0784,Field Service Technician,Heavy Equipment,Fluid Power Technician,Senior,10,Evening,Permanent,North India,Field,On Rotation
+TECH-0785,Diagnostic Technician,Powertrain,Fluid Power Technician,Lead,19,Night,Contract,North India,Field,On Rotation
+TECH-0786,Maintenance Technician,Heavy Equipment,Industrial Safety,Junior,1,Evening,Permanent,West India,Field,Active
+TECH-0787,Workshop Technician,Hydraulics,Hydraulic Systems Level 1,Senior,11,Night,Permanent,South India,Workshop,Active
+TECH-0788,Workshop Technician,Electrical,Hydraulic Systems Level 2,Intermediate,4,Night,Permanent,West India,Field,On Rotation
+TECH-0789,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,15,Day,Permanent,East India,Field,Active
+TECH-0790,Diagnostic Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,20,Day,Permanent,East India,Field,Active
+TECH-0791,Workshop Technician,Hydraulics,Hydraulic Systems Level 1,Senior,13,Day,Contract,West India,Workshop,Active
+TECH-0792,Workshop Technician,Hydraulics,Fluid Power Technician,Junior,3,Evening,Permanent,West India,Field,Active
+TECH-0793,Diagnostic Technician,Hydraulics,Fluid Power Technician,Senior,13,Night,Permanent,Central India,Field,Active
+TECH-0794,Senior Technician,General Maintenance,Industrial Safety,Senior,11,Day,Permanent,West India,Field,Active
+TECH-0795,Diagnostic Technician,General Maintenance,Industrial Safety,Junior,1,Night,Permanent,North India,Workshop,Active
+TECH-0796,Hydraulic Technician,Powertrain,Fluid Power Technician,Senior,11,Day,Permanent,East India,Field,On Rotation
+TECH-0797,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Lead,19,Day,Permanent,Central India,Field,Active
+TECH-0798,Field Service Technician,Powertrain,Heavy Equipment Maintenance,Senior,13,Night,Permanent,South India,Field,Active
+TECH-0799,Workshop Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,18,Day,Permanent,South India,Field,Active
+TECH-0800,Field Service Technician,General Maintenance,OEM-Equivalent Service Training,Intermediate,8,Day,Permanent,East India,Field,Active
+TECH-0801,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Senior,13,Evening,Contract,South India,Workshop,Active
+TECH-0802,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Lead,19,Night,Contract,North India,Workshop,Active
+TECH-0803,Senior Technician,Hydraulics,Heavy Equipment Maintenance,Lead,17,Night,Contract,East India,Field,Active
+TECH-0804,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Senior,10,Night,Permanent,South India,Field,Active
+TECH-0805,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Junior,1,Night,Permanent,North India,Field,Active
+TECH-0806,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 2,Lead,18,Evening,Permanent,West India,Workshop,Active
+TECH-0807,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Lead,18,Night,Permanent,West India,Field,On Rotation
+TECH-0808,Field Service Technician,Hydraulics,Fluid Power Technician,Senior,13,Night,Permanent,North India,Field,Active
+TECH-0809,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 1,Lead,15,Day,Permanent,North India,Workshop,Active
+TECH-0810,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 1,Lead,17,Night,Contract,West India,Workshop,On Rotation
+TECH-0811,Workshop Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,10,Day,Contract,North India,Workshop,Active
+TECH-0812,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,5,Evening,Permanent,East India,Workshop,Active
+TECH-0813,Senior Technician,Hydraulics,Fluid Power Technician,Intermediate,6,Evening,Permanent,North India,Field,On Rotation
+TECH-0814,Senior Technician,Heavy Equipment,Fluid Power Technician,Intermediate,4,Evening,Permanent,West India,Workshop,On Rotation
+TECH-0815,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,11,Day,Permanent,East India,Workshop,Active
+TECH-0816,Field Service Technician,Powertrain,Industrial Safety,Senior,13,Day,Contract,East India,Field,Active
+TECH-0817,Maintenance Technician,General Maintenance,Fluid Power Technician,Intermediate,4,Evening,Permanent,North India,Field,Active
+TECH-0818,Senior Technician,Powertrain,Fluid Power Technician,Senior,11,Day,Permanent,West India,Workshop,Active
+TECH-0819,Field Service Technician,Hydraulics,Hydraulic Systems Level 2,Junior,2,Evening,Permanent,Central India,Field,Active
+TECH-0820,Field Service Technician,Powertrain,OEM-Equivalent Service Training,Lead,18,Day,Contract,East India,Field,Active
+TECH-0821,Maintenance Technician,Electrical,OEM-Equivalent Service Training,Intermediate,4,Night,Permanent,West India,Field,Active
+TECH-0822,Senior Technician,Hydraulics,Fluid Power Technician,Lead,16,Evening,Permanent,Central India,Field,On Rotation
+TECH-0823,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,15,Day,Permanent,North India,Workshop,On Rotation
+TECH-0824,Field Service Technician,Electrical,Industrial Safety,Intermediate,4,Evening,Permanent,West India,Field,Active
+TECH-0825,Hydraulic Technician,Powertrain,Fluid Power Technician,Junior,1,Day,Service Partner,West India,Workshop,Active
+TECH-0826,Senior Technician,General Maintenance,Industrial Safety,Lead,20,Evening,Permanent,West India,Workshop,Active
+TECH-0827,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,12,Night,Permanent,Central India,Field,On Rotation
+TECH-0828,Hydraulic Technician,Heavy Equipment,Fluid Power Technician,Lead,18,Evening,Permanent,North India,Field,Active
+TECH-0829,Workshop Technician,General Maintenance,Hydraulic Systems Level 2,Lead,20,Evening,Permanent,West India,Workshop,Active
+TECH-0830,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,4,Day,Service Partner,North India,Field,On Rotation
+TECH-0831,Workshop Technician,Hydraulics,Fluid Power Technician,Intermediate,7,Day,Contract,North India,Field,Active
+TECH-0832,Diagnostic Technician,General Maintenance,Industrial Safety,Lead,17,Day,Permanent,East India,Field,On Rotation
+TECH-0833,Diagnostic Technician,Powertrain,OEM-Equivalent Service Training,Intermediate,7,Day,Permanent,East India,Workshop,On Rotation
+TECH-0834,Field Service Technician,Hydraulics,Industrial Safety,Junior,3,Night,Permanent,West India,Workshop,Active
+TECH-0835,Workshop Technician,General Maintenance,Industrial Safety,Lead,20,Evening,Permanent,East India,Field,On Rotation
+TECH-0836,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 1,Intermediate,4,Night,Service Partner,North India,Workshop,Active
+TECH-0837,Senior Technician,Powertrain,Hydraulic Systems Level 1,Lead,19,Night,Permanent,West India,Field,Active
+TECH-0838,Workshop Technician,General Maintenance,Heavy Equipment Maintenance,Lead,18,Night,Permanent,South India,Workshop,Active
+TECH-0839,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 2,Senior,9,Day,Permanent,West India,Workshop,On Rotation
+TECH-0840,Field Service Technician,Powertrain,Hydraulic Systems Level 2,Intermediate,4,Day,Permanent,East India,Field,Active
+TECH-0841,Field Service Technician,General Maintenance,Heavy Equipment Maintenance,Senior,14,Night,Service Partner,Central India,Field,Active
+TECH-0842,Maintenance Technician,Powertrain,OEM-Equivalent Service Training,Lead,19,Evening,Contract,Central India,Workshop,On Rotation
+TECH-0843,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,17,Day,Permanent,North India,Field,Active
+TECH-0844,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,8,Night,Service Partner,South India,Workshop,Active
+TECH-0845,Hydraulic Technician,Electrical,Industrial Safety,Senior,11,Night,Contract,North India,Field,On Rotation
+TECH-0846,Workshop Technician,Powertrain,Heavy Equipment Maintenance,Lead,16,Day,Permanent,Central India,Field,On Rotation
+TECH-0847,Senior Technician,General Maintenance,OEM-Equivalent Service Training,Senior,14,Evening,Permanent,Central India,Field,Active
+TECH-0848,Workshop Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,14,Evening,Contract,Central India,Workshop,Active
+TECH-0849,Field Service Technician,Electrical,Industrial Safety,Intermediate,8,Evening,Permanent,North India,Workshop,Active
+TECH-0850,Senior Technician,Electrical,Hydraulic Systems Level 2,Senior,10,Day,Permanent,West India,Field,Active
+TECH-0851,Workshop Technician,General Maintenance,Heavy Equipment Maintenance,Senior,11,Night,Permanent,East India,Field,Active
+TECH-0852,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Senior,10,Evening,Contract,West India,Field,Active
+TECH-0853,Hydraulic Technician,Powertrain,OEM-Equivalent Service Training,Lead,17,Evening,Permanent,Central India,Field,On Rotation
+TECH-0854,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Lead,18,Evening,Permanent,North India,Field,Active
+TECH-0855,Maintenance Technician,General Maintenance,Industrial Safety,Intermediate,4,Night,Permanent,North India,Workshop,Active
+TECH-0856,Diagnostic Technician,General Maintenance,Hydraulic Systems Level 1,Senior,14,Day,Permanent,East India,Workshop,Active
+TECH-0857,Senior Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,17,Evening,Permanent,East India,Field,Active
+TECH-0858,Senior Technician,Electrical,Fluid Power Technician,Intermediate,6,Night,Permanent,West India,Workshop,On Rotation
+TECH-0859,Field Service Technician,Hydraulics,OEM-Equivalent Service Training,Junior,3,Evening,Permanent,East India,Field,Active
+TECH-0860,Field Service Technician,Heavy Equipment,OEM-Equivalent Service Training,Junior,2,Evening,Permanent,South India,Field,Active
+TECH-0861,Hydraulic Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,5,Night,Service Partner,West India,Field,Active
+TECH-0862,Hydraulic Technician,Hydraulics,Industrial Safety,Intermediate,8,Night,Permanent,South India,Field,On Rotation
+TECH-0863,Senior Technician,General Maintenance,OEM-Equivalent Service Training,Intermediate,7,Day,Contract,West India,Workshop,Active
+TECH-0864,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Senior,9,Night,Permanent,North India,Workshop,Active
+TECH-0865,Maintenance Technician,General Maintenance,OEM-Equivalent Service Training,Lead,17,Evening,Permanent,East India,Field,Active
+TECH-0866,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,15,Evening,Permanent,North India,Field,Active
+TECH-0867,Workshop Technician,Electrical,Industrial Safety,Senior,13,Night,Permanent,East India,Field,Active
+TECH-0868,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Junior,3,Evening,Permanent,East India,Workshop,On Rotation
+TECH-0869,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,13,Night,Permanent,Central India,Field,Active
+TECH-0870,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 1,Junior,2,Day,Permanent,North India,Workshop,Active
+TECH-0871,Workshop Technician,Heavy Equipment,Industrial Safety,Intermediate,5,Day,Contract,Central India,Field,Active
+TECH-0872,Field Service Technician,Powertrain,OEM-Equivalent Service Training,Intermediate,4,Evening,Contract,Central India,Field,Active
+TECH-0873,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Senior,11,Evening,Permanent,Central India,Field,Active
+TECH-0874,Workshop Technician,Hydraulics,Fluid Power Technician,Senior,9,Day,Permanent,Central India,Field,Active
+TECH-0875,Workshop Technician,Hydraulics,Hydraulic Systems Level 1,Lead,20,Night,Permanent,West India,Workshop,Active
+TECH-0876,Maintenance Technician,Hydraulics,Industrial Safety,Intermediate,6,Evening,Service Partner,South India,Field,On Rotation
+TECH-0877,Workshop Technician,Hydraulics,Fluid Power Technician,Senior,14,Day,Contract,Central India,Field,Active
+TECH-0878,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,6,Night,Permanent,East India,Field,Active
+TECH-0879,Diagnostic Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,11,Day,Contract,North India,Workshop,On Rotation
+TECH-0880,Senior Technician,Heavy Equipment,Industrial Safety,Lead,20,Evening,Contract,South India,Workshop,On Rotation
+TECH-0881,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Senior,11,Evening,Permanent,East India,Field,Active
+TECH-0882,Senior Technician,General Maintenance,Heavy Equipment Maintenance,Senior,13,Night,Service Partner,West India,Workshop,On Rotation
+TECH-0883,Field Service Technician,Powertrain,OEM-Equivalent Service Training,Lead,19,Day,Permanent,Central India,Workshop,Active
+TECH-0884,Workshop Technician,General Maintenance,Heavy Equipment Maintenance,Senior,11,Night,Service Partner,North India,Workshop,Active
+TECH-0885,Diagnostic Technician,General Maintenance,Industrial Safety,Junior,3,Day,Permanent,East India,Field,On Rotation
+TECH-0886,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,9,Day,Permanent,Central India,Workshop,On Rotation
+TECH-0887,Diagnostic Technician,Hydraulics,Industrial Safety,Senior,10,Day,Permanent,East India,Field,Active
+TECH-0888,Workshop Technician,General Maintenance,Industrial Safety,Lead,16,Evening,Permanent,Central India,Field,Active
+TECH-0889,Hydraulic Technician,Heavy Equipment,Industrial Safety,Intermediate,7,Evening,Permanent,South India,Field,On Rotation
+TECH-0890,Field Service Technician,Hydraulics,Fluid Power Technician,Intermediate,6,Day,Permanent,West India,Workshop,On Rotation
+TECH-0891,Senior Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,15,Day,Permanent,Central India,Workshop,Active
+TECH-0892,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,7,Day,Permanent,West India,Field,On Rotation
+TECH-0893,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Senior,9,Night,Permanent,North India,Field,Active
+TECH-0894,Field Service Technician,General Maintenance,Hydraulic Systems Level 1,Lead,18,Day,Permanent,South India,Field,Active
+TECH-0895,Field Service Technician,Electrical,OEM-Equivalent Service Training,Lead,19,Evening,Permanent,Central India,Workshop,Active
+TECH-0896,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Senior,14,Evening,Permanent,South India,Field,On Rotation
+TECH-0897,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,9,Evening,Permanent,East India,Field,Active
+TECH-0898,Diagnostic Technician,General Maintenance,Industrial Safety,Senior,11,Evening,Service Partner,West India,Field,On Rotation
+TECH-0899,Maintenance Technician,Powertrain,OEM-Equivalent Service Training,Junior,1,Day,Permanent,East India,Workshop,Active
+TECH-0900,Maintenance Technician,Electrical,Heavy Equipment Maintenance,Senior,12,Evening,Permanent,East India,Field,On Rotation
+TECH-0901,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 1,Intermediate,5,Night,Permanent,Central India,Field,Active
+TECH-0902,Hydraulic Technician,Hydraulics,Fluid Power Technician,Senior,11,Evening,Permanent,South India,Field,Active
+TECH-0903,Workshop Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,7,Day,Permanent,West India,Field,On Rotation
+TECH-0904,Hydraulic Technician,Heavy Equipment,Industrial Safety,Lead,18,Day,Permanent,North India,Field,Active
+TECH-0905,Senior Technician,Powertrain,Heavy Equipment Maintenance,Intermediate,6,Night,Permanent,North India,Workshop,On Rotation
+TECH-0906,Workshop Technician,Electrical,Hydraulic Systems Level 2,Lead,16,Evening,Permanent,Central India,Field,Active
+TECH-0907,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Senior,11,Day,Service Partner,South India,Field,Active
+TECH-0908,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Lead,19,Night,Contract,North India,Field,Active
+TECH-0909,Maintenance Technician,Powertrain,OEM-Equivalent Service Training,Lead,20,Night,Permanent,East India,Field,Active
+TECH-0910,Maintenance Technician,General Maintenance,OEM-Equivalent Service Training,Lead,16,Night,Permanent,Central India,Field,Active
+TECH-0911,Field Service Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,1,Night,Contract,North India,Workshop,Active
+TECH-0912,Workshop Technician,Hydraulics,Industrial Safety,Junior,1,Evening,Permanent,South India,Field,On Rotation
+TECH-0913,Hydraulic Technician,Heavy Equipment,Industrial Safety,Lead,18,Day,Permanent,East India,Field,On Rotation
+TECH-0914,Maintenance Technician,General Maintenance,Hydraulic Systems Level 1,Lead,20,Evening,Permanent,West India,Field,Active
+TECH-0915,Field Service Technician,Powertrain,Heavy Equipment Maintenance,Intermediate,6,Evening,Permanent,Central India,Workshop,Active
+TECH-0916,Field Service Technician,Electrical,Heavy Equipment Maintenance,Senior,11,Evening,Permanent,Central India,Field,Active
+TECH-0917,Senior Technician,Powertrain,Heavy Equipment Maintenance,Senior,14,Day,Permanent,East India,Field,Active
+TECH-0918,Senior Technician,Hydraulics,OEM-Equivalent Service Training,Intermediate,6,Evening,Permanent,Central India,Field,Active
+TECH-0919,Maintenance Technician,Heavy Equipment,Heavy Equipment Maintenance,Intermediate,5,Night,Permanent,Central India,Field,On Rotation
+TECH-0920,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Senior,9,Evening,Contract,South India,Field,On Rotation
+TECH-0921,Senior Technician,Hydraulics,Heavy Equipment Maintenance,Lead,20,Day,Contract,South India,Field,Active
+TECH-0922,Diagnostic Technician,General Maintenance,Heavy Equipment Maintenance,Intermediate,6,Evening,Permanent,South India,Field,On Rotation
+TECH-0923,Maintenance Technician,Heavy Equipment,Hydraulic Systems Level 2,Senior,10,Night,Service Partner,Central India,Field,Active
+TECH-0924,Maintenance Technician,Hydraulics,Hydraulic Systems Level 1,Lead,19,Night,Permanent,North India,Workshop,Active
+TECH-0925,Maintenance Technician,General Maintenance,Hydraulic Systems Level 2,Lead,15,Day,Contract,East India,Field,Active
+TECH-0926,Maintenance Technician,Hydraulics,OEM-Equivalent Service Training,Lead,17,Evening,Permanent,South India,Workshop,Active
+TECH-0927,Hydraulic Technician,Powertrain,Hydraulic Systems Level 2,Senior,14,Night,Permanent,West India,Field,On Rotation
+TECH-0928,Maintenance Technician,Hydraulics,Fluid Power Technician,Lead,16,Night,Permanent,North India,Workshop,Active
+TECH-0929,Maintenance Technician,General Maintenance,OEM-Equivalent Service Training,Intermediate,6,Night,Service Partner,Central India,Workshop,On Rotation
+TECH-0930,Field Service Technician,Electrical,Hydraulic Systems Level 2,Senior,13,Night,Permanent,North India,Workshop,Active
+TECH-0931,Hydraulic Technician,Heavy Equipment,Fluid Power Technician,Lead,17,Evening,Permanent,West India,Field,Active
+TECH-0932,Workshop Technician,General Maintenance,Hydraulic Systems Level 1,Junior,2,Evening,Contract,Central India,Workshop,Active
+TECH-0933,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Junior,1,Night,Permanent,South India,Workshop,Active
+TECH-0934,Maintenance Technician,Powertrain,Fluid Power Technician,Lead,18,Day,Permanent,North India,Field,On Rotation
+TECH-0935,Senior Technician,Hydraulics,Fluid Power Technician,Senior,13,Night,Permanent,West India,Field,Active
+TECH-0936,Maintenance Technician,General Maintenance,Hydraulic Systems Level 2,Senior,10,Evening,Permanent,Central India,Field,Active
+TECH-0937,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Intermediate,6,Day,Contract,East India,Workshop,On Rotation
+TECH-0938,Diagnostic Technician,Heavy Equipment,Heavy Equipment Maintenance,Junior,2,Day,Permanent,Central India,Workshop,On Rotation
+TECH-0939,Maintenance Technician,Powertrain,Fluid Power Technician,Senior,11,Night,Service Partner,South India,Field,On Rotation
+TECH-0940,Hydraulic Technician,Heavy Equipment,Heavy Equipment Maintenance,Lead,16,Day,Service Partner,South India,Field,Active
+TECH-0941,Maintenance Technician,Powertrain,Fluid Power Technician,Senior,12,Evening,Permanent,Central India,Field,On Rotation
+TECH-0942,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Senior,13,Evening,Contract,East India,Field,On Rotation
+TECH-0943,Diagnostic Technician,Powertrain,Fluid Power Technician,Intermediate,7,Day,Permanent,West India,Workshop,Active
+TECH-0944,Hydraulic Technician,Heavy Equipment,OEM-Equivalent Service Training,Intermediate,6,Night,Service Partner,West India,Workshop,Active
+TECH-0945,Hydraulic Technician,General Maintenance,OEM-Equivalent Service Training,Senior,13,Day,Permanent,Central India,Field,On Rotation
+TECH-0946,Field Service Technician,Powertrain,Fluid Power Technician,Senior,9,Day,Permanent,West India,Workshop,Active
+TECH-0947,Workshop Technician,Hydraulics,Hydraulic Systems Level 1,Senior,10,Evening,Contract,Central India,Field,Active
+TECH-0948,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 1,Junior,3,Day,Contract,North India,Field,On Rotation
+TECH-0949,Senior Technician,Hydraulics,Heavy Equipment Maintenance,Senior,10,Day,Contract,East India,Workshop,Active
+TECH-0950,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Senior,11,Evening,Permanent,South India,Field,On Rotation
+TECH-0951,Maintenance Technician,Heavy Equipment,Industrial Safety,Junior,3,Night,Contract,West India,Field,Active
+TECH-0952,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 1,Intermediate,6,Evening,Permanent,Central India,Field,Active
+TECH-0953,Field Service Technician,General Maintenance,OEM-Equivalent Service Training,Intermediate,7,Evening,Permanent,South India,Field,Active
+TECH-0954,Diagnostic Technician,Heavy Equipment,Industrial Safety,Lead,18,Evening,Service Partner,North India,Workshop,On Rotation
+TECH-0955,Hydraulic Technician,Hydraulics,Hydraulic Systems Level 2,Lead,18,Night,Permanent,South India,Workshop,Active
+TECH-0956,Hydraulic Technician,Hydraulics,Fluid Power Technician,Junior,3,Evening,Permanent,West India,Workshop,Active
+TECH-0957,Maintenance Technician,Electrical,Industrial Safety,Lead,15,Evening,Contract,Central India,Workshop,Active
+TECH-0958,Workshop Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,7,Evening,Service Partner,West India,Workshop,Active
+TECH-0959,Diagnostic Technician,General Maintenance,Industrial Safety,Senior,13,Evening,Permanent,North India,Field,On Rotation
+TECH-0960,Field Service Technician,Hydraulics,Fluid Power Technician,Senior,12,Night,Permanent,East India,Field,Active
+TECH-0961,Workshop Technician,Heavy Equipment,Fluid Power Technician,Senior,14,Night,Contract,South India,Workshop,On Rotation
+TECH-0962,Hydraulic Technician,Powertrain,Heavy Equipment Maintenance,Lead,19,Day,Service Partner,West India,Field,Active
+TECH-0963,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 2,Intermediate,7,Night,Permanent,North India,Field,Active
+TECH-0964,Maintenance Technician,Heavy Equipment,Industrial Safety,Intermediate,4,Night,Permanent,West India,Workshop,Active
+TECH-0965,Workshop Technician,Hydraulics,Fluid Power Technician,Lead,19,Night,Permanent,North India,Field,Active
+TECH-0966,Workshop Technician,Hydraulics,Industrial Safety,Lead,16,Day,Contract,West India,Field,Active
+TECH-0967,Workshop Technician,Powertrain,Industrial Safety,Senior,13,Day,Permanent,South India,Field,On Rotation
+TECH-0968,Field Service Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,8,Evening,Service Partner,South India,Field,Active
+TECH-0969,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Junior,1,Day,Service Partner,West India,Field,Active
+TECH-0970,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Senior,11,Day,Permanent,South India,Workshop,Active
+TECH-0971,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Intermediate,6,Night,Permanent,North India,Workshop,Active
+TECH-0972,Field Service Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,20,Night,Permanent,West India,Field,On Rotation
+TECH-0973,Diagnostic Technician,Hydraulics,Industrial Safety,Junior,2,Day,Permanent,East India,Field,On Rotation
+TECH-0974,Diagnostic Technician,Hydraulics,Hydraulic Systems Level 1,Senior,12,Evening,Permanent,South India,Workshop,Active
+TECH-0975,Maintenance Technician,Powertrain,Industrial Safety,Senior,12,Evening,Permanent,North India,Workshop,Active
+TECH-0976,Workshop Technician,Heavy Equipment,Fluid Power Technician,Intermediate,6,Evening,Permanent,West India,Field,Active
+TECH-0977,Maintenance Technician,Electrical,Heavy Equipment Maintenance,Intermediate,4,Night,Service Partner,West India,Field,On Rotation
+TECH-0978,Workshop Technician,Hydraulics,Heavy Equipment Maintenance,Senior,13,Evening,Permanent,East India,Workshop,Active
+TECH-0979,Diagnostic Technician,Heavy Equipment,Industrial Safety,Lead,18,Day,Contract,East India,Workshop,Active
+TECH-0980,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,20,Day,Permanent,East India,Field,Active
+TECH-0981,Field Service Technician,Hydraulics,Fluid Power Technician,Senior,12,Day,Permanent,Central India,Field,Active
+TECH-0982,Diagnostic Technician,Hydraulics,OEM-Equivalent Service Training,Senior,13,Day,Permanent,East India,Field,Active
+TECH-0983,Senior Technician,Hydraulics,Hydraulic Systems Level 2,Senior,9,Night,Permanent,West India,Workshop,Active
+TECH-0984,Hydraulic Technician,Hydraulics,OEM-Equivalent Service Training,Lead,19,Night,Permanent,West India,Field,Active
+TECH-0985,Field Service Technician,General Maintenance,Fluid Power Technician,Senior,13,Evening,Permanent,West India,Field,Active
+TECH-0986,Workshop Technician,Hydraulics,OEM-Equivalent Service Training,Senior,14,Night,Permanent,West India,Field,On Rotation
+TECH-0987,Field Service Technician,Powertrain,Hydraulic Systems Level 2,Senior,10,Night,Permanent,North India,Workshop,Active
+TECH-0988,Hydraulic Technician,Hydraulics,Industrial Safety,Senior,12,Evening,Permanent,South India,Field,Active
+TECH-0989,Diagnostic Technician,Hydraulics,Industrial Safety,Lead,19,Evening,Service Partner,North India,Field,Active
+TECH-0990,Senior Technician,Heavy Equipment,Hydraulic Systems Level 1,Intermediate,6,Evening,Service Partner,East India,Field,On Rotation
+TECH-0991,Hydraulic Technician,General Maintenance,Hydraulic Systems Level 2,Senior,9,Day,Contract,Central India,Workshop,Active
+TECH-0992,Workshop Technician,Heavy Equipment,Hydraulic Systems Level 1,Lead,16,Day,Contract,South India,Field,Active
+TECH-0993,Senior Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,13,Night,Permanent,West India,Workshop,Active
+TECH-0994,Field Service Technician,Heavy Equipment,OEM-Equivalent Service Training,Senior,13,Evening,Service Partner,East India,Workshop,Active
+TECH-0995,Hydraulic Technician,Heavy Equipment,Hydraulic Systems Level 1,Senior,11,Night,Service Partner,West India,Field,Active
+TECH-0996,Maintenance Technician,Hydraulics,Hydraulic Systems Level 2,Senior,12,Night,Contract,West India,Field,Active
+TECH-0997,Maintenance Technician,Hydraulics,Heavy Equipment Maintenance,Lead,15,Night,Permanent,Central India,Field,Active
+TECH-0998,Diagnostic Technician,Hydraulics,Heavy Equipment Maintenance,Senior,10,Evening,Permanent,East India,Field,Active
+TECH-0999,Senior Technician,Hydraulics,Hydraulic Systems Level 1,Senior,12,Day,Service Partner,Central India,Field,Active
+TECH-1000,Senior Technician,General Maintenance,OEM-Equivalent Service Training,Junior,1,Night,Contract,East India,Field,Active

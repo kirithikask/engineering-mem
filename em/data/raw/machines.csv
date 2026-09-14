@@ -1,0 +1,51 @@
+machine_id,machine_type,brand,model,manufacture_year,operating_hours,location,status
+MC-001,Excavator,Tata Hitachi,EX210,2019,1933,Site-B,Active
+MC-002,Excavator,Tata Hitachi,EX70,2022,2666,Site-C,Active
+MC-003,Excavator,Tata Hitachi,EX130,2017,3399,Site-D,Active
+MC-004,Excavator,Tata Hitachi,EX200,2020,4132,Site-E,Maintenance
+MC-005,Excavator,Caterpillar,320,2023,4865,Site-F,Active
+MC-006,Wheel Loader,Caterpillar,950M,2018,5598,Site-A,Active
+MC-007,Excavator,Caterpillar,336,2021,6331,Site-B,Active
+MC-008,Wheel Loader,Caterpillar,966M,2016,7064,Site-C,Active
+MC-009,Excavator,Komatsu,PC200,2019,7797,Site-D,Maintenance
+MC-010,Wheel Loader,Komatsu,WA320,2022,8530,Site-E,Active
+MC-011,Excavator,Komatsu,PC210,2017,9263,Site-F,Active
+MC-012,Wheel Loader,Komatsu,WA380,2020,9996,Site-A,Active
+MC-013,Backhoe Loader,JCB,3CX,2023,10729,Site-B,Active
+MC-014,Excavator,JCB,JS220,2018,11462,Site-C,Maintenance
+MC-015,Backhoe Loader,JCB,4CX,2021,12195,Site-D,Active
+MC-016,Excavator,JCB,JS130,2016,12928,Site-E,Active
+MC-017,Excavator,Volvo,EC220,2019,13661,Site-F,Active
+MC-018,Wheel Loader,Volvo,L120,2022,1394,Site-A,Active
+MC-019,Excavator,Volvo,EC210,2017,2127,Site-B,Maintenance
+MC-020,Wheel Loader,Volvo,L150,2020,2860,Site-C,Active
+MC-021,Excavator,Hyundai,R210,2023,3593,Site-D,Active
+MC-022,Wheel Loader,Hyundai,HL760,2018,4326,Site-E,Active
+MC-023,Excavator,Hyundai,R220,2021,5059,Site-F,Active
+MC-024,Wheel Loader,Hyundai,HL770,2016,5792,Site-A,Maintenance
+MC-025,Excavator,Liebherr,R924,2019,6525,Site-B,Active
+MC-026,Wheel Loader,Liebherr,L538,2022,7258,Site-C,Active
+MC-027,Excavator,Liebherr,R936,2017,7991,Site-D,Active
+MC-028,Wheel Loader,Liebherr,L546,2020,8724,Site-E,Active
+MC-029,Excavator,Case,CX210,2023,9457,Site-F,Maintenance
+MC-030,Backhoe Loader,Case,580N,2018,10190,Site-A,Active
+MC-031,Excavator,Case,CX220,2021,10923,Site-B,Active
+MC-032,Backhoe Loader,Case,590N,2016,11656,Site-C,Active
+MC-033,Excavator,Doosan,DX225,2019,12389,Site-D,Active
+MC-034,Excavator,Doosan,DX190,2022,13122,Site-E,Maintenance
+MC-035,Excavator,Doosan,DX350,2017,13855,Site-F,Active
+MC-036,Excavator,Kobelco,SK210,2020,1588,Site-A,Active
+MC-037,Excavator,Kobelco,SK220,2023,2321,Site-B,Active
+MC-038,Excavator,Kobelco,SK130,2018,3054,Site-C,Active
+MC-039,Excavator,Sany,SY215,2021,3787,Site-D,Maintenance
+MC-040,Excavator,Sany,SY135,2016,4520,Site-E,Active
+MC-041,Excavator,Sany,SY365,2019,5253,Site-F,Active
+MC-042,Mini Excavator,Kubota,KX080,2022,5986,Site-A,Active
+MC-043,Mini Excavator,Kubota,KX057,2017,6719,Site-B,Active
+MC-044,Mini Excavator,Kubota,U55,2020,7452,Site-C,Maintenance
+MC-045,Excavator,Tata Hitachi,EX210,2023,8185,Site-D,Active
+MC-046,Excavator,Tata Hitachi,EX70,2018,8918,Site-E,Active
+MC-047,Excavator,Tata Hitachi,EX130,2021,9651,Site-F,Active
+MC-048,Excavator,Tata Hitachi,EX200,2016,10384,Site-A,Active
+MC-049,Excavator,Caterpillar,320,2019,11117,Site-B,Maintenance
+MC-050,Wheel Loader,Caterpillar,950M,2022,11850,Site-C,Active
