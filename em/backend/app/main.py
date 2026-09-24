@@ -21,6 +21,18 @@ from backend.app.api.sensors import router as sensors_router
 from backend.app.api.benchmark import router as benchmark_router
 from backend.app.api.memory import router as memory_router
 from backend.app.api.stats import router as stats_router
+
+# Extension routers (ADDITIVE). Each one serves only new paths; no existing
+# route, response shape or behaviour is redefined.
+from backend.app.api.audit import router as audit_router
+from backend.app.api.documents_ext import router as documents_ext_router
+from backend.app.api.ingestion import router as ingestion_router
+from backend.app.api.investigations import router as investigations_router
+from backend.app.api.knowledge import router as knowledge_router
+from backend.app.api.passport import router as passport_router
+from backend.app.api.retrieval import router as retrieval_router
+from backend.app.api.system import router as system_router
+from backend.app.db.extensions import ensure_extension_schema
 from backend.app.db.mysql_client import db
 from backend.app.services.memory_service import memory_service
 from backend.app.services.sensor_service import sensor_service
@@ -69,6 +81,24 @@ app.include_router(benchmark_router)
 app.include_router(memory_router)
 app.include_router(stats_router)
 
+# --- Extension modules: investigations, ingestion, knowledge, retrieval, audit --
+app.include_router(investigations_router)
+app.include_router(ingestion_router)
+app.include_router(documents_ext_router)
+app.include_router(knowledge_router)
+app.include_router(retrieval_router)
+app.include_router(passport_router)
+app.include_router(audit_router)
+app.include_router(system_router)
+
+# Create the additive extension tables (idempotent). A failure here must never
+# stop the original platform from starting, so it is reported and not raised.
+try:
+    EXTENSION_SCHEMA = ensure_extension_schema()
+except Exception as _schema_error:  # pragma: no cover - defensive
+    EXTENSION_SCHEMA = {"error": str(_schema_error)}
+    print(f"[Schema] Extension schema could not be verified: {_schema_error}")
+
 @app.get("/api/health")
 def health_check():
     """Report only what is actually loaded and reachable, with an operator-facing message."""
@@ -94,7 +124,10 @@ def health_check():
             "faiss_index": faiss_ok,
             "qwen_ollama": ollama_ok,
             "sensor_rf_classifier": sensor_ok
-        }
+        },
+        # Additive: reports how the extension schema loaded. Existing keys above
+        # are unchanged for existing clients.
+        "extension_schema": EXTENSION_SCHEMA,
     }
 
 @app.get("/")

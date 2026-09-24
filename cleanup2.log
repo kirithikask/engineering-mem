@@ -1,0 +1,13 @@
+
+Cleaning up records created by this run...
+Purging artifacts left by earlier interrupted acceptance runs...
+  removed document DOC-3C5AA4ED
+  removed document DOC-EFA18836
+  removed document DOC-E774A891
+  removed document DOC-EB1E3B3F
+  removed document DOC-FF5145EF
+  removed knowledge item KN-F4809E62
+  removed conflict CONF-1A095322 (its revisions were deleted)
+Records removed. Rebuilding the vector index so their vectors are dropped too.
+Requesting vector index rebuild...
+  rebuild ok: vectors=4049 dimension=384 took=140.8s

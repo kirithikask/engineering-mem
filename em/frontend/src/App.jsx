@@ -18,6 +18,20 @@ import SensorAnalysis from './pages/SensorAnalysis';
 import Benchmark from './pages/Benchmark';
 import Admin from './pages/Admin';
 
+// Extension modules (ADDITIVE): investigation memory, machine passport, multimodal
+// ingestion, knowledge lifecycle, vector database, data quality and audit trail.
+import Investigations from './pages/Investigations';
+import Investigation from './pages/Investigation';
+import PassportIndex from './pages/PassportIndex';
+import MachinePassport from './pages/MachinePassport';
+import ScanLanding from './pages/ScanLanding';
+import IngestionCenter from './pages/IngestionCenter';
+import ReviewQueue from './pages/ReviewQueue';
+import KnowledgeCenter from './pages/KnowledgeCenter';
+import VectorDatabase from './pages/VectorDatabase';
+import DataQuality from './pages/DataQuality';
+import AuditLog from './pages/AuditLog';
+
 /** Entry route: public landing, or the operator's own home once signed in. */
 function LandingOrHome() {
   const { user } = useAuth();
@@ -71,6 +85,22 @@ export default function App() {
           <Route path="/sensors" element={<Protected><SensorAnalysis /></Protected>} />
           <Route path="/benchmark" element={<Protected><Benchmark /></Protected>} />
           <Route path="/admin" element={<Protected><Admin /></Protected>} />
+
+          {/* Extension routes. Existing routes above are untouched. */}
+          <Route path="/investigations" element={<Protected><Investigations /></Protected>} />
+          <Route path="/investigations/:investigationId" element={<Protected><Investigation /></Protected>} />
+          <Route path="/passport" element={<Protected><PassportIndex /></Protected>} />
+          <Route path="/machines/:machineId/passport" element={<Protected><MachinePassport /></Protected>} />
+          <Route path="/knowledge" element={<Protected><KnowledgeCenter /></Protected>} />
+          <Route path="/review" element={<Protected><ReviewQueue /></Protected>} />
+          <Route path="/ingestion" element={<Protected><IngestionCenter /></Protected>} />
+          <Route path="/vector-db" element={<Protected><VectorDatabase /></Protected>} />
+          <Route path="/data-quality" element={<Protected><DataQuality /></Protected>} />
+          <Route path="/audit" element={<Protected><AuditLog /></Protected>} />
+
+          {/* Public machine-code landing: a scanned QR tag resolves to a real
+              machine id here. Sign-in is still required for the workstation. */}
+          <Route path="/m/:token" element={<ScanLanding />} />
 
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>

@@ -1,0 +1,26 @@
+Acceptance check against http://127.0.0.1:8000 (machine EXC-001)
+
+[PASS] TEST 11 inference is local (no cloud endpoint configured) — endpoint=http://localhost:11434/api/generate loopback=True
+[PASS] TEST 11 offline operation statement present and limits stated — Internet unavailable — local diagnosis remains operational.
+[PASS] TEST 11 edge deployment honestly reported as not implemented — Edge deployment (central engineering memory synchronising to a local edge server running FastAPI, BGE, FAISS and Qwen) is a deployment archi
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+[PASS] TEST 1 upload digital PDF — {"document_id":"DOC-54926C4C","version_id":"VER-10D908E4","job_id":"JOB-9A9F8CE8","document_name":"em_digital_80ec3a.pdf","status":"REVIEW_REQUIRED","version_status":"PENDING_REVIEW","classification":
+[PASS] TEST 1 classification + extraction — kind=digital_pdf, chars=638, method=pymupdf_text
+[PASS] TEST 1 extraction confidence reported with basis — confidence=0.739
+[PASS] TEST 1 chunks persisted to the database — chunks=2 kinds={'text': 2}
+[PASS] TEST 1 approval embeds chunks into FAISS — {"status": "ok", "document_id": "DOC-54926C4C", "version_id": "VER-10D908E4", "revision": "1.0", "version_status": "CURRENT", "superseded": [], "index": {"status": "ok", "added": 2, "skipped": 0, "first_vector_id": 4054,
+[PASS] TEST 1 approved document is retrievable — top=Filter_Service_Bulletin_AX.pdf score=0.8909
+[PASS] TEST 2 scanned PDF handled by local OCR — kind=scanned_pdf
+[PASS] TEST 2 OCR actually extracted readable text — extracted='SERVICE NOTE EXC-001 2¥210\nBoom movement\nslow after tevahours.\nHydraulic\noil temperature 96 degrees\nFilter element re pl'
+[PASS] TEST 3 handwritten/scan sheet classified from real pixels — kind=scanned_sheet signals=['extension=.png', 'size=900x1270', 'near_white_ratio=0.99', 'near_black_ratio=0.00', 'high-key portrait frame with sparse ink -> scanned sheet']
+Traceback (most recent call last):
+  File "D:\emm\em\scripts\acceptance_check.py", line 906, in <module>
+    main()
+    ~~~~^^
+  File "D:\emm\em\scripts\acceptance_check.py", line 889, in main
+    test_3_handwritten_image(http)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\emm\em\scripts\acceptance_check.py", line 262, in test_3_handwritten_image
+    if capabilities.get("ocr_available"):
+       ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'capabilities' where it is not associated with a value

@@ -22,6 +22,25 @@ def get_current_user(authorization: Optional[str] = Header(None)):
         raise HTTPException(status_code=401, detail="Invalid authentication token")
     return payload
 
+def require_role(*roles: str):
+    """Dependency factory for role-scoped endpoints (added for the extension APIs).
+
+    Existing endpoints and the permissive offline default of ``get_current_user``
+    are unchanged; this only gates the new engineering/administration surfaces.
+    """
+    allowed = {role.upper() for role in roles}
+
+    def dependency(user: dict = Depends(get_current_user)):
+        if (user.get("role") or "").upper() not in allowed:
+            raise HTTPException(
+                status_code=403,
+                detail=f"This action requires one of: {', '.join(sorted(allowed))}",
+            )
+        return user
+
+    return dependency
+
+
 @router.post("/login", response_model=TokenResponse)
 def login(req: LoginRequest):
     user = authenticate_user(req.username, req.password)

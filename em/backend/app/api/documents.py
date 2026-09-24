@@ -45,8 +45,53 @@ async def upload_document(
     filename = file.filename or "uploaded_manual.txt"
     name = document_name or filename
     save_path = os.path.join("data/documents", f"{doc_id}_{filename}")
-    
+
     content_bytes = await file.read()
+
+    # Real multimodal pipeline for PDF/DOCX/image/CSV uploads: classification ->
+    # extraction -> confidence -> chunking -> metadata -> review queue. The
+    # response keeps this endpoint's original contract (status / document_id /
+    # document_name / chunks_indexed) and adds the pipeline detail, so existing
+    # callers keep working. If the pipeline cannot run, the original plain-text
+    # behaviour below still executes. Nothing is embedded until an engineer
+    # approves the extraction.
+    try:
+        from backend.app.services.ingestion_service import ingestion_service
+
+        result = ingestion_service.ingest(
+            file_bytes=content_bytes,
+            filename=filename,
+            document_type=document_type,
+            user=user,
+            revision="1.0",
+            source_label="document_upload",
+        )
+        return {
+            "status": "success",
+            "document_id": result["document_id"],
+            "document_name": filename,
+            "chunks_indexed": result["chunks_created"],
+            "version_id": result["version_id"],
+            "job_id": result["job_id"],
+            "document_status": result["status"],
+            "version_status": result["version_status"],
+            "classification": result["classification"],
+            "extraction_confidence": result["confidence"]["extraction_confidence"],
+            "confidence_breakdown": result["confidence"]["confidence_components"],
+            "confidence_basis": result["confidence"]["confidence_basis"],
+            "extraction_method": result["extraction_method"],
+            "metrics": result["metrics"],
+            "chunk_kinds": result["chunk_kinds"],
+            "warnings": result["warnings"],
+            "page_preview": result["page_preview"],
+            "message": (
+                f"{result['chunks_created']} passage(s) stored and queued for review. "
+                "Nothing enters the vector index until the extraction is approved."
+            ),
+        }
+    except Exception as exc:
+        print(f"[Documents] Multimodal pipeline unavailable ({exc}); using plain-text ingestion.")
+
     with open(save_path, "wb") as f:
         f.write(content_bytes)
         

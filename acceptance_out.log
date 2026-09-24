@@ -1,0 +1,46 @@
+Acceptance check against http://127.0.0.1:8000 (machine EXC-001)
+
+[PASS] TEST 11 inference is local (no cloud endpoint configured) — endpoint=http://localhost:11434/api/generate loopback=True
+[PASS] TEST 11 offline operation statement present and limits stated — Internet unavailable — local diagnosis remains operational.
+[PASS] TEST 11 edge deployment honestly reported as not implemented — Edge deployment (central engineering memory synchronising to a local edge server running FastAPI, BGE, FAISS and Qwen) is a deployment archi
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+[PASS] TEST 1 upload digital PDF — {"document_id":"DOC-345AC40C","version_id":"VER-91580FD4","job_id":"JOB-8361F0E3","document_name":"em_digital_a89c85.pdf","status":"REVIEW_REQUIRED","version_status":"PENDING_REVIEW","classification":
+[PASS] TEST 1 classification + extraction — kind=digital_pdf, chars=638, method=pymupdf_text
+[PASS] TEST 1 extraction confidence reported with basis — confidence=0.739
+[PASS] TEST 1 chunks persisted to the database — chunks=2 kinds={'text': 2}
+[PASS] TEST 1 approval embeds chunks into FAISS — {"status": "ok", "document_id": "DOC-345AC40C", "version_id": "VER-91580FD4", "revision": "1.0", "version_status": "CURRENT", "superseded": [], "index": {"status": "ok", "added": 2, "skipped": 0, "first_vector_id": 4049,
+[PASS] TEST 1 approved document is retrievable — top=em_digital_a89c85.pdf score=0.8347
+[PASS] TEST 2 scanned PDF handled by local OCR — kind=scanned_pdf
+[PASS] TEST 3 handwritten/scan sheet classified from real pixels — kind=scanned_sheet signals=['extension=.png', 'size=900x1270', 'near_white_ratio=0.96', 'near_black_ratio=0.00', 'high-key portrait frame with sparse ink -> scanned sheet']
+[PASS] TEST 3 review-ready status is reported without inventing text — status=REVIEW_REQUIRED; OCR available=True
+[PASS] TEST 4 machine passport loads — {"machine":{"machine_id":"EXC-001","machine_model":"ZX210","machine_type":"Hydraulic Excavator","manufacturer":"Tata Hitachi","operating_hours":6842,"status":"Operational","last_maintenance":"2026-08-
+[PASS] TEST 4 passport carries real machine data — machine=ZX210 hours=6842 cases=38
+[PASS] TEST 4 QR image generated locally with resolvable target — https://serial-dispatched-bought-definition.trycloudflare.com/m/MQ-D16E22FD66
+[PASS] TEST 4 scanning the QR resolves to the correct machine — resolved=EXC-001
+[PASS] TEST 6 investigation created — {"investigation":{"investigation_id":"INV-2026-0005","machine_id":"EXC-001","title":"Slow boom and weak digging force","problem_statement":"Slow boom movement and weak digging force, worse when the oi
+[PASS] TEST 6 investigation id + timeline event persisted — id=INV-2026-0005 events=1
+[PASS] TEST 6 finding recorded and evidence re-evaluation ran — sufficiency=sufficient latency=36.75ms
+[PASS] TEST 6 next-best inspection ranked with reasons — snapshot sources=5
+[PASS] TEST 7 adding a finding changes the retrieved evidence set — before=['CHK-5FA26F69', 'CASE-F0A4E0', 'CASE-0517'] after=['CHK-5FA26F69', 'CASE-F0A4E0', 'CASE-0802']
+[PASS] TEST 8 failed repair recorded as a repair attempt — attempt=ATT-D65F2B5D
+[PASS] TEST 8 historical failed attempts surfaced for future diagnosis — Similar historical cases indicate this action was previously attempted without resolving the symptom. This is presented as historical evidence, not as a judgeme
+[PASS] TEST 8 successful repair recorded separately — attempt=ATT-913B9059
+[PASS] TEST 10 verification recorded — {"status":"ok","verification_id":"VRF-53B6DFDF","passed":true,"investigation":{"investigation_id":"INV-2026-0005","machine_id":"EXC-001","title":"Slow boom and 
+[PASS] TEST 10 structured case draft generated — knowledge=KN-6D87F019 failed_attempts=['Hydraulic filter element replaced']
+[PASS] TEST 10 case submitted for expert review — {"status":"ok","item":{"knowledge_id":"KN-6D87F019","title":"EXC slow boom resolved by hydraulic pump replacement","knowledge_type":"case","content":"Machine: E
+[PASS] TEST 10 approval embeds the new case into FAISS — {"status": "ok", "added": 1, "skipped": 0, "first_vector_id": 4051, "vectors": 4052, "dimension": 384, "index_version_id": "IDXV-57C3857E", "embedding_ms": 33.34}
+[PASS] TEST 10 new knowledge is retrievable as evidence — top=[('KN-6D87F019', 0.9045), ('CASE-001', 0.8312), ('CASE-0759', 0.8067)]
+[PASS] TEST 5 photo analysed locally (measured image statistics) — {"available": true, "width": 960, "height": 720, "focus_variance": 17176.12, "mean_brightness": 119.52, "contrast": 28.36, "quality_flags": [], "method": "pixel statistics (Laplacian variance, luminan
+[PASS] TEST 5 uncertain identification is stated, manual selection offered — Component identification uncertain. No local vision model is configured and neither the caption nor the investigation context identifies a single component. Ple
+[PASS] TEST 5 manual component correction accepted — {"status":"ok","photo_id":"PHO-5219C388","component_confirmed":"hydraulic pump"}
+[PASS] TEST 5 labelled photo links to related knowledge — component=hydraulic pump related=5
+[PASS] TEST 9 older revision marked SUPERSEDED, newer is CURRENT — {"2.0": "CURRENT", "1.0": "SUPERSEDED"}
+[PASS] TEST 9 revision conflict detected and both sources retained — open conflicts=1
+[PASS] TEST 9 retrieval prioritises the current revision — current=[0.8838, 0.8218, 0.8213] superseded=[]
+[PASS] TEST 9 superseded evidence is flagged, not hidden — superseded results=0
+[PASS] TEST 12 system refuses to assert a cause without evidence — sufficiency=insufficient causes=0 status=insufficient_evidence
+[PASS] TEST 12 local model was not called for an unsupported diagnosis — llm_ms=0.0
+[PASS] TEST 12 missing information is requested instead — Record measured values for Boom Cylinder (the closest retrieved source concerns it); Record measured values for Boom Cylinder (the closest retrieved source concerns it)
+
+40/40 checks passed
+Clean up the created records with: python scripts/acceptance_check.py --cleanup

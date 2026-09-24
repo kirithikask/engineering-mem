@@ -1,0 +1,13 @@
+Purging artifacts left by earlier interrupted acceptance runs...
+  removed document DOC-345AC40C
+  removed document DOC-81CE204F
+  removed document DOC-395A1166
+  removed document DOC-79D2AE04
+  removed document DOC-6F6CDD52
+  removed document DOC-54926C4C
+  removed document DOC-BE4E7E73
+  removed document DOC-15C93B58
+  removed knowledge item KN-6D87F019
+  removed conflict CONF-D4455658 (its revisions were deleted)
+Requesting vector index rebuild...
+  rebuild ok: vectors=4049 dimension=384 took=73.3s

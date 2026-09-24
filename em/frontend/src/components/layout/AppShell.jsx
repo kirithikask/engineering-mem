@@ -53,13 +53,56 @@ const PAGE_META = {
     title: 'Administration',
     purpose: 'Operators, document ingestion and platform state.',
   },
+  // Extension pages. Entries are additive; existing keys are unchanged.
+  '/investigations': {
+    title: 'Investigations',
+    purpose:
+      'Fault investigations in progress. Every finding re-runs evidence retrieval, and failed attempts are preserved as engineering evidence rather than discarded.',
+  },
+  '/passport': {
+    title: 'Machine Passports',
+    purpose:
+      'Machine identity, service history, documents in scope, open investigations and a scannable access code that resolves to the machine record.',
+  },
+  '/knowledge': {
+    title: 'Knowledge Center',
+    purpose:
+      'Engineering knowledge with its quality level, provenance and review state. Conflicting information is shown from both sources, never merged silently.',
+  },
+  '/review': {
+    title: 'Review Queue',
+    purpose:
+      'Extractions and technician submissions that need an engineer decision. Nothing is embedded into the vector index before it is approved here.',
+  },
+  '/ingestion': {
+    title: 'Ingestion',
+    purpose:
+      'Multimodal document intake: classification, extraction, structuring and confidence assessment, then human review before indexing.',
+  },
+  '/vector-db': {
+    title: 'Vector Database',
+    purpose:
+      'Live FAISS internals, index versions, embedding records and measured retrieval latency, with a retrieval test bench.',
+  },
+  '/data-quality': {
+    title: 'Data Quality',
+    purpose:
+      'Provenance and quality of everything in the knowledge base: quality distribution, extraction confidence, demo-data labelling and documents that could not be read locally.',
+  },
+  '/audit': {
+    title: 'Audit Logs',
+    purpose: 'Append-only record of who did what, against which machine and investigation, with the evidence involved.',
+  },
 };
 
 export default function AppShell({ children }) {
   const location = useLocation();
   const { warnings } = useSystemStatus();
   const meta = PAGE_META[location.pathname] || {};
-  const isMachineDetail = location.pathname.startsWith('/machines/');
+  // Detail routes render their own identity header, so the generic page heading
+  // is suppressed for them (existing behaviour, extended to the new detail pages).
+  const isMachineDetail =
+    location.pathname.startsWith('/machines/') || location.pathname.startsWith('/investigations/');
 
   return (
     <div className="flex min-h-screen flex-col bg-em-paper">
